@@ -1,6 +1,7 @@
 # India Weather Heatmap
 
 Visualize India's temperature trends using weather APIs and heatmaps.
+![version 1.01](image-1.png)
 
 ## Features
 - Current weather data
