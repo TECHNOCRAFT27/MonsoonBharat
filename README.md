@@ -25,6 +25,62 @@ The goal is not just to fetch weather data, but to build a scalable system that 
 ✅ Fault-tolerant API handling
 
 ---
+🎯 Your Current Dataset
+
+Cities:
+385
+
+🐢 Sequential Version
+
+Current speed:
+
+Suppose:
+
+each API request ≈ 1 second average
+plus your sleep(1)
+
+Total:
+385×1≈385 seconds
+
+≈ 6.4 minutes 😭
+
+🚀 Threaded Version
+
+Suppose:
+
+max_workers=5
+
+Means:
+
+5 requests at same time
+🧠 Rough Estimation
+
+Total batches:
+
+5
+385
+	​
+
+=77
+
+≈ 77 rounds
+
+If each round ≈ 1 second:
+
+Total:
+77 seconds
+
+≈ 1.2 minutes 👀🔥
+
+🚀 What About 10 Threads?
+
+10
+385
+	​
+
+=38.5
+
+≈ 40 seconds maybe.
 
 ![alt text](image.png)
 
