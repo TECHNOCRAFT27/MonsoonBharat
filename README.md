@@ -46,41 +46,17 @@ Total:
 
 🚀 Threaded Version
 
-Suppose:
-
-max_workers=5
-
-Means:
-
-5 requests at same time
+Suppose: max_workers=5
+Means: 5 requests at same time
 🧠 Rough Estimation
-
-Total batches:
-
-5
-385
-	​
-
-=77
-
-≈ 77 rounds
+Total batches: 385/5 ≈ 77 rounds
 
 If each round ≈ 1 second:
-
-Total:
-77 seconds
-
-≈ 1.2 minutes 👀🔥
+Total: 77 seconds ≈ 1.2 minutes 👀🔥
 
 🚀 What About 10 Threads?
 
-10
-385
-	​
-
-=38.5
-
-≈ 40 seconds maybe.
+385/10 =38.5 ≈ 40 seconds maybe.
 
 ![alt text](image.png)
 
