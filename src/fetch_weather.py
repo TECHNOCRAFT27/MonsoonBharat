@@ -1,13 +1,11 @@
 # %% # SECTION 01 : Imports
 
+import time
 from concurrent.futures import ThreadPoolExecutor
 from pathlib import Path
-from urllib import response
 
-import requests
 import pandas as pd
-import time
-
+import requests
 
 # %% # SECTION 02 : Project Paths
 
@@ -25,6 +23,7 @@ print(df.head())
 
 # %% SECTION 04 : Fetch Weather Data function
 
+
 def fetch_weather(row):
 
     city = row["city"]
@@ -41,32 +40,27 @@ def fetch_weather(row):
     )
 
     try:
-
         response = requests.get(url, timeout=10)
         response.raise_for_status()
         data = response.json()
 
         temperature = data["current"]["temperature_2m"]
         humidity = data["current"]["relative_humidity_2m"]
-        
+
         print(f"✅ {city} added successfully")
-        
 
-        return{
-
+        return {
             "city": city,
             "latitude": latitude,
             "longitude": longitude,
             "temperature": temperature,
-            "humidity": humidity
-
+            "humidity": humidity,
         }
-        
+
     except Exception as error:
         print(f"❌ Error fetching data for {city}")
         print(error)
         return None
-
 
 
 # %% SECTION 05 : ThreadPoolExecutor
@@ -75,20 +69,15 @@ results = []
 start_time = time.time()
 
 with ThreadPoolExecutor(max_workers=10) as executor:
-    weather_data = executor.map(
-        fetch_weather,
-        [row for index, row in df.iterrows()]
-    )
-
+    weather_data = executor.map(fetch_weather, [row for index, row in df.iterrows()])
 
 
 # %% SECTION 06 : Collect Results
 
 for result in weather_data:
-
     if result is not None:
         results.append(result)
-        
+
 # %% SECTION 06 : Convert Results To DataFrame
 
 weather_df = pd.DataFrame(results)
@@ -101,7 +90,7 @@ print(weather_df.head())
 
 weather_df.to_csv(output_dataset_path, index=False)
 
-#execution time 
+# execution time
 end_time = time.time()
 total_time = end_time - start_time
 
