@@ -1,8 +1,11 @@
 # 🌧️ MonsoonBharat
 
-![alt text](day01.png)
+![alt text](image/day01.png)
+
 
 MonsoonBharat is a climate visualization and weather data engineering project focused entirely on India.
+
+![alt text](image/day06.png)
 
 The goal is not just to fetch weather data, but to build a scalable system that can:
 
@@ -15,6 +18,8 @@ The goal is not just to fetch weather data, but to build a scalable system that 
 ---
 
 ## 🚀 Current Features
+
+![alt text](image/indianisothermalmap.png)
 
 ✅ Real-time weather fetching using Open-Meteo API
 ✅ Multi-city climate data pipeline (385+ Indian cities)
@@ -47,7 +52,9 @@ Total: 77 seconds ≈ 1.2 minutes 👀🔥
 
 385/10 =38.5 ≈ 40 seconds maybe.
 
-![alt text](image.png)
+![alt text](image/threading.png)
+
+
 
 ## 🧠 Tech Stack
 
@@ -71,6 +78,9 @@ Total: 77 seconds ≈ 1.2 minutes 👀🔥
 * ML-based weather forecasting
 
 ---
+
+![alt text](image.png)
+
 
 ## 📊 Project Vision
 
