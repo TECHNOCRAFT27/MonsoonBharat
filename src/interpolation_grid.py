@@ -1,18 +1,26 @@
 # %% # importing libraries
-import pandas as pd
-import numpy as np
-from scipy.interpolate import griddata
 from pathlib import Path
-import matplotlib.pyplot as plt
 import geopandas as gpd
+import matplotlib.pyplot as plt
+import numpy as np
+import pandas as pd
+from scipy.interpolate import griddata
+from shapely.geometry import Point
 
-# %% # defining the path to the dataset
+# %% # Define Project Paths
 Base_dir = Path(__file__).parent.parent
 
 weather_dataset_path = (
     Base_dir / "dataset" / "weather_data.csv"
 )
-# %% # loading the dataset
+
+map_path = (
+    Base_dir
+    / "dataset"
+    / "map"
+    / "ne_110m_admin_0_countries.shp"
+)
+# %% # Load Weather Dataset
 
 weather_df = pd.read_csv(weather_dataset_path)
 
@@ -42,7 +50,7 @@ latitude_range = np.linspace(
 
     latitudes.min(),
     latitudes.max(),
-    100
+    300
 
 )
 
@@ -50,7 +58,7 @@ longitude_range = np.linspace(
 
     longitudes.min(),
     longitudes.max(),
-    100
+    300
 
 )
 
@@ -102,15 +110,6 @@ print(temperature_grid.shape)
 
 # %% #  Load World Map
 
-map_path = (
-
-    Base_dir
-    / "dataset"
-    / "map"
-    / "ne_110m_admin_0_countries.shp"
-
-)
-
 world = gpd.read_file(map_path)
 
 print(world.head())
@@ -126,42 +125,95 @@ india_map = world[
 
 print(india_map)
 
+# %% # extract India polygon
+
+india_polygon = india_map.geometry.iloc[0]
+
+# %% # Create India Mask Grid
+
+mask = np.zeros(
+
+    longitude_grid.shape,
+
+    dtype=bool
+
+)
+
+print(mask.shape)
+
+# %% # Check Every Grid Point
+
+for row_index in range(longitude_grid.shape[0]):
+
+    for column_index in range(longitude_grid.shape[1]):
+
+
+        longitude = longitude_grid[
+
+            row_index,
+            column_index
+
+        ]
+
+
+        latitude = latitude_grid[
+
+            row_index,
+            column_index
+
+        ]
+
+
+        point = Point(
+
+            longitude,
+            latitude
+
+        )
+
+
+        if india_polygon.contains(point):
+
+            mask[
+
+                row_index,
+                column_index
+
+            ] = True
+
+
+
+# %% # Apply India Mask
+
+masked_temperature_grid = np.where(
+
+    mask,
+
+    temperature_grid,
+
+    np.nan
+
+)
+
+print("India Mask Applied ✅")
+
 # %% # Temperature Heatmap
 
+
+# %% # plot temperature heatmap
 fig, ax = plt.subplots(figsize=(12, 8))
 
 heatmap = ax.contourf(
 
     longitude_grid,
     latitude_grid,
-    temperature_grid,
+    masked_temperature_grid,
 
-    levels=100,
+    levels=200,
     cmap="coolwarm"
 
 )
 
-contours = ax.contour(
-
-    longitude_grid,
-    latitude_grid,
-    temperature_grid,
-
-    levels=10,
-    colors="black",
-    linewidths=0.5
-
-)
-
-
-ax.clabel(
-
-    contours,
-
-    inline=True,
-    fontsize=8
-
-)
 
 india_map.boundary.plot(
 
@@ -171,6 +223,65 @@ india_map.boundary.plot(
     linewidth=1
 
 )
+
+#Plot Weather Cities
+ax.scatter(
+
+    longitudes,
+    latitudes,
+
+    color="black",
+
+    s=10,
+
+    label="Weather Cities"
+
+)
+#hot cites
+top_hot_cities = weather_df.sort_values(
+
+    by="temperature",
+    ascending=False
+
+).head(20)
+
+print(top_hot_cities[
+    ["city", "temperature"]
+])
+
+
+for index, row in top_hot_cities.iterrows():
+
+    city_name = row["city"]
+
+    latitude = row["latitude"]
+
+    longitude = row["longitude"]
+
+    temperature = row["temperature"]
+
+
+    ax.text(
+
+    longitude,
+    latitude,
+
+    f"{city_name}\n{temperature}°C",
+
+    fontsize=7,
+
+    color="black",
+
+    bbox=dict(
+        facecolor="white",
+        alpha=0.7,
+        edgecolor="none"
+    )
+
+)
+
+print("\nCity Labels Added ✅")
+
 
 plt.colorbar(
 
@@ -188,7 +299,39 @@ ax.set_ylabel("Latitude")
 
 ax.set_title("India Isothermal Temperature Map")
 
+ax.set_xlim(67, 98)
+
+ax.set_ylim(6, 38)
+
+table_data = top_hot_cities[
+
+    ["city", "temperature"]
+
+].values
+
+
+table = plt.table(
+
+    cellText=table_data,
+
+    colLabels=["City", "Temp °C"],
+
+    cellLoc="center",
+
+    #loc="upper right"
+    
+    bbox=[1.35, 0.05, 0.3, 0.9]
+
+)
+
+
+table.auto_set_font_size(False)
+
+table.set_fontsize(8)
+
+table.scale(1, 1.5)
+
 plt.show()
 
+# %% # 
 
-# %%

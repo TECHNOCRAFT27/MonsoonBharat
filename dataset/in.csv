@@ -1,386 +1,473 @@
-city,lat,lng,country,iso2,admin_name,capital,population,population_proper
-Delhi,28.6600,77.2300,India,IN,Delhi,admin,32226000,16753235
-Mumbai,19.0758,72.8775,India,IN,Mahārāshtra,admin,24973000,12478447
-Kolkāta,22.5675,88.3700,India,IN,West Bengal,admin,21747000,4496694
-Chennai,13.0825,80.2750,India,IN,Tamil Nādu,admin,12395000,6727000
-Hyderābād,17.3617,78.4747,India,IN,Telangāna,admin,10494000,6993262
-Bangalore,12.9791,77.5913,India,IN,Karnātaka,admin,8443675,8443675
-Pune,18.5211,73.8553,India,IN,Mahārāshtra,,8231000,3124458
-Ahmedabad,23.0219,72.5797,India,IN,Gujarāt,minor,8009000,5570585
-Sūrat,21.2050,72.8400,India,IN,Gujarāt,,6538000,4466826
-Prayagraj,25.4500,81.8500,India,IN,Uttar Pradesh,,5954391,5954391
-Kanpur,24.2850,72.6933,India,IN,Gujarāt,,5230000,4581268
-Kanpur,26.4725,80.3311,India,IN,Uttar Pradesh,,4581268,4581268
-Belāhi,25.7167,86.4000,India,IN,Bihār,,4487379,4487379
-Vadodara,22.3000,73.2000,India,IN,Gujarāt,,3500000,1670806
-Nādampālaiyam,11.1793,77.3760,India,IN,Tamil Nādu,,3458045,3458045
-Lucknow,26.8470,80.9470,India,IN,Uttar Pradesh,admin,3382000,3382000
-Kannankulam,10.4799,76.1131,India,IN,Kerala,,3243170,3243170
-Mahuākherāganj,29.1300,78.9500,India,IN,Uttarākhand,,3198982,3198982
-Nagla,29.0100,79.5100,India,IN,Uttarākhand,,3198982,3198982
-Jaipur,26.9150,75.8200,India,IN,Rājasthān,admin,3073350,3073350
-Kottārasshēri,10.6167,76.5333,India,IN,Kerala,,2952254,2952254
-Gorakhpur,22.1688,81.6042,India,IN,Chhattīsgarh,,2500000,1300000
-Nāgpur,21.1497,79.0806,India,IN,Mahārāshtra,,2405665,2405665
-Guwāhāti,26.1806,91.7502,India,IN,Assam,,2376654,962334
-Ghāziābād,28.6667,77.4167,India,IN,Uttar Pradesh,,2375820,2375820
-Coimbatore,11.0008,76.9633,India,IN,Tamil Nādu,,2136916,1601438
-Patna,25.6100,85.1414,India,IN,Bihār,admin,2046652,1684222
-Rājkot,22.2969,70.7984,India,IN,Gujarāt,,2043000,2043000
-Vishākhapatnam,17.6939,83.2922,India,IN,Andhra Pradesh,,2035922,2035922
-Indore,22.7186,75.8550,India,IN,Madhya Pradesh,,1994397,1994397
-Abhepur,30.6667,76.8333,India,IN,Punjab,,1895686,1895686
-Gumānwāla,29.9333,77.9000,India,IN,Uttarākhand,,1890422,1890422
-Thāne,19.1800,72.9633,India,IN,Mahārāshtra,,1886941,1886941
-Bhopāl,23.2500,77.4167,India,IN,Madhya Pradesh,admin,1798218,1798218
-Āgra,27.1800,78.0200,India,IN,Uttar Pradesh,,1760285,1585705
-Peyanvilai,8.5674,78.1046,India,IN,Tamil Nādu,,1750176,1750176
-Pimpri-Chinchwad,18.6278,73.8131,India,IN,Mahārāshtra,,1729320,1729320
-Saundhonwāli,30.3331,77.9608,India,IN,Uttarākhand,,1696694,1696694
-Ludhiāna,30.9083,75.8486,India,IN,Punjab,,1618879,1618879
-Meerut,28.9800,77.7064,India,IN,Uttar Pradesh,,1571434,1571434
-Madurai,9.9197,78.1194,India,IN,Tamil Nādu,minor,1561129,1561129
-Jamshedpur,22.8000,86.1833,India,IN,Jhārkhand,,1558000,1558000
-Nāsik,20.0000,73.7833,India,IN,Mahārāshtra,,1486053,1486053
-Farīdābād,28.4167,77.3000,India,IN,Haryāna,,1404653,1404653
-Madārpur,26.2270,84.6746,India,IN,Bihār,,1367765,1367765
-Najafgarh,28.6125,76.9847,India,IN,Delhi,,1365152,1365152
-Jabalpur,23.1667,79.9333,India,IN,Madhya Pradesh,,1267564,1267564
-Madanpur,29.3260,79.1537,India,IN,Uttarākhand,,1260078,1260078
-Kamalwaganja Gaur,29.2117,79.4654,India,IN,Uttarākhand,,1260078,1260078
-Kalyān,19.2500,73.1500,India,IN,Mahārāshtra,,1246381,1246381
-Āsansol,23.6833,86.9667,India,IN,West Bengal,,1243414,563917
-Vijayavāda,16.5167,80.6167,India,IN,Andhra Pradesh,,1230000,1048240
-Vasai-Virar,19.4700,72.8000,India,IN,Mahārāshtra,,1221233,1221233
-Vārānasi,25.3189,83.0128,India,IN,Uttar Pradesh,,1198491,1198491
-Kalleli,9.2000,76.8833,India,IN,Kerala,,1197412,1197412
-Srīnagar,34.0911,74.8061,India,IN,Jammu and Kashmīr,admin,1180570,1180570
-Aurangābād,19.8800,75.3200,India,IN,Mahārāshtra,,1175116,1175116
-Dhanbād,23.7928,86.4350,India,IN,Jhārkhand,,1162472,1162472
-Amritsar,31.6269,74.8770,India,IN,Punjab,,1159227,1159227
-Hāora,22.5800,88.3294,India,IN,West Bengal,,1077075,1077075
-Rānchi,23.3556,85.3347,India,IN,Jhārkhand,admin,1073440,1073440
-Gwalior,26.2125,78.1775,India,IN,Madhya Pradesh,,1069276,1069276
-Chandīgarh,30.7364,76.7883,India,IN,Chandīgarh,admin,1055450,1055450
-Jodhpur,26.2944,73.0278,India,IN,Rājasthān,,1033918,1033918
-Raipur,21.2379,81.6337,India,IN,Chhattīsgarh,admin,1010087,1010087
-Warangal,17.9756,79.6011,India,IN,Telangāna,,1005938,704570
-Kota,25.1800,75.8300,India,IN,Rājasthān,,1001694,1001694
-Bareilly,28.3640,79.4150,India,IN,Uttar Pradesh,,1000000,1000000
-Trichinopoly,10.8269,78.6928,India,IN,Tamil Nādu,,916857,916857
-Bhayandar,19.3000,72.8500,India,IN,Mahārāshtra,,814655,814655
-Narela,28.8500,77.1000,India,IN,Delhi,,809913,809913
-Thiruvananthapuram,8.4875,76.9525,India,IN,Kerala,admin,743691,743691
-Sahāranpur,29.9640,77.5460,India,IN,Uttar Pradesh,,705478,705478
-Āvadi,13.1147,80.1098,India,IN,Tamil Nādu,,695000,345996
-Salem,11.6500,78.1667,India,IN,Tamil Nādu,,693236,693236
-Kochi,9.9667,76.2833,India,IN,Kerala,,677381,677381
-Gorakhpur,26.7611,83.3667,India,IN,Uttar Pradesh,,673446,673446
-Guntūr,16.3000,80.4500,India,IN,Andhra Pradesh,,670073,647508
-Mangalore,12.8717,74.8425,India,IN,Karnātaka,,623841,623841
-Calicut,11.2478,75.7803,India,IN,Kerala,minor,609224,609224
-Raurkela,22.2492,84.8828,India,IN,Odisha,,552970,552970
-Nellore,14.4333,79.9667,India,IN,Andhra Pradesh,,547621,547621
-Agartala,23.8333,91.2667,India,IN,Tripura,admin,522613,522613
-Ulhāsnagar,19.2167,73.1500,India,IN,Mahārāshtra,,506098,506098
-Gaya,24.7500,85.0167,India,IN,Bihār,,474093,474093
-Ambattūr,13.0983,80.1622,India,IN,Tamil Nādu,,466205,466205
-Salt Lake City,22.6100,88.4000,India,IN,West Bengal,,403316,403316
-Quilon,8.8853,76.5864,India,IN,Kerala,,397419,397419
-Mulangodi,9.0000,76.6167,India,IN,Kerala,,397419,397419
-Bhātpāra,22.8664,88.4011,India,IN,West Bengal,,386019,386019
-Kākināda,16.9333,82.2167,India,IN,Andhra Pradesh,,384182,384182
-Brahmapur,19.3200,84.7800,India,IN,Odisha,,355823,355823
-Rājahmundry,16.9833,81.7833,India,IN,Andhra Pradesh,,341831,341831
-Muzaffarpur,26.1200,85.3833,India,IN,Bihār,,333200,333200
-Trichūr,10.5200,76.2100,India,IN,Kerala,,315596,315596
-Kulti,23.7300,86.8399,India,IN,West Bengal,,313809,313809
-Oulgaret,11.9570,79.7737,India,IN,Tamil Nādu,,300104,300104
-Yelahanka,13.1139,77.5983,India,IN,Karnātaka,,300000,300000
-Bihār,25.2000,85.5200,India,IN,Bihār,,297268,297268
-Darbhanga,26.1570,85.8995,India,IN,Bihār,,296039,296039
-Sonpur,25.6934,85.1718,India,IN,Bihār,,288102,288102
-Chunchura,22.8956,88.4025,India,IN,West Bengal,,288090,288090
-Imphāl,24.8200,93.9500,India,IN,Manipur,admin,268243,268243
-Arrah,25.5631,84.6711,India,IN,Bihār,,261430,261430
-Kollaka,9.2547,76.5883,India,IN,Kerala,,257519,257519
-Amarnāth,19.2090,73.1860,India,IN,Mahārāshtra,,253475,253475
-New Delhi,28.6139,77.2089,India,IN,Delhi,primary,249998,249998
-Tiruvottiyūr,13.1667,80.3000,India,IN,Tamil Nādu,,249446,249446
-Puducherry,11.9300,79.8300,India,IN,Puducherry,admin,244377,244377
-Alleppey,9.4978,76.3286,India,IN,Kerala,,240991,240991
-Katihār,25.5385,87.5704,India,IN,Bihār,,240565,240565
-Alwāl,17.5030,78.5070,India,IN,Telangāna,,240000,240000
-Wāpi,20.3667,72.9000,India,IN,Gujarāt,,230000,230000
-Pallāvaram,12.9677,80.1581,India,IN,Tamil Nādu,,215417,215417
-Secunderābād,17.4500,78.5000,India,IN,Telangāna,,213698,213698
-Monghyr,25.3810,86.4650,India,IN,Bihār,,213303,213303
-Chāpra,25.7808,84.7308,India,IN,Bihār,,212955,201597
-Shimla,31.1033,77.1722,India,IN,Himāchal Pradesh,admin,206575,206575
-Nāngloi Jāt,28.6833,77.0667,India,IN,Delhi,,205596,205596
-Puri,19.8000,85.8167,India,IN,Odisha,,201026,201026
-Nandyāl,15.4800,78.4800,India,IN,Andhra Pradesh,,200516,200516
-Baharampur,24.1000,88.2500,India,IN,West Bengal,,195223,195223
-Mahbūbnagar,16.7333,77.9833,India,IN,Telangāna,,190400,190400
-Murtazābād,28.7111,77.2688,India,IN,Uttar Pradesh,,189117,189117
-Rāiganj,25.6167,88.1167,India,IN,West Bengal,,183612,183612
-Dinapore,25.6333,85.0500,India,IN,Bihār,,182241,182241
-Tambaram,12.8310,80.0459,India,IN,Tamil Nādu,,182071,182071
-Shrīrāmpur,22.7500,88.3400,India,IN,West Bengal,,181842,181842
-Hugli,22.9089,88.3967,India,IN,West Bengal,,179931,179931
-Chandannagar,22.8671,88.3674,India,IN,West Bengal,,166867,166867
-Sultānpur Mazra,28.6906,77.0778,India,IN,Delhi,,163716,163716
-Saharsa,25.8800,86.6000,India,IN,Bihār,,156540,156540
-Krishnanagar,23.4000,88.5000,India,IN,West Bengal,,153062,153062
-Bārākpur,22.7642,88.3776,India,IN,West Bengal,,152783,152783
-Bhālswa Jahangirpur,28.7354,77.1638,India,IN,Delhi,,151427,151427
-Hājīpur,25.6800,85.2200,India,IN,Bihār,,147688,147688
-Malkājgiri,17.4483,78.5292,India,IN,Telangāna,,141175,141175
-Dehri,24.8700,84.1800,India,IN,Bihār,,137231,137231
-Dalūpura,28.6067,77.3189,India,IN,Delhi,,132628,132628
-Mandoli,28.7075,77.3003,India,IN,Delhi,,120417,120417
-Balasore,21.5033,86.9250,India,IN,Odisha,,118162,118162
-Baripāda,21.9350,86.7214,India,IN,Odisha,,116874,116874
-Titāgarh,22.7400,88.3700,India,IN,West Bengal,,116541,116541
-Dam Dam,22.6370,88.4121,India,IN,West Bengal,,114786,114786
-Kaliānpur,26.5191,80.2498,India,IN,Uttar Pradesh,,112014,112014
-Delhi Cantonment,28.5903,77.1319,India,IN,Delhi,,110351,110351
-Khardah,22.7200,88.3800,India,IN,West Bengal,,108496,108496
-Sītāmarhi,26.6000,85.4800,India,IN,Bihār,,106093,106093
-Jamālpur,25.3000,86.5000,India,IN,Bihār,,105221,105221
-Bānsbāria,22.9700,88.4000,India,IN,West Bengal,,103920,103920
-Kalyani,22.9750,88.4344,India,IN,West Bengal,,100575,100575
-Dhuliān,24.6800,87.9700,India,IN,West Bengal,,95706,95706
-Tripunittura,9.9487,76.3464,India,IN,Kerala,,92521,92521
-Pālakollu,16.5160,81.7230,India,IN,Andhra Pradesh,,81199,81199
-Brājarājnagar,21.8200,83.9200,India,IN,Odisha,,80403,80403
-Tanuku,16.7500,81.7000,India,IN,Andhra Pradesh,,77962,77962
-Baj Baj,22.4737,88.1739,India,IN,West Bengal,,76837,76837
-Kodungallūr,10.2200,76.2200,India,IN,Kerala,,70868,70868
-Kalamasseri,10.0614,76.3263,India,IN,Kerala,,70776,70776
-Siuri,23.9167,87.5333,India,IN,West Bengal,,67864,67864
-Tamlūk,22.3000,87.9167,India,IN,West Bengal,,65306,65306
-Poonamallee,13.0465,80.1100,India,IN,Tamil Nādu,,56237,56237
-Mandapeta,16.8700,81.9300,India,IN,Andhra Pradesh,,56063,56063
-Bāruipur,22.3607,88.4323,India,IN,West Bengal,,53128,53128
-Tirupparangunram,9.8815,78.0731,India,IN,Tamil Nādu,,51543,51543
-Karunāgapalli,9.0539,76.5261,India,IN,Kerala,,49604,49604
-Gobārdānga,22.8700,88.7600,India,IN,West Bengal,,45377,45377
-Damān,20.4169,72.8340,India,IN,Dādra and Nagar Haveli and Damān and Diu,admin,44282,44282
-Rāmachandrapuram,16.8500,82.0200,India,IN,Andhra Pradesh,,43657,43657
-Varkkallai,8.7331,76.7169,India,IN,Kerala,,42273,42273
-Diamond Harbour,22.1927,88.1895,India,IN,West Bengal,,41802,41802
-Kendrāparha,20.5000,86.4167,India,IN,Odisha,,41404,41404
-Mayyanād,8.8389,76.6467,India,IN,Kerala,,40039,40039
-Pujali,22.4601,88.1340,India,IN,West Bengal,,37047,37047
-Sānkrāil,22.5700,88.2400,India,IN,West Bengal,,29114,29114
-Kantai,26.2142,85.2975,India,IN,Bihār,,27549,27549
-Nāsriganj,25.0500,84.3333,India,IN,Bihār,,27490,27490
-Elangunnapuzha,10.0167,76.2167,India,IN,Kerala,,26997,26997
-Krishnāpuram,9.1500,76.5000,India,IN,Kerala,,26705,26705
-Māmidālapādu,15.8310,78.0500,India,IN,Andhra Pradesh,,26694,26694
-Dalsingh Sarai,25.6680,85.8364,India,IN,Bihār,,26658,26658
-Pānchla,22.5400,88.1400,India,IN,West Bengal,,26432,26432
-Koelwār,25.5805,84.7975,India,IN,Bihār,,26304,26304
-Bāruni,25.4751,85.9681,India,IN,Bihār,,26117,26117
-Jaynagar-Majilpur,22.1752,88.4201,India,IN,West Bengal,,25922,25922
-Panmana,8.9333,76.6167,India,IN,Kerala,,25607,25607
-Sāhibpur Kamāl,25.4167,86.3901,India,IN,Bihār,,25128,25128
-Edavanakad,10.0150,76.2200,India,IN,Kerala,,24856,24856
-Mahārājgani,26.1075,84.5025,India,IN,Bihār,,24282,24282
-Sundararaopeta,16.8031,81.6419,India,IN,Andhra Pradesh,,24112,24112
-Madappalli,9.0833,76.5333,India,IN,Kerala,,23341,23341
-Alwaye,10.1167,76.3500,India,IN,Kerala,,22428,22428
-Kānke,23.4348,85.3206,India,IN,Jhārkhand,,21650,21650
-Rāja Pākar,25.7350,85.3376,India,IN,Bihār,,21644,21644
-Palliman,8.9000,76.7139,India,IN,Kerala,,20677,20677
-Kandakkadava,9.7000,76.3000,India,IN,Kerala,,20487,20487
-Sohāna,30.6833,76.7000,India,IN,Punjab,,20000,20000
-Khizrpur,30.5843,76.7572,India,IN,Punjab,,19817,19817
-Mahisi,25.8540,86.4690,India,IN,Bihār,,19073,19073
-Mānjha,26.4061,84.5002,India,IN,Bihār,,19011,19011
-Perunturuttu,9.6333,76.5667,India,IN,Kerala,,18691,18691
-Dumjor,22.6400,88.2200,India,IN,West Bengal,,18433,18433
-Ulao,25.4165,86.0936,India,IN,Bihār,,18020,18020
-Vandalūr,12.8924,80.0808,India,IN,Tamil Nādu,,17655,17655
-Lakhnaur,26.2020,86.3090,India,IN,Bihār,,17442,17442
-Cherakara,8.9000,76.5833,India,IN,Kerala,,17342,17342
-Majītha,31.7571,74.9589,India,IN,Punjab,,17149,17149
-Usmānpur,24.7367,87.8676,India,IN,Jhārkhand,,17085,17085
-Khusropur,25.4817,85.3849,India,IN,Bihār,,16109,16109
-Billapādu,16.6356,80.9715,India,IN,Andhra Pradesh,,15223,15223
-Tillor Khurd,22.6170,75.9480,India,IN,Madhya Pradesh,,15000,15000
-Garhpura,25.6638,86.1818,India,IN,Bihār,,14741,14741
-Jamira,25.5535,84.7063,India,IN,Bihār,,13469,13469
-Ayodhyāpattanam,11.6755,78.2409,India,IN,Tamil Nādu,,13122,13122
-Neykkārappatti,11.6225,78.1058,India,IN,Tamil Nādu,,13027,13027
-Bakhtāwarpur,28.8233,77.1717,India,IN,Delhi,,12716,12716
-Pullut,10.3444,76.2333,India,IN,Kerala,,12656,12656
-Desri,25.6691,85.4082,India,IN,Bihār,,12324,12324
-Mugalivakkam,13.0205,80.1653,India,IN,Tamil Nādu,,12083,12083
-Khānpur,25.8572,85.9330,India,IN,Bihār,,12066,12066
-Pākkam,13.1436,80.0280,India,IN,Tamil Nādu,,11509,11509
-Kavaratti,10.5667,72.6167,India,IN,Lakshadweep,admin,11473,11473
-Manappakkam,13.0108,80.1686,India,IN,Tamil Nādu,,11358,11358
-Akola,27.0655,77.8808,India,IN,Uttar Pradesh,,11351,11351
-Nao Kothi,25.5196,86.1954,India,IN,Bihār,,10946,10946
-Panamarattuppatti,11.5620,78.1649,India,IN,Tamil Nādu,,10725,10725
-Begampur,22.7400,88.2400,India,IN,West Bengal,,10487,10487
-Bhawānīpur,26.2385,86.0995,India,IN,Bihār,,9971,9971
-Perumbalam,9.8462,76.3591,India,IN,Kerala,,9733,9733
-Masar,25.5577,84.5767,India,IN,Bihār,,9613,9613
-Kondaparti,17.9219,79.5373,India,IN,Telangāna,,9551,9551
-Hesarghatta,13.1391,77.4783,India,IN,Karnātaka,,9485,9485
-Malaudh,30.6333,75.9356,India,IN,Punjab,,9485,9485
-Māmidipalli,17.2516,78.4521,India,IN,Telangāna,,9236,9236
-Bommayapālaiyam,11.9922,79.8499,India,IN,Tamil Nādu,,8796,8796
-Kampel,22.6167,76.0500,India,IN,Madhya Pradesh,,8780,8780
-Mahadipur,24.8566,88.1248,India,IN,West Bengal,,8638,8638
-Gundūr,10.7339,78.7184,India,IN,Tamil Nādu,,8587,8587
-Nawānagar,25.3861,84.2069,India,IN,Bihār,,8521,8521
-Pachrukhi,26.1593,84.4087,India,IN,Bihār,,8508,8508
-Mannivakkam,12.8884,80.0641,India,IN,Tamil Nādu,,8424,8424
-Palāsgāchi,24.9833,87.9000,India,IN,West Bengal,,8303,8303
-Singhaul,25.4375,86.1000,India,IN,Bihār,,8286,8286
-Ghari,31.5901,75.0526,India,IN,Punjab,,8213,8213
-Sapta,26.3603,86.0565,India,IN,Bihār,,8213,8213
-Harilādih,23.7333,86.4000,India,IN,Jhārkhand,,7917,7917
-Pahleza,24.9378,84.1467,India,IN,Bihār,,7888,7888
-Bhabāt,30.6580,76.8065,India,IN,Punjab,,7743,7743
-Pithauriā,23.5180,85.2918,India,IN,Jhārkhand,,7674,7674
-Hilora,24.5055,87.9661,India,IN,West Bengal,,7667,7667
-Mevalūrkuppam,13.0320,79.9995,India,IN,Tamil Nādu,,7653,7653
-Pālavedu,13.1547,80.0694,India,IN,Tamil Nādu,,7467,7467
-Kādiganahalli,13.1687,77.6283,India,IN,Karnātaka,,7225,7225
-Ballālpur,24.7386,87.9083,India,IN,West Bengal,,7217,7217
-Dhanas,30.7688,76.7541,India,IN,Chandīgarh,,7094,7094
-Jājigrām,24.4724,87.9589,India,IN,West Bengal,,6977,6977
-Imamnagar,24.7450,87.9247,India,IN,West Bengal,,6933,6933
-Mogalcherla,18.0093,79.6613,India,IN,Telangāna,,6922,6922
-Sohiān Kalān,31.7444,74.9163,India,IN,Punjab,,6908,6908
-Maritippa,16.4094,81.8033,India,IN,Andhra Pradesh,,6906,6906
-Vīrapāndi,11.5757,78.0729,India,IN,Tamil Nādu,,6862,6862
-Bhamiān Kalān,30.9191,75.9423,India,IN,Punjab,,6862,6862
-Sahdai Buzurg,25.6622,85.4597,India,IN,Bihār,,6823,6823
-Valasaiyūr,11.7044,78.2513,India,IN,Tamil Nādu,,6565,6565
-Jogta,25.4884,84.7055,India,IN,Bihār,,6498,6498
-Shivni,22.6710,76.1391,India,IN,Madhya Pradesh,,6432,6432
-Daryāpur Kalān,28.7614,76.9842,India,IN,Delhi,,6310,6310
-Sakhara,24.9091,84.1584,India,IN,Bihār,,6256,6256
-Hasanpur,25.7079,86.1920,India,IN,Bihār,,6177,6177
-Dīgnagar,23.3283,88.4469,India,IN,West Bengal,,6023,6023
-Gangauli,24.9361,84.1728,India,IN,Bihār,,5943,5943
-Dehlon,30.7418,75.8444,India,IN,Punjab,,5896,5896
-Giddha,25.5880,84.7472,India,IN,Bihār,,5728,5728
-Valaiyankulam,9.8082,78.0940,India,IN,Tamil Nādu,,5712,5712
-Muria,26.2028,86.0083,India,IN,Bihār,,5594,5594
-Pīpalda,22.5973,76.0415,India,IN,Madhya Pradesh,,5579,5579
-Jandiāli,30.8671,75.9938,India,IN,Punjab,,5361,5361
-Pakharpura,31.7674,75.0945,India,IN,Punjab,,5243,5243
-Kūttambākkam,13.0569,80.0275,India,IN,Tamil Nādu,,5217,5217
-Kambarasampettai,10.8496,78.6754,India,IN,Tamil Nādu,,5178,5178
-Vadāla Jauhal,31.6131,75.0270,India,IN,Punjab,,5159,5159
-Sukkainpatti,11.7156,78.2626,India,IN,Tamil Nādu,,5138,5138
-Bayandhalli,12.9779,77.5688,India,IN,Karnātaka,,5118,5118
-Fatehpur Rājputan,31.6406,75.0024,India,IN,Punjab,,5012,5012
-Bahlolpur,30.7590,76.7034,India,IN,Chandīgarh,,4993,4993
-Bājra,30.9542,75.8771,India,IN,Punjab,,4922,4922
-Makhanwindi,31.6716,75.0074,India,IN,Punjab,,4881,4881
-Sondekoppa,13.0000,77.3667,India,IN,Karnātaka,,4866,4866
-Manauli,30.6444,76.7217,India,IN,Punjab,,4843,4843
-Vellānūr,13.1500,80.1000,India,IN,Tamil Nādu,,4825,4825
-Babura,25.0851,87.1092,India,IN,Bihār,,4755,4755
-Kathu Nangal,31.7262,75.0358,India,IN,Punjab,,4696,4696
-Mādavar,13.0525,77.4732,India,IN,Karnātaka,,4678,4678
-Lola,31.6317,75.0756,India,IN,Punjab,,4646,4646
-Kadabgeri,12.9965,77.4331,India,IN,Karnātaka,,4573,4573
-Keshopur,25.5148,84.6700,India,IN,Bihār,,4559,4559
-Basavanhalli,13.1104,77.3877,India,IN,Karnātaka,,4510,4510
-Putlampalle,14.4522,78.8511,India,IN,Andhra Pradesh,,4490,4490
-Nanmangalam,12.9381,80.1753,India,IN,Tamil Nādu,,4386,4386
-Kahra,25.8661,86.5576,India,IN,Bihār,,4385,4385
-Tildānga,24.7893,87.8765,India,IN,West Bengal,,4378,4378
-Ghawaddi,30.7813,75.8911,India,IN,Punjab,,4320,4320
-Kanej,30.8303,76.0096,India,IN,Punjab,,4201,4201
-Togān,30.7699,76.7336,India,IN,Chandīgarh,,4197,4197
-Jassowāl,30.8039,75.8245,India,IN,Punjab,,4126,4126
-Akālgarh,31.6491,75.0736,India,IN,Punjab,,4093,4093
-Gobardhanpur,24.9493,84.1603,India,IN,Bihār,,4080,4080
-Kair,28.6158,76.9100,India,IN,Delhi,,4074,4074
-Pallippatti,11.7011,78.2428,India,IN,Tamil Nādu,,4066,4066
-Kumbalam,8.9920,76.6621,India,IN,Kerala,,4000,4000
-Sonnappanhalli,13.1557,77.6179,India,IN,Karnātaka,,3996,3996
-Chanditala,22.6909,88.2662,India,IN,West Bengal,,3984,3984
-Agaram,13.0397,80.0808,India,IN,Tamil Nādu,,3949,3949
-Pātapādu,16.5781,80.6652,India,IN,Andhra Pradesh,,3933,3933
-Nawān Pind,31.5397,74.9937,India,IN,Punjab,,3908,3908
-Pallappatti,11.6604,78.1369,India,IN,Tamil Nādu,,3879,3879
-Doddajīvanhalli,13.0086,77.6143,India,IN,Karnātaka,,3792,3792
-Kohāra,30.8674,76.0058,India,IN,Punjab,,3731,3731
-Kolapakkam,12.9142,80.2294,India,IN,Tamil Nādu,,3729,3729
-Permi,22.6204,76.1126,India,IN,Madhya Pradesh,,3697,3697
-Nizāmpur,31.6538,74.9928,India,IN,Punjab,,3696,3696
-Kūllampatti,11.6922,78.2600,India,IN,Tamil Nādu,,3632,3632
-Devi Dāspūr,31.5921,75.0330,India,IN,Punjab,,3557,3557
-Diālpura,30.6395,76.7867,India,IN,Punjab,,3556,3556
-Kasiām,26.1862,86.3110,India,IN,Bihār,,3480,3480
-Mundiān Khurd,30.8940,75.9427,India,IN,Punjab,,3479,3479
-Takkolu,14.4855,78.8797,India,IN,Andhra Pradesh,,3465,3465
-Bhainsaha,24.8951,84.1557,India,IN,Bihār,,3454,3454
-Govindgarh,30.8622,75.9482,India,IN,Punjab,,3446,3446
-Deuriya,24.9530,84.1401,India,IN,Bihār,,3439,3439
-Solankuruni,9.8067,78.1198,India,IN,Tamil Nādu,,3422,3422
-Talwandi Dasondha Singh,31.6827,75.0346,India,IN,Punjab,,3362,3362
-Rāmgarh,30.8739,75.9742,India,IN,Punjab,,3278,3278
-Berkap,24.9444,84.2143,India,IN,Bihār,,3272,3272
-Wattināgulapalli,17.4179,78.2930,India,IN,Telangāna,,3245,3245
-Huttanhalli,13.1651,77.6512,India,IN,Karnātaka,,3240,3240
-Suara,25.0361,84.2620,India,IN,Bihār,,3234,3234
-Shankar,30.7667,75.8833,India,IN,Punjab,,3216,3216
-Dahāur,24.9146,84.1360,India,IN,Bihār,,3186,3186
-Abdāl,31.7428,75.0792,India,IN,Punjab,,3170,3170
-Katār,24.8818,84.1511,India,IN,Bihār,,3149,3149
-Bhutta,30.7644,75.9109,India,IN,Punjab,,3128,3128
-Sotur,34.0403,75.0738,India,IN,Jammu and Kashmīr,,3115,3115
-Sasrāli,30.9810,75.9432,India,IN,Punjab,,2981,2981
-Sora,34.1336,74.8017,India,IN,Jammu and Kashmīr,,2967,2967
-Cāchohalli,13.0010,77.4717,India,IN,Karnātaka,,2946,2946
-Mangat,30.9800,75.9144,India,IN,Punjab,,2934,2934
-Bhanguān,31.7984,74.9501,India,IN,Punjab,,2880,2880
-Kasgatpur,13.1101,77.5045,India,IN,Karnātaka,,2852,2852
-Rānipur,24.7442,87.8686,India,IN,West Bengal,,2844,2844
-Bhagwānpur,25.8601,85.2997,India,IN,Bihār,,2840,2840
-Kot Gangūra,30.8625,76.0919,India,IN,Punjab,,2838,2838
-Gāgilāpur,17.6000,78.4000,India,IN,Telangāna,,2832,2832
-Kitanelli,13.0095,77.4191,India,IN,Karnātaka,,2827,2827
-Tendua Dusādhi,24.9427,84.1299,India,IN,Bihār,,2770,2770
-Bhanguān,31.5947,75.0629,India,IN,Punjab,,2740,2740
-Dhurali,30.6432,76.7032,India,IN,Punjab,,2691,2691
-Chinnanūr,11.6875,78.2262,India,IN,Tamil Nādu,,2688,2688
-Bendravādi,12.3636,76.9137,India,IN,Karnātaka,,2684,2684
-Umedpur,30.8122,75.9626,India,IN,Punjab,,2666,2666
-Bhainīāla,30.8727,76.0690,India,IN,Punjab,,2654,2654
-Chogawān,31.6667,75.1000,India,IN,Punjab,,2614,2614
-Nedumadurai,9.7959,78.0867,India,IN,Tamil Nādu,,2593,2593
-Kodagihalli,12.9771,77.4651,India,IN,Karnātaka,,2585,2585
-Qila Jīwan Singh,31.6182,74.9740,India,IN,Punjab,,2583,2583
-Mota Mazra,30.6214,76.7250,India,IN,Punjab,,2563,2563
-Mailanhalli,13.1863,77.6963,India,IN,Karnātaka,,2543,2543
-Jotsema,25.6736,94.0625,India,IN,Nāgāland,,2458,2458
-Paddi,30.7931,75.9352,India,IN,Punjab,,2457,2457
-Khānāpur,17.4007,78.3008,India,IN,Telangāna,,2451,2451
-Mangli Tānda,30.9804,75.9671,India,IN,Punjab,,2439,2439
-Lāndrān,30.6946,76.6651,India,IN,Punjab,,2434,2434
-Talwandi Dogrān,31.6091,74.9988,India,IN,Punjab,,2430,2430
-Bholāpur,30.8898,75.9469,India,IN,Punjab,,2420,2420
-Ghonghaha,24.9011,84.1404,India,IN,Bihār,,2398,2398
-Gadli,31.6051,75.0722,India,IN,Punjab,,2389,2389
-Kaler Māngat,31.7306,74.9911,India,IN,Punjab,,2383,2383
-Laprān,30.7548,75.9322,India,IN,Punjab,,2383,2383
-Rājankunti,13.1721,77.5637,India,IN,Karnātaka,,2376,2376
-Hurka,24.9280,84.2086,India,IN,Bihār,,2376,2376
-Dhenupāli,21.4480,83.9910,India,IN,Odisha,,2369,2369
-Pethkūt,33.9791,74.6090,India,IN,Jammu and Kashmīr,,2333,2333
-Bilgāh,30.8119,75.9868,India,IN,Punjab,,2331,2331
-Kūrri,30.6044,76.7430,India,IN,Punjab,,2325,2325
-Dispur,26.1500,91.7700,India,IN,Assam,admin,,
+,city,state,country,lat,lng,localtime,tz_id,last_updated,temp_c,condition,wind_mph,wind_degree,wind_dir,pressure_mb,pressure_in,precip_mm,precip_in,humidity,cloud,feelslike_c,vis_km,uv,gust_mph
+0,Abohar,Punjab,India,30.15,74.18,2023-07-22 10:23,Asia/Kolkata,2023-07-22 10:15,36.9,"['Patchy rain possible', 1063, '//cdn.weatherapi.com/weather/64x64/day/176.png']",5.8,156,SSE,1002.0,29.6,0.4,0.02,43,78,43.1,9.0,8.0,8.7
+1,Achalpur,Maharashtra,India,21.26,77.51,2023-07-22 10:23,Asia/Kolkata,2023-07-22 10:15,27.6,"['Light rain shower', 1240, '//cdn.weatherapi.com/weather/64x64/day/353.png']",4.3,347,NNW,1002.0,29.59,0.2,0.01,80,100,31.5,10.0,6.0,5.8
+2,Adilabad,Andhra Pradesh,India,19.67,78.53,2023-07-22 10:23,Asia/Kolkata,2023-07-22 10:15,23.9,"['Moderate rain', 1189, '//cdn.weatherapi.com/weather/64x64/day/302.png']",14.3,272,W,1003.0,29.62,7.0,0.28,94,92,26.4,7.0,5.0,19.0
+3,Adityapur,,Bangladesh,23.2,90.12,2023-07-22 10:53,Asia/Dhaka,2023-07-22 10:45,30.8,"['Overcast', 1009, '//cdn.weatherapi.com/weather/64x64/day/122.png']",15.9,134,SE,1007.0,29.74,0.0,0.0,75,98,38.3,10.0,7.0,18.8
+4,Adoni,Andhra Pradesh,India,15.63,77.28,2023-07-22 10:23,Asia/Kolkata,2023-07-22 10:15,25.5,"['Partly cloudy', 1003, '//cdn.weatherapi.com/weather/64x64/day/116.png']",19.9,265,W,1008.0,29.77,0.0,0.0,72,60,27.3,10.0,7.0,25.1
+5,Agartala,Tripura,India,23.84,91.28,2023-07-22 10:23,Asia/Kolkata,2023-07-22 10:15,34.0,"['Partly cloudy', 1003, '//cdn.weatherapi.com/weather/64x64/day/116.png']",5.6,130,SE,1008.0,29.77,0.0,0.0,60,50,43.3,6.0,8.0,7.8
+6,Agra,Uttar Pradesh,India,27.18,78.02,2023-07-22 10:23,Asia/Kolkata,2023-07-22 10:15,37.8,"['Partly cloudy', 1003, '//cdn.weatherapi.com/weather/64x64/day/116.png']",13.4,121,ESE,1003.0,29.61,0.0,0.0,40,47,43.7,10.0,9.0,15.4
+7,Ahmadabad,Herat,Afghanistan,34.25,62.42,2023-07-22 9:23,Asia/Kabul,2023-07-22 09:15,32.7,"['Sunny', 1000, '//cdn.weatherapi.com/weather/64x64/day/113.png']",13.9,32,NNE,1005.0,29.69,0.0,0.0,14,0,30.5,10.0,8.0,15.9
+8,Ahmadnagar,Maharashtra,India,19.08,74.73,2023-07-22 10:23,Asia/Kolkata,2023-07-22 10:15,22.1,"['Light rain', 1183, '//cdn.weatherapi.com/weather/64x64/day/296.png']",14.5,263,W,1006.0,29.72,1.1,0.04,91,100,24.6,9.0,5.0,18.6
+9,Aizawl,Mizoram,India,23.72,92.72,2023-07-22 10:23,Asia/Kolkata,2023-07-22 10:15,25.0,"['Patchy rain possible', 1063, '//cdn.weatherapi.com/weather/64x64/day/176.png']",2.2,329,NNW,1009.0,29.79,0.5,0.02,90,76,27.8,9.0,6.0,2.0
+10,Ajmer,Rajasthan,India,26.45,74.63,2023-07-22 10:23,Asia/Kolkata,2023-07-22 10:15,32.4,"['Patchy rain possible', 1063, '//cdn.weatherapi.com/weather/64x64/day/176.png']",3.4,334,NNW,1004.0,29.64,0.1,0.0,59,75,37.8,10.0,7.0,4.0
+11,Akbarpur,Uttar Pradesh,India,26.38,79.95,2023-07-22 10:23,Asia/Kolkata,2023-07-22 10:15,36.9,"['Patchy rain possible', 1063, '//cdn.weatherapi.com/weather/64x64/day/176.png']",15.7,90,E,1003.0,29.61,0.1,0.0,43,81,43.1,10.0,8.0,18.6
+12,Akola,Maharashtra,India,20.73,77.0,2023-07-22 10:23,Asia/Kolkata,2023-07-22 10:15,23.7,"['Moderate rain', 1189, '//cdn.weatherapi.com/weather/64x64/day/302.png']",12.8,297,WNW,1002.0,29.6,4.3,0.17,97,100,26.3,7.0,5.0,18.8
+13,Alandur,Tamil Nadu,India,13.0,80.21,2023-07-22 10:23,Asia/Kolkata,2023-07-22 10:15,32.0,"['Mist', 1030, '//cdn.weatherapi.com/weather/64x64/day/143.png']",15.0,240,WSW,1006.0,29.71,0.0,0.0,63,75,34.0,5.0,8.0,21.9
+14,Alappuzha,Kerala,India,9.49,76.33,2023-07-22 10:23,Asia/Kolkata,2023-07-22 10:15,27.5,"['Patchy rain possible', 1063, '//cdn.weatherapi.com/weather/64x64/day/176.png']",10.1,294,WNW,1013.0,29.92,0.2,0.01,82,80,31.5,9.0,6.0,14.1
+15,Aligarh,Uttar Pradesh,India,27.88,78.08,2023-07-22 10:23,Asia/Kolkata,2023-07-22 10:15,36.0,"['Partly cloudy', 1003, '//cdn.weatherapi.com/weather/64x64/day/116.png']",14.1,121,ESE,1004.0,29.64,0.0,0.0,48,50,42.7,10.0,9.0,16.1
+16,Allahabad,Uttar Pradesh,India,25.45,81.85,2023-07-22 10:23,Asia/Kolkata,2023-07-22 10:15,35.3,"['Overcast', 1009, '//cdn.weatherapi.com/weather/64x64/day/122.png']",16.3,91,E,1003.0,29.62,0.0,0.0,50,100,42.0,10.0,8.0,19.0
+17,Alwar,Rajasthan,India,27.57,76.6,2023-07-22 10:23,Asia/Kolkata,2023-07-22 10:15,34.7,"['Cloudy', 1006, '//cdn.weatherapi.com/weather/64x64/day/119.png']",8.3,127,SE,1003.0,29.62,0.0,0.0,51,63,40.9,10.0,7.0,9.8
+18,Ambala,Haryana,India,30.38,76.78,2023-07-22 10:23,Asia/Kolkata,2023-07-22 10:15,29.4,"['Light rain shower', 1240, '//cdn.weatherapi.com/weather/64x64/day/353.png']",17.4,115,ESE,1005.0,29.69,0.4,0.02,73,100,34.2,10.0,6.0,25.1
+19,Ambala,,Bangladesh,22.95,90.08,2023-07-22 10:53,Asia/Dhaka,2023-07-22 10:45,30.8,"['Overcast', 1009, '//cdn.weatherapi.com/weather/64x64/day/122.png']",15.9,134,SE,1007.0,29.74,0.0,0.0,75,98,38.3,10.0,7.0,18.8
+20,Ambarnath,Maharashtra,India,19.2,73.17,2023-07-22 10:23,Asia/Kolkata,2023-07-22 10:15,26.0,"['Moderate rain at times', 1186, '//cdn.weatherapi.com/weather/64x64/day/299.png']",11.9,290,WNW,1006.0,29.71,1.9,0.07,100,100,30.0,1.5,5.0,11.0
+21,Ambattur,Tamil Nadu,India,13.08,80.09,2023-07-22 10:23,Asia/Kolkata,2023-07-22 10:15,32.0,"['Mist', 1030, '//cdn.weatherapi.com/weather/64x64/day/143.png']",15.0,240,WSW,1006.0,29.71,0.0,0.0,63,75,33.2,5.0,8.0,21.7
+22,Ambikapur,Chhattisgarh,India,23.12,83.2,2023-07-22 10:23,Asia/Kolkata,2023-07-22 10:15,29.9,"['Light rain shower', 1240, '//cdn.weatherapi.com/weather/64x64/day/353.png']",8.3,110,ESE,1003.0,29.63,0.2,0.01,65,89,33.9,10.0,6.0,10.5
+23,Ambur,Tamil Nadu,India,12.78,78.7,2023-07-22 10:23,Asia/Kolkata,2023-07-22 10:15,30.5,"['Partly cloudy', 1003, '//cdn.weatherapi.com/weather/64x64/day/116.png']",21.9,265,W,1009.0,29.8,0.0,0.0,47,48,31.8,10.0,8.0,25.3
+24,Amravati,Maharashtra,India,20.93,77.75,2023-07-22 10:23,Asia/Kolkata,2023-07-22 10:15,25.7,"['Light rain shower', 1240, '//cdn.weatherapi.com/weather/64x64/day/353.png']",4.3,223,SW,1002.0,29.59,1.0,0.04,90,100,29.0,10.0,6.0,7.2
+25,Amreli,Gujarat,India,21.62,71.23,2023-07-22 10:23,Asia/Kolkata,2023-07-22 10:15,28.6,"['Cloudy', 1006, '//cdn.weatherapi.com/weather/64x64/day/119.png']",10.5,278,W,1005.0,29.67,0.0,0.0,77,86,33.1,10.0,6.0,13.2
+26,Amritsar,Punjab,India,31.63,74.87,2023-07-22 10:23,Asia/Kolkata,2023-07-22 10:15,26.0,"['Moderate or heavy rain with thunder', 1276, '//cdn.weatherapi.com/weather/64x64/day/389.png']",9.4,70,ENE,1007.0,29.74,0.5,0.02,94,100,27.4,3.0,7.0,19.9
+27,Amroha,Uttar Pradesh,India,28.92,78.47,2023-07-22 10:23,Asia/Kolkata,2023-07-22 10:15,30.0,"['Light rain shower', 1240, '//cdn.weatherapi.com/weather/64x64/day/353.png']",15.7,95,E,1006.0,29.7,0.4,0.02,73,71,35.6,10.0,7.0,22.6
+28,Anand,Gujarat,India,22.57,72.93,2023-07-22 10:23,Asia/Kolkata,2023-07-22 10:15,29.5,"['Light rain shower', 1240, '//cdn.weatherapi.com/weather/64x64/day/353.png']",9.2,275,W,1004.0,29.64,0.4,0.02,77,100,35.3,10.0,6.0,13.9
+29,Anantapur,Andhra Pradesh,India,14.68,77.6,2023-07-22 10:23,Asia/Kolkata,2023-07-22 10:15,27.2,"['Cloudy', 1006, '//cdn.weatherapi.com/weather/64x64/day/119.png']",24.2,270,W,1009.0,29.78,0.0,0.0,63,81,28.8,10.0,6.0,27.7
+30,Anantnag,Jammu and Kashmir,India,33.73,75.15,2023-07-22 10:23,Asia/Kolkata,2023-07-22 10:15,21.8,"['Patchy rain possible', 1063, '//cdn.weatherapi.com/weather/64x64/day/176.png']",3.6,262,W,1008.0,29.76,0.3,0.01,66,83,21.8,9.0,5.0,5.8
+31,Arrah,Vallee du Bandama,Cote d'Ivoire,6.67,-3.97,2023-07-22 4:53,Africa/Abidjan,2023-07-22 04:45,21.5,"['Fog', 1135, '//cdn.weatherapi.com/weather/64x64/night/248.png']",4.5,219,SW,1016.0,29.99,0.0,0.0,98,100,21.5,0.0,1.0,6.9
+32,Asansol,West Bengal,India,23.68,86.98,2023-07-22 10:23,Asia/Kolkata,2023-07-22 10:15,32.3,"['Thundery outbreaks possible', 1087, '//cdn.weatherapi.com/weather/64x64/day/200.png']",15.4,103,ESE,1005.0,29.68,0.1,0.0,64,68,39.1,9.0,7.0,19.5
+33,Ashoknagar,Madhya Pradesh,India,24.57,77.72,2023-07-22 10:23,Asia/Kolkata,2023-07-22 10:15,33.4,"['Partly cloudy', 1003, '//cdn.weatherapi.com/weather/64x64/day/116.png']",13.4,73,ENE,1003.0,29.6,0.0,0.0,52,44,38.1,10.0,8.0,15.4
+34,Aurangabad,Maharashtra,India,19.88,75.33,2023-07-22 10:23,Asia/Kolkata,2023-07-22 10:15,21.9,"['Light rain', 1183, '//cdn.weatherapi.com/weather/64x64/day/296.png']",17.9,269,W,1005.0,29.67,2.2,0.09,95,100,21.9,9.0,5.0,24.2
+35,Aurangabad,Maharashtra,India,19.88,75.33,2023-07-22 10:23,Asia/Kolkata,2023-07-22 10:15,21.9,"['Light rain', 1183, '//cdn.weatherapi.com/weather/64x64/day/296.png']",17.9,269,W,1005.0,29.67,2.2,0.09,95,100,21.9,9.0,5.0,24.2
+36,Avadi,Tamil Nadu,India,13.12,80.1,2023-07-22 10:23,Asia/Kolkata,2023-07-22 10:15,32.0,"['Mist', 1030, '//cdn.weatherapi.com/weather/64x64/day/143.png']",15.0,240,WSW,1006.0,29.71,0.0,0.0,63,75,33.2,5.0,8.0,21.5
+37,Azamgarh,Uttar Pradesh,India,26.06,83.19,2023-07-22 10:23,Asia/Kolkata,2023-07-22 10:15,34.8,"['Overcast', 1009, '//cdn.weatherapi.com/weather/64x64/day/122.png']",18.3,103,ESE,1004.0,29.65,0.0,0.0,50,100,40.8,10.0,7.0,21.0
+38,Badlapur,Maharashtra,India,19.15,73.27,2023-07-22 10:23,Asia/Kolkata,2023-07-22 10:15,26.0,"['Moderate rain at times', 1186, '//cdn.weatherapi.com/weather/64x64/day/299.png']",11.9,290,WNW,1006.0,29.71,2.0,0.08,100,100,30.3,1.5,5.0,7.8
+39,Bagaha,Bihar,India,27.1,84.08,2023-07-22 10:23,Asia/Kolkata,2023-07-22 10:15,34.4,"['Cloudy', 1006, '//cdn.weatherapi.com/weather/64x64/day/119.png']",18.6,107,ESE,1006.0,29.71,0.0,0.0,53,71,40.8,10.0,7.0,21.5
+40,Bagalkot,Karnataka,India,16.18,75.7,2023-07-22 10:23,Asia/Kolkata,2023-07-22 10:15,22.8,"['Cloudy', 1006, '//cdn.weatherapi.com/weather/64x64/night/119.png']",17.2,255,WSW,1007.0,29.74,0.0,0.0,84,83,25.0,10.0,1.0,23.7
+41,Bahadurgarh,Haryana,India,28.68,76.92,2023-07-22 10:23,Asia/Kolkata,2023-07-22 10:15,32.0,"['Mist', 1030, '//cdn.weatherapi.com/weather/64x64/day/143.png']",9.4,110,ESE,1007.0,29.74,0.0,0.0,75,75,33.9,3.5,9.0,17.7
+42,Baharampur,West Bengal,India,24.1,88.25,2023-07-22 10:23,Asia/Kolkata,2023-07-22 10:15,32.6,"['Overcast', 1009, '//cdn.weatherapi.com/weather/64x64/day/122.png']",15.0,117,ESE,1006.0,29.7,0.0,0.0,65,99,40.1,10.0,7.0,17.7
+43,Bahraich,Uttar Pradesh,India,27.58,81.6,2023-07-22 10:23,Asia/Kolkata,2023-07-22 10:15,34.6,"['Partly cloudy', 1003, '//cdn.weatherapi.com/weather/64x64/day/116.png']",20.1,109,ESE,1005.0,29.68,0.0,0.0,53,53,41.1,10.0,8.0,23.0
+44,Baidyabati,West Bengal,India,22.79,88.32,2023-07-22 10:23,Asia/Kolkata,2023-07-22 10:15,32.0,"['Moderate or heavy rain with thunder', 1276, '//cdn.weatherapi.com/weather/64x64/day/389.png']",10.5,90,E,1005.0,29.68,0.0,0.0,75,75,38.5,2.8,7.0,16.6
+45,Baleshwar,Orissa,India,21.49,86.93,2023-07-22 10:23,Asia/Kolkata,2023-07-22 10:15,30.0,"['Light rain shower', 1240, '//cdn.weatherapi.com/weather/64x64/day/353.png']",13.4,143,SE,1004.0,29.65,1.6,0.06,78,100,36.8,10.0,7.0,27.5
+46,Ballia,Bihar,India,25.75,84.17,2023-07-22 10:23,Asia/Kolkata,2023-07-22 10:15,34.3,"['Overcast', 1009, '//cdn.weatherapi.com/weather/64x64/day/122.png']",19.0,104,ESE,1005.0,29.66,0.0,0.0,53,100,40.5,10.0,7.0,21.9
+47,Bally,West Bengal,India,22.65,88.34,2023-07-22 10:23,Asia/Kolkata,2023-07-22 10:15,32.0,"['Moderate or heavy rain with thunder', 1276, '//cdn.weatherapi.com/weather/64x64/day/389.png']",10.5,90,E,1005.0,29.68,0.2,0.01,75,75,39.1,2.8,7.0,18.3
+48,Bally Bally,Western Australia,Australia,-32.17,117.1,2023-07-22 12:53,Australia/Perth,2023-07-22 12:45,15.0,"['Sunny', 1000, '//cdn.weatherapi.com/weather/64x64/day/113.png']",4.7,49,NE,1034.0,30.53,0.0,0.0,64,0,14.9,10.0,5.0,5.4
+49,Balurghat,West Bengal,India,25.22,88.77,2023-07-22 10:53,Asia/Dhaka,2023-07-22 10:45,31.0,"['Cloudy', 1006, '//cdn.weatherapi.com/weather/64x64/day/119.png']",13.2,95,E,1007.0,29.75,0.0,0.0,70,70,37.3,10.0,7.0,15.2
+50,Bandarlampung,Lampung,Indonesia,-5.43,105.26,2023-07-22 11:53,Asia/Jakarta,2023-07-22 11:45,30.7,"['Sunny', 1000, '//cdn.weatherapi.com/weather/64x64/day/113.png']",3.1,73,ENE,1014.0,29.93,0.0,0.0,61,22,34.6,10.0,8.0,3.6
+51,Bankura,West Bengal,India,23.25,87.07,2023-07-22 10:23,Asia/Kolkata,2023-07-22 10:15,32.3,"['Light rain shower', 1240, '//cdn.weatherapi.com/weather/64x64/day/353.png']",15.4,112,ESE,1005.0,29.67,0.2,0.01,63,69,38.9,10.0,7.0,20.4
+52,Jalkar Bansberia,,Bangladesh,24.62,88.25,2023-07-22 10:54,Asia/Dhaka,2023-07-22 10:45,31.7,"['Patchy rain possible', 1063, '//cdn.weatherapi.com/weather/64x64/day/176.png']",15.0,111,ESE,1007.0,29.73,0.1,0.0,68,100,38.7,10.0,7.0,17.7
+53,Banswara,Rajasthan,India,23.55,74.45,2023-07-22 10:24,Asia/Kolkata,2023-07-22 10:15,26.9,"['Light rain shower', 1240, '//cdn.weatherapi.com/weather/64x64/day/353.png']",8.7,281,WNW,1004.0,29.65,0.3,0.01,86,69,30.8,10.0,6.0,12.3
+54,Baranagar,West Bengal,India,22.64,88.37,2023-07-22 10:24,Asia/Kolkata,2023-07-22 10:15,32.0,"['Moderate or heavy rain with thunder', 1276, '//cdn.weatherapi.com/weather/64x64/day/389.png']",10.5,90,E,1005.0,29.68,0.2,0.01,75,75,39.3,2.8,7.0,18.1
+55,Baranagar,West Bengal,India,22.64,88.37,2023-07-22 10:24,Asia/Kolkata,2023-07-22 10:15,32.0,"['Moderate or heavy rain with thunder', 1276, '//cdn.weatherapi.com/weather/64x64/day/389.png']",10.5,90,E,1005.0,29.68,0.2,0.01,75,75,39.3,2.8,7.0,18.1
+56,Barasat,West Bengal,India,22.68,88.44,2023-07-22 10:24,Asia/Kolkata,2023-07-22 10:15,32.0,"['Moderate or heavy rain with thunder', 1276, '//cdn.weatherapi.com/weather/64x64/day/389.png']",10.5,90,E,1005.0,29.68,0.1,0.0,75,75,39.3,2.8,7.0,17.4
+57,Baraut,Uttar Pradesh,India,29.1,77.27,2023-07-22 10:24,Asia/Kolkata,2023-07-22 10:15,30.1,"['Partly cloudy', 1003, '//cdn.weatherapi.com/weather/64x64/day/116.png']",15.7,106,ESE,1005.0,29.68,0.0,0.0,74,40,36.1,10.0,8.0,19.9
+58,Barddhaman,West Bengal,India,23.24,87.87,2023-07-22 10:24,Asia/Kolkata,2023-07-22 10:15,33.1,"['Light rain shower', 1240, '//cdn.weatherapi.com/weather/64x64/day/353.png']",14.3,119,ESE,1005.0,29.68,0.2,0.01,61,66,40.1,10.0,7.0,18.6
+59,Bareilly,Uttar Pradesh,India,28.35,79.42,2023-07-22 10:24,Asia/Kolkata,2023-07-22 10:15,30.6,"['Patchy rain possible', 1063, '//cdn.weatherapi.com/weather/64x64/day/176.png']",10.7,83,E,1006.0,29.7,0.2,0.01,70,77,36.5,9.0,7.0,14.5
+60,Baripada,Orissa,India,21.94,86.72,2023-07-22 10:24,Asia/Kolkata,2023-07-22 10:15,29.8,"['Light rain shower', 1240, '//cdn.weatherapi.com/weather/64x64/day/353.png']",11.0,138,SE,1004.0,29.66,1.1,0.04,80,100,36.7,10.0,6.0,20.6
+61,Barnala,Punjab,India,30.38,75.55,2023-07-22 10:24,Asia/Kolkata,2023-07-22 10:15,31.0,"['Patchy rain possible', 1063, '//cdn.weatherapi.com/weather/64x64/day/176.png']",13.0,116,ESE,1004.0,29.65,0.1,0.0,68,67,36.9,10.0,7.0,16.1
+62,Barshi,Martvilis Raioni,Georgia,43.05,42.52,2023-07-22 8:54,Asia/Tbilisi,2023-07-22 08:45,18.7,"['Sunny', 1000, '//cdn.weatherapi.com/weather/64x64/day/113.png']",2.2,199,SSW,1017.0,30.03,0.0,0.0,89,16,18.7,10.0,5.0,0.2
+63,Basirhat,West Bengal,India,22.66,88.89,2023-07-22 10:24,Asia/Kolkata,2023-07-22 10:15,32.0,"['Moderate or heavy rain with thunder', 1276, '//cdn.weatherapi.com/weather/64x64/day/389.png']",10.5,90,E,1005.0,29.68,0.3,0.01,75,75,40.7,2.8,7.0,18.1
+64,Basti,Uttar Pradesh,India,26.8,82.72,2023-07-22 10:24,Asia/Kolkata,2023-07-22 10:15,34.7,"['Overcast', 1009, '//cdn.weatherapi.com/weather/64x64/day/122.png']",19.0,101,ESE,1005.0,29.67,0.0,0.0,51,100,41.0,10.0,7.0,21.9
+65,Batala,Punjab,India,31.82,75.2,2023-07-22 10:24,Asia/Kolkata,2023-07-22 10:15,26.0,"['Moderate or heavy rain with thunder', 1276, '//cdn.weatherapi.com/weather/64x64/day/389.png']",9.4,70,ENE,1007.0,29.74,0.7,0.03,94,100,28.1,3.0,7.0,20.8
+66,Beawar,Rajasthan,India,26.1,74.32,2023-07-22 10:24,Asia/Kolkata,2023-07-22 10:15,32.3,"['Partly cloudy', 1003, '//cdn.weatherapi.com/weather/64x64/day/116.png']",5.1,331,NNW,1004.0,29.64,0.0,0.0,59,41,37.7,10.0,8.0,5.8
+67,Begusarai,Bihar,India,25.42,86.13,2023-07-22 10:24,Asia/Kolkata,2023-07-22 10:15,34.0,"['Overcast', 1009, '//cdn.weatherapi.com/weather/64x64/day/122.png']",18.1,103,ESE,1005.0,29.69,0.0,0.0,55,100,40.6,10.0,7.0,21.0
+68,Belgaum,Karnataka,India,15.87,74.5,2023-07-22 10:24,Asia/Kolkata,2023-07-22 10:15,22.4,"['Patchy rain possible', 1063, '//cdn.weatherapi.com/weather/64x64/day/176.png']",17.0,261,W,1010.0,29.82,0.1,0.0,85,93,24.7,10.0,5.0,20.6
+69,Bellary,Karnataka,India,15.15,76.93,2023-07-22 10:24,Asia/Kolkata,2023-07-22 10:15,25.8,"['Cloudy', 1006, '//cdn.weatherapi.com/weather/64x64/day/119.png']",20.8,267,W,1009.0,29.79,0.0,0.0,69,75,27.5,10.0,6.0,23.9
+70,Bengaluru,Karnataka,India,12.98,77.58,2023-07-22 10:24,Asia/Kolkata,2023-07-22 10:15,26.0,"['Partly cloudy', 1003, '//cdn.weatherapi.com/weather/64x64/day/116.png']",13.6,250,WSW,1013.0,29.91,0.0,0.0,84,75,27.2,8.0,5.0,25.7
+71,Bettiah,Bihar,India,26.8,84.5,2023-07-22 10:24,Asia/Kolkata,2023-07-22 10:15,30.5,"['Partly cloudy', 1003, '//cdn.weatherapi.com/weather/64x64/night/116.png']",13.2,100,E,1004.0,29.65,0.0,0.0,66,28,35.3,10.0,1.0,19.2
+72,Betul,Madhya Pradesh,India,21.86,77.93,2023-07-22 10:24,Asia/Kolkata,2023-07-22 10:15,25.3,"['Light rain shower', 1240, '//cdn.weatherapi.com/weather/64x64/day/353.png']",7.4,309,NW,1003.0,29.6,0.5,0.02,92,100,28.4,10.0,6.0,11.4
+73,Bhadrak,Orissa,India,21.05,86.52,2023-07-22 10:24,Asia/Kolkata,2023-07-22 10:15,31.8,"['Light rain shower', 1240, '//cdn.weatherapi.com/weather/64x64/day/353.png']",10.1,131,SE,1003.0,29.63,0.9,0.04,67,100,38.7,10.0,7.0,18.3
+74,Bhadravati,Karnataka,India,13.87,75.72,2023-07-22 10:24,Asia/Kolkata,2023-07-22 10:15,24.4,"['Patchy rain possible', 1063, '//cdn.weatherapi.com/weather/64x64/day/176.png']",17.9,262,W,1011.0,29.86,0.1,0.0,78,100,26.3,10.0,5.0,21.9
+75,Bhadreswar,West Bengal,India,22.82,88.35,2023-07-22 10:24,Asia/Kolkata,2023-07-22 10:15,32.0,"['Moderate or heavy rain with thunder', 1276, '//cdn.weatherapi.com/weather/64x64/night/389.png']",10.5,90,E,1005.0,29.68,0.1,0.0,75,75,46.8,2.8,1.0,13.9
+76,Bhagalpur,Bihar,India,25.25,87.0,2023-07-22 10:24,Asia/Kolkata,2023-07-22 10:15,33.7,"['Cloudy', 1006, '//cdn.weatherapi.com/weather/64x64/day/119.png']",16.3,104,ESE,1006.0,29.7,0.0,0.0,58,85,40.7,10.0,7.0,19.0
+77,Pur Pur,La Libertad,Peru,-7.71,-77.78,2023-07-21 23:54,America/Lima,2023-07-21 23:45,5.6,"['Clear', 1000, '//cdn.weatherapi.com/weather/64x64/night/113.png']",5.6,91,E,1023.0,30.21,0.0,0.0,85,19,3.6,10.0,1.0,11.6
+78,Bharatpur,Rajasthan,India,27.22,77.48,2023-07-22 10:24,Asia/Kolkata,2023-07-22 10:15,38.0,"['Partly cloudy', 1003, '//cdn.weatherapi.com/weather/64x64/day/116.png']",13.9,125,SE,1003.0,29.6,0.0,0.0,40,27,44.3,10.0,9.0,15.9
+79,Bharuch,Gujarat,India,21.7,72.97,2023-07-22 10:24,Asia/Kolkata,2023-07-22 10:15,26.3,"['Light rain shower', 1240, '//cdn.weatherapi.com/weather/64x64/day/353.png']",8.3,229,SW,1005.0,29.66,1.4,0.06,93,100,30.5,10.0,6.0,14.8
+80,Bhatpara,West Bengal,India,22.87,88.41,2023-07-22 10:24,Asia/Kolkata,2023-07-22 10:15,32.0,"['Moderate or heavy rain with thunder', 1276, '//cdn.weatherapi.com/weather/64x64/day/389.png']",10.5,90,E,1005.0,29.68,0.1,0.0,75,75,38.4,2.8,7.0,17.2
+81,Bhavnagar,Gujarat,India,21.77,72.15,2023-07-22 10:24,Asia/Kolkata,2023-07-22 10:15,28.4,"['Light rain shower', 1240, '//cdn.weatherapi.com/weather/64x64/day/353.png']",10.7,263,W,1005.0,29.66,0.2,0.01,80,95,33.2,10.0,6.0,14.1
+82,Bhilai,Chhattisgarh,India,21.22,81.43,2023-07-22 10:24,Asia/Kolkata,2023-07-22 10:15,27.5,"['Overcast', 1009, '//cdn.weatherapi.com/weather/64x64/day/122.png']",8.1,168,SSE,1003.0,29.62,0.0,0.0,79,100,31.1,10.0,6.0,9.6
+83,Bhilwara,Rajasthan,India,25.35,74.63,2023-07-22 10:24,Asia/Kolkata,2023-07-22 10:15,32.1,"['Sunny', 1000, '//cdn.weatherapi.com/weather/64x64/day/113.png']",8.1,13,NNE,1003.0,29.62,0.0,0.0,60,15,37.5,10.0,8.0,9.8
+84,Bhimavaram,Andhra Pradesh,India,16.53,81.53,2023-07-22 10:24,Asia/Kolkata,2023-07-22 10:15,28.5,"['Cloudy', 1006, '//cdn.weatherapi.com/weather/64x64/day/119.png']",10.7,265,W,1006.0,29.69,0.0,0.0,67,64,31.4,10.0,6.0,14.5
+85,Bhind,Madhya Pradesh,India,26.56,78.79,2023-07-22 10:24,Asia/Kolkata,2023-07-22 10:15,37.5,"['Sunny', 1000, '//cdn.weatherapi.com/weather/64x64/day/113.png']",13.9,101,ESE,1003.0,29.61,0.0,0.0,42,18,43.7,10.0,9.0,15.9
+86,Bhiwandi,Maharashtra,India,19.3,73.07,2023-07-22 10:24,Asia/Kolkata,2023-07-22 10:15,26.0,"['Moderate rain at times', 1186, '//cdn.weatherapi.com/weather/64x64/day/299.png']",11.9,290,WNW,1006.0,29.71,2.0,0.08,100,100,29.9,1.5,6.0,12.3
+87,Bhiwani,Haryana,India,28.78,76.13,2023-07-22 10:24,Asia/Kolkata,2023-07-22 10:15,36.8,"['Sunny', 1000, '//cdn.weatherapi.com/weather/64x64/day/113.png']",16.6,130,SE,1003.0,29.61,0.0,0.0,43,17,42.7,10.0,9.0,19.0
+88,Bhopal,Madhya Pradesh,India,23.27,77.4,2023-07-22 10:24,Asia/Kolkata,2023-07-22 10:15,29.0,"['Partly cloudy', 1003, '//cdn.weatherapi.com/weather/64x64/day/116.png']",5.6,90,E,1005.0,29.68,0.4,0.02,84,75,31.8,6.0,7.0,15.2
+89,Bhubaneswar,,Bangladesh,23.83,89.95,2023-07-22 10:54,Asia/Dhaka,2023-07-22 10:45,31.2,"['Overcast', 1009, '//cdn.weatherapi.com/weather/64x64/day/122.png']",16.6,133,SE,1007.0,29.74,0.0,0.0,72,100,38.5,10.0,7.0,19.0
+90,Bhuj,Gujarat,India,23.27,69.67,2023-07-22 10:24,Asia/Kolkata,2023-07-22 10:15,30.9,"['Overcast', 1009, '//cdn.weatherapi.com/weather/64x64/day/122.png']",12.5,264,W,1004.0,29.64,0.0,0.0,66,88,36.3,10.0,7.0,14.3
+91,Bhusawal,Maharashtra,India,21.05,75.77,2023-07-22 10:24,Asia/Kolkata,2023-07-22 10:15,23.7,"['Moderate or heavy rain shower', 1243, '//cdn.weatherapi.com/weather/64x64/day/356.png']",13.4,281,WNW,1003.0,29.63,4.3,0.17,98,100,26.4,7.0,5.0,22.1
+92,Block Island State Airport,Block Island,United States of America,41.17,-71.58,2023-07-22 0:54,America/New_York,2023-07-22 00:45,22.0,"['Overcast', 1009, '//cdn.weatherapi.com/weather/64x64/night/122.png']",4.3,200,SSW,1007.0,29.74,0.5,0.02,94,100,24.5,16.0,1.0,13.2
+93,Bidar,Karnataka,India,17.9,77.55,2023-07-22 10:24,Asia/Kolkata,2023-07-22 10:15,21.9,"['Light drizzle', 1153, '//cdn.weatherapi.com/weather/64x64/day/266.png']",16.8,257,WSW,1006.0,29.72,0.6,0.02,90,100,21.9,2.0,5.0,24.2
+94,Nagar,,Bangladesh,22.93,90.17,2023-07-22 10:54,Asia/Dhaka,2023-07-22 10:45,30.8,"['Overcast', 1009, '//cdn.weatherapi.com/weather/64x64/day/122.png']",15.9,134,SE,1007.0,29.74,0.0,0.0,75,98,38.3,10.0,7.0,18.8
+95,Bijapur,Karnataka,India,16.83,75.7,2023-07-22 10:24,Asia/Kolkata,2023-07-22 10:15,22.6,"['Light drizzle', 1153, '//cdn.weatherapi.com/weather/64x64/day/266.png']",19.5,260,W,1008.0,29.78,0.5,0.02,84,78,24.8,2.0,5.0,26.4
+96,Bikaner,Rajasthan,India,28.02,73.3,2023-07-22 10:24,Asia/Kolkata,2023-07-22 10:15,36.1,"['Sunny', 1000, '//cdn.weatherapi.com/weather/64x64/day/113.png']",4.0,233,SW,1002.0,29.59,0.0,0.0,47,21,42.8,10.0,9.0,4.7
+97,Bilaspur,Chhattisgarh,India,22.08,82.15,2023-07-22 10:24,Asia/Kolkata,2023-07-22 10:15,30.5,"['Light rain shower', 1240, '//cdn.weatherapi.com/weather/64x64/day/353.png']",7.4,145,SE,1003.0,29.61,0.2,0.01,67,98,35.4,10.0,7.0,9.6
+98,Bokaro,Jharkhand,India,23.78,85.97,2023-07-22 10:24,Asia/Kolkata,2023-07-22 10:15,31.0,"['Light rain shower', 1240, '//cdn.weatherapi.com/weather/64x64/day/353.png']",16.3,103,ESE,1005.0,29.68,0.7,0.03,68,100,36.9,10.0,7.0,27.7
+99,Bongaon,West Bengal,India,23.07,88.82,2023-07-22 10:24,Asia/Kolkata,2023-07-22 10:15,32.0,"['Moderate or heavy rain with thunder', 1276, '//cdn.weatherapi.com/weather/64x64/day/389.png']",10.5,90,E,1005.0,29.68,0.2,0.01,75,75,39.4,2.8,7.0,18.3
+100,Botad,Gujarat,India,22.17,71.67,2023-07-22 10:24,Asia/Kolkata,2023-07-22 10:15,29.7,"['Light rain shower', 1240, '//cdn.weatherapi.com/weather/64x64/day/353.png']",11.2,279,W,1004.0,29.65,0.2,0.01,74,75,35.1,10.0,6.0,14.5
+101,Brahmapur,,Bangladesh,22.85,91.0,2023-07-22 10:54,Asia/Dhaka,2023-07-22 10:45,30.2,"['Partly cloudy', 1003, '//cdn.weatherapi.com/weather/64x64/day/116.png']",15.2,147,SSE,1008.0,29.77,0.0,0.0,72,48,35.9,10.0,8.0,17.4
+102,Budaun,Uttar Pradesh,India,28.05,79.12,2023-07-22 10:24,Asia/Kolkata,2023-07-22 10:15,33.0,"['Partly cloudy', 1003, '//cdn.weatherapi.com/weather/64x64/day/116.png']",12.8,102,ESE,1005.0,29.67,0.0,0.0,57,46,38.7,10.0,8.0,15.9
+103,Bulandshahr,Uttar Pradesh,India,28.4,77.85,2023-07-22 10:24,Asia/Kolkata,2023-07-22 10:15,34.6,"['Partly cloudy', 1003, '//cdn.weatherapi.com/weather/64x64/day/116.png']",16.3,116,ESE,1004.0,29.65,0.0,0.0,54,44,41.8,10.0,8.0,18.8
+104,Bundi,Rajasthan,India,25.44,75.64,2023-07-22 10:24,Asia/Kolkata,2023-07-22 10:15,35.7,"['Sunny', 1000, '//cdn.weatherapi.com/weather/64x64/day/113.png']",8.1,34,NE,1002.0,29.59,0.0,0.0,48,19,42.2,10.0,9.0,9.2
+105,Burari,Borno,Nigeria,11.47,13.77,2023-07-22 5:54,Africa/Lagos,2023-07-22 05:45,24.3,"['Patchy rain possible', 1063, '//cdn.weatherapi.com/weather/64x64/day/176.png']",7.4,217,SW,1013.0,29.91,0.1,0.0,79,89,26.2,10.0,1.0,13.6
+106,Burhanpur,Madhya Pradesh,India,21.3,76.23,2023-07-22 10:24,Asia/Kolkata,2023-07-22 10:15,25.1,"['Light rain shower', 1240, '//cdn.weatherapi.com/weather/64x64/day/353.png']",10.5,280,W,1003.0,29.62,1.7,0.07,93,100,28.2,10.0,6.0,18.6
+107,Buxar,Bihar,India,25.58,83.98,2023-07-22 10:25,Asia/Kolkata,2023-07-22 10:15,34.7,"['Overcast', 1009, '//cdn.weatherapi.com/weather/64x64/day/122.png']",18.8,101,ESE,1004.0,29.65,0.0,0.0,51,100,40.7,10.0,7.0,21.7
+108,Champdani,West Bengal,India,22.8,88.37,2023-07-22 10:25,Asia/Kolkata,2023-07-22 10:15,32.0,"['Moderate or heavy rain with thunder', 1276, '//cdn.weatherapi.com/weather/64x64/night/389.png']",10.5,90,E,1005.0,29.68,0.0,0.0,75,75,46.7,2.8,1.0,14.1
+109,Chandannagar,West Bengal,India,22.87,88.38,2023-07-22 10:25,Asia/Kolkata,2023-07-22 10:15,32.0,"['Moderate or heavy rain with thunder', 1276, '//cdn.weatherapi.com/weather/64x64/day/389.png']",10.5,90,E,1005.0,29.68,0.1,0.0,75,75,38.4,2.8,7.0,17.2
+110,Chandausi,Uttar Pradesh,India,28.45,78.77,2023-07-22 10:25,Asia/Kolkata,2023-07-22 10:15,31.7,"['Light rain shower', 1240, '//cdn.weatherapi.com/weather/64x64/day/353.png']",13.4,97,E,1005.0,29.69,0.2,0.01,64,74,37.7,10.0,7.0,18.1
+111,Chandigarh,Chandigarh,India,30.74,76.79,2023-07-22 10:25,Asia/Kolkata,2023-07-22 10:15,26.8,"['Light rain shower', 1240, '//cdn.weatherapi.com/weather/64x64/day/353.png']",10.3,93,E,1006.0,29.7,2.0,0.08,84,74,30.4,10.0,6.0,19.2
+112,Chandrapur,Maharashtra,India,19.95,79.3,2023-07-22 10:25,Asia/Kolkata,2023-07-22 10:15,24.2,"['Light rain shower', 1240, '//cdn.weatherapi.com/weather/64x64/day/353.png']",12.3,249,WSW,1003.0,29.6,0.6,0.02,95,100,26.9,10.0,5.0,17.9
+113,Chapra,,Bangladesh,22.55,89.18,2023-07-22 10:55,Asia/Dhaka,2023-07-22 10:45,31.0,"['Thundery outbreaks possible', 1087, '//cdn.weatherapi.com/weather/64x64/day/200.png']",13.2,135,SE,1006.0,29.71,0.0,0.0,73,77,38.2,9.0,7.0,15.4
+114,Chas,Jharkhand,India,23.63,86.17,2023-07-22 10:25,Asia/Kolkata,2023-07-22 10:15,31.4,"['Light rain shower', 1240, '//cdn.weatherapi.com/weather/64x64/day/353.png']",17.0,103,ESE,1005.0,29.67,0.7,0.03,67,100,37.5,10.0,7.0,28.4
+115,Chennai,Tamil Nadu,India,13.08,80.28,2023-07-22 10:25,Asia/Kolkata,2023-07-22 10:15,32.0,"['Mist', 1030, '//cdn.weatherapi.com/weather/64x64/day/143.png']",15.0,240,WSW,1006.0,29.71,0.0,0.0,63,75,34.4,5.0,8.0,21.7
+116,Chhattarpur,Delhi,India,28.5,77.18,2023-07-22 10:25,Asia/Kolkata,2023-07-22 10:15,32.0,"['Mist', 1030, '//cdn.weatherapi.com/weather/64x64/day/143.png']",9.4,110,ESE,1007.0,29.74,0.0,0.0,75,75,34.5,3.5,8.0,16.8
+117,Chhindwara,Madhya Pradesh,India,22.07,78.93,2023-07-22 10:25,Asia/Kolkata,2023-07-22 10:15,24.7,"['Patchy rain possible', 1063, '//cdn.weatherapi.com/weather/64x64/night/176.png']",6.0,59,ENE,1001.0,29.55,0.4,0.02,88,74,27.1,9.0,1.0,11.0
+118,Chikmagalur,Karnataka,India,13.32,75.78,2023-07-22 10:25,Asia/Kolkata,2023-07-22 10:15,22.1,"['Patchy rain possible', 1063, '//cdn.weatherapi.com/weather/64x64/day/176.png']",16.6,265,W,1012.0,29.88,0.1,0.0,77,67,24.6,10.0,5.0,19.9
+119,Chitradurga,Karnataka,India,14.23,76.4,2023-07-22 10:25,Asia/Kolkata,2023-07-22 10:15,24.3,"['Overcast', 1009, '//cdn.weatherapi.com/weather/64x64/day/122.png']",25.1,268,W,1010.0,29.84,0.0,0.0,71,100,26.0,10.0,5.0,29.1
+120,Chittaurgarh,Rajasthan,India,24.88,74.63,2023-07-22 10:25,Asia/Kolkata,2023-07-22 10:15,33.4,"['Patchy rain possible', 1063, '//cdn.weatherapi.com/weather/64x64/day/176.png']",8.3,33,NNE,1003.0,29.62,0.2,0.01,56,79,39.3,9.0,7.0,10.7
+121,Chittoor,Andhra Pradesh,India,13.2,79.12,2023-07-22 10:25,Asia/Kolkata,2023-07-22 10:15,32.5,"['Partly cloudy', 1003, '//cdn.weatherapi.com/weather/64x64/day/116.png']",19.7,273,W,1008.0,29.78,0.0,0.0,41,45,34.0,10.0,8.0,22.6
+122,Churu,Rajasthan,India,28.3,74.95,2023-07-22 10:25,Asia/Kolkata,2023-07-22 10:15,37.4,"['Sunny', 1000, '//cdn.weatherapi.com/weather/64x64/day/113.png']",3.6,53,NE,1002.0,29.59,0.0,0.0,41,16,43.4,10.0,9.0,4.0
+123,Coimbatore,Tamil Nadu,India,10.99,76.96,2023-07-22 10:25,Asia/Kolkata,2023-07-22 10:15,29.0,"['Partly cloudy', 1003, '//cdn.weatherapi.com/weather/64x64/day/116.png']",8.1,270,W,1011.0,29.85,0.0,0.0,66,50,30.2,6.0,7.0,18.3
+124,Cuddalore,Tamil Nadu,India,11.75,79.75,2023-07-22 10:25,Asia/Kolkata,2023-07-22 10:15,32.3,"['Sunny', 1000, '//cdn.weatherapi.com/weather/64x64/day/113.png']",15.9,284,WNW,1009.0,29.79,0.0,0.0,47,14,34.7,10.0,8.0,20.6
+125,Cuttack,Orissa,India,20.5,85.83,2023-07-22 10:25,Asia/Kolkata,2023-07-22 10:15,29.0,"['Mist', 1030, '//cdn.weatherapi.com/weather/64x64/day/143.png']",8.1,110,ESE,1004.0,29.65,0.6,0.02,84,50,32.1,5.0,7.0,13.0
+126,Pura Pura,La Paz,Bolivia,-16.48,-68.17,2023-07-22 0:55,America/La_Paz,2023-07-22 00:45,2.1,"['Clear', 1000, '//cdn.weatherapi.com/weather/64x64/night/113.png']",2.5,90,E,1021.0,30.15,0.0,0.0,68,4,1.3,10.0,1.0,5.1
+127,Damoh,Madhya Pradesh,India,23.83,79.45,2023-07-22 10:25,Asia/Kolkata,2023-07-22 10:15,33.0,"['Partly cloudy', 1003, '//cdn.weatherapi.com/weather/64x64/day/116.png']",14.5,81,E,1002.0,29.59,0.0,0.0,57,36,38.6,10.0,8.0,16.8
+128,Darbhanga,Bihar,India,26.17,85.9,2023-07-22 10:25,Asia/Kolkata,2023-07-22 10:15,34.2,"['Partly cloudy', 1003, '//cdn.weatherapi.com/weather/64x64/day/116.png']",20.1,104,ESE,1006.0,29.71,0.0,0.0,54,39,40.5,10.0,8.0,23.0
+129,Darjiling,West Bengal,India,27.03,88.27,2023-07-22 10:25,Asia/Kolkata,2023-07-22 10:15,16.1,"['Light rain shower', 1240, '//cdn.weatherapi.com/weather/64x64/night/353.png']",2.2,340,NNW,1011.0,29.85,0.4,0.02,98,91,16.1,10.0,1.0,3.8
+130,Datia,Madhya Pradesh,India,25.67,78.47,2023-07-22 10:25,Asia/Kolkata,2023-07-22 10:15,35.9,"['Sunny', 1000, '//cdn.weatherapi.com/weather/64x64/day/113.png']",14.5,89,E,1002.0,29.6,0.0,0.0,45,12,41.5,10.0,9.0,16.8
+131,Deesa,Gujarat,India,24.25,72.17,2023-07-22 10:25,Asia/Kolkata,2023-07-22 10:15,32.3,"['Patchy rain possible', 1063, '//cdn.weatherapi.com/weather/64x64/day/176.png']",7.4,295,WNW,1003.0,29.62,0.1,0.0,68,84,40.4,10.0,7.0,9.2
+132,Dehradun,Uttarakhand,India,30.32,78.03,2023-07-22 10:25,Asia/Kolkata,2023-07-22 10:15,23.8,"['Moderate or heavy rain shower', 1243, '//cdn.weatherapi.com/weather/64x64/day/356.png']",2.2,1,N,1009.0,29.78,2.6,0.1,96,89,26.4,7.0,5.0,3.6
+133,Dehri,Bihar,India,24.87,84.18,2023-07-22 10:25,Asia/Kolkata,2023-07-22 10:15,34.7,"['Overcast', 1009, '//cdn.weatherapi.com/weather/64x64/day/122.png']",15.9,105,ESE,1004.0,29.63,0.0,0.0,50,94,40.6,10.0,7.0,18.3
+134,Delhi,Ontario,Canada,42.85,-80.5,2023-07-22 0:55,America/Toronto,2023-07-22 00:45,14.5,"['Clear', 1000, '//cdn.weatherapi.com/weather/64x64/night/113.png']",2.2,290,WNW,1012.0,29.88,0.0,0.0,96,0,13.5,10.0,1.0,19.2
+135,Delhi Cantonment,Delhi,India,28.6,77.13,2023-07-22 10:25,Asia/Kolkata,2023-07-22 10:15,32.0,"['Mist', 1030, '//cdn.weatherapi.com/weather/64x64/day/143.png']",9.4,110,ESE,1007.0,29.74,0.0,0.0,75,75,34.5,3.5,8.0,16.8
+136,Deoghar,,Bangladesh,24.27,91.08,2023-07-22 10:55,Asia/Dhaka,2023-07-22 10:45,34.0,"['Partly cloudy', 1003, '//cdn.weatherapi.com/weather/64x64/day/116.png']",5.6,130,SE,1008.0,29.77,0.0,0.0,60,50,43.5,6.0,7.0,11.6
+137,Deoli,Maharashtra,India,20.67,78.48,2023-07-22 10:25,Asia/Kolkata,2023-07-22 10:15,25.7,"['Light rain shower', 1240, '//cdn.weatherapi.com/weather/64x64/day/353.png']",12.3,251,WSW,1002.0,29.58,1.4,0.06,92,100,29.2,10.0,6.0,23.9
+138,Deoria,Uttar Pradesh,India,26.5,83.79,2023-07-22 10:25,Asia/Kolkata,2023-07-22 10:15,35.2,"['Cloudy', 1006, '//cdn.weatherapi.com/weather/64x64/day/119.png']",19.7,104,ESE,1005.0,29.68,0.0,0.0,49,82,41.4,10.0,8.0,22.6
+139,Dewas,Madhya Pradesh,India,22.97,76.07,2023-07-22 10:25,Asia/Kolkata,2023-07-22 10:15,27.0,"['Partly cloudy', 1003, '//cdn.weatherapi.com/weather/64x64/day/116.png']",4.3,10,N,1006.0,29.71,0.5,0.02,84,50,29.7,7.0,6.0,17.7
+140,Dhanbad,Jharkhand,India,23.8,86.45,2023-07-22 10:25,Asia/Kolkata,2023-07-22 10:15,31.4,"['Light rain shower', 1240, '//cdn.weatherapi.com/weather/64x64/day/353.png']",16.3,100,E,1005.0,29.68,0.5,0.02,66,64,37.4,10.0,7.0,25.7
+141,Dharmavaram,Andhra Pradesh,India,14.43,77.72,2023-07-22 10:25,Asia/Kolkata,2023-07-22 10:15,27.9,"['Partly cloudy', 1003, '//cdn.weatherapi.com/weather/64x64/day/116.png']",26.4,270,W,1009.0,29.79,0.0,0.0,60,57,29.5,10.0,7.0,30.4
+142,Dhaulpur,Rajasthan,India,26.7,77.9,2023-07-22 10:25,Asia/Kolkata,2023-07-22 10:15,37.6,"['Sunny', 1000, '//cdn.weatherapi.com/weather/64x64/day/113.png']",13.6,124,SE,1002.0,29.6,0.0,0.0,41,19,43.8,10.0,9.0,15.7
+143,Dhule,Maharashtra,India,20.9,74.78,2023-07-22 10:25,Asia/Kolkata,2023-07-22 10:15,23.8,"['Moderate or heavy rain shower', 1243, '//cdn.weatherapi.com/weather/64x64/day/356.png']",15.4,253,WSW,1004.0,29.63,5.1,0.2,95,100,26.3,7.0,5.0,24.4
+144,Dibrugarh,Assam,India,27.48,94.9,2023-07-22 10:25,Asia/Kolkata,2023-07-22 10:15,33.0,"['Mist', 1030, '//cdn.weatherapi.com/weather/64x64/night/143.png']",8.1,20,NNE,1008.0,29.77,0.0,0.0,67,75,49.3,5.0,1.0,4.3
+145,Dimapur,Assam,India,25.9,93.73,2023-07-22 10:25,Asia/Kolkata,2023-07-22 10:15,26.3,"['Light rain shower', 1240, '//cdn.weatherapi.com/weather/64x64/day/353.png']",2.2,358,N,1010.0,29.81,0.9,0.04,95,94,30.8,10.0,6.0,2.0
+146,Nizamat Ghopkhali,,Bangladesh,22.27,89.9,2023-07-22 10:55,Asia/Dhaka,2023-07-22 10:45,30.4,"['Light rain shower', 1240, '//cdn.weatherapi.com/weather/64x64/day/353.png']",15.9,140,SE,1007.0,29.74,0.7,0.03,77,97,37.6,10.0,7.0,25.7
+147,Dindigul,Tamil Nadu,India,10.35,77.95,2023-07-22 10:25,Asia/Kolkata,2023-07-22 10:15,35.0,"['Partly cloudy', 1003, '//cdn.weatherapi.com/weather/64x64/day/116.png']",20.6,280,W,1008.0,29.77,0.0,0.0,44,25,37.9,6.0,8.0,10.5
+148,Dum Dum,West Bengal,India,22.62,88.42,2023-07-22 10:25,Asia/Kolkata,2023-07-22 10:15,32.0,"['Moderate or heavy rain with thunder', 1276, '//cdn.weatherapi.com/weather/64x64/day/389.png']",10.5,90,E,1005.0,29.68,0.2,0.01,75,75,39.6,2.8,7.0,18.3
+149,Durgapur,West Bengal,India,23.48,87.32,2023-07-22 10:25,Asia/Kolkata,2023-07-22 10:15,32.7,"['Patchy rain possible', 1063, '//cdn.weatherapi.com/weather/64x64/day/176.png']",14.5,109,ESE,1005.0,29.67,0.1,0.0,62,76,39.5,10.0,7.0,17.2
+150,Durgapur,West Bengal,India,23.48,87.32,2023-07-22 10:25,Asia/Kolkata,2023-07-22 10:15,32.7,"['Patchy rain possible', 1063, '//cdn.weatherapi.com/weather/64x64/day/176.png']",14.5,109,ESE,1005.0,29.67,0.1,0.0,62,76,39.5,10.0,7.0,17.2
+151,Eluru,Andhra Pradesh,India,16.7,81.1,2023-07-22 10:25,Asia/Kolkata,2023-07-22 10:15,28.0,"['Overcast', 1009, '//cdn.weatherapi.com/weather/64x64/day/122.png']",5.6,230,SW,1003.0,29.62,0.0,0.0,84,100,29.9,6.0,7.0,17.4
+152,English Bazar,West Bengal,India,25.0,88.15,2023-07-22 10:25,Asia/Kolkata,2023-07-22 10:15,32.4,"['Light rain shower', 1240, '//cdn.weatherapi.com/weather/64x64/day/353.png']",14.8,104,ESE,1007.0,29.72,0.5,0.02,65,93,39.6,10.0,7.0,22.6
+153,Erode,Tamil Nadu,India,11.35,77.73,2023-07-22 10:25,Asia/Kolkata,2023-07-22 10:15,32.1,"['Partly cloudy', 1003, '//cdn.weatherapi.com/weather/64x64/day/116.png']",9.6,239,WSW,1010.0,29.82,0.0,0.0,42,27,33.4,10.0,8.0,11.2
+154,Etah,Uttar Pradesh,India,27.63,78.67,2023-07-22 10:25,Asia/Kolkata,2023-07-22 10:15,36.4,"['Partly cloudy', 1003, '//cdn.weatherapi.com/weather/64x64/day/116.png']",14.1,114,ESE,1004.0,29.64,0.0,0.0,45,34,42.7,10.0,9.0,16.1
+155,Etawah,Uttar Pradesh,India,26.77,79.03,2023-07-22 10:25,Asia/Kolkata,2023-07-22 10:15,37.4,"['Sunny', 1000, '//cdn.weatherapi.com/weather/64x64/day/113.png']",14.3,103,ESE,1003.0,29.62,0.0,0.0,43,18,43.9,10.0,9.0,16.6
+156,Faizabad,Uttar Pradesh,India,26.78,82.13,2023-07-22 10:25,Asia/Kolkata,2023-07-22 10:15,34.5,"['Overcast', 1009, '//cdn.weatherapi.com/weather/64x64/day/122.png']",18.3,99,E,1005.0,29.66,0.0,0.0,53,100,41.0,10.0,7.0,21.0
+157,Faridabad,Haryana,India,28.43,77.32,2023-07-22 10:25,Asia/Kolkata,2023-07-22 10:15,32.0,"['Mist', 1030, '//cdn.weatherapi.com/weather/64x64/day/143.png']",9.4,110,ESE,1007.0,29.74,0.0,0.0,75,75,34.4,3.5,9.0,17.0
+158,Farrukhabad,Fars,Iran,31.2,52.61,2023-07-22 8:25,Asia/Tehran,2023-07-22 08:15,29.7,"['Sunny', 1000, '//cdn.weatherapi.com/weather/64x64/day/113.png']",6.7,92,E,1009.0,29.8,0.0,0.0,17,18,27.5,10.0,7.0,7.8
+159,Fatehpur,Rajasthan,India,27.98,74.95,2023-07-22 10:25,Asia/Kolkata,2023-07-22 10:15,36.6,"['Sunny', 1000, '//cdn.weatherapi.com/weather/64x64/day/113.png']",4.0,346,NNW,1002.0,29.6,0.0,0.0,44,16,42.7,10.0,9.0,4.7
+160,Firozabad,Uttar Pradesh,India,27.15,78.42,2023-07-22 10:25,Asia/Kolkata,2023-07-22 10:15,37.4,"['Sunny', 1000, '//cdn.weatherapi.com/weather/64x64/day/113.png']",13.4,113,ESE,1003.0,29.62,0.0,0.0,42,19,43.6,10.0,9.0,15.4
+161,Firozpur,Punjab,India,30.92,74.6,2023-07-22 10:25,Asia/Kolkata,2023-07-22 10:15,35.3,"['Patchy rain possible', 1063, '//cdn.weatherapi.com/weather/64x64/day/176.png']",10.7,135,SE,1003.0,29.62,0.1,0.0,53,78,43.1,10.0,8.0,12.8
+162,Gadag,Balochistan,Pakistan,25.63,64.31,2023-07-22 9:55,Asia/Karachi,2023-07-22 09:45,28.6,"['Partly cloudy', 1003, '//cdn.weatherapi.com/weather/64x64/day/116.png']",10.3,252,WSW,1003.0,29.62,0.0,0.0,81,42,33.9,10.0,7.0,13.6
+163,Gandhidham,Gujarat,India,23.08,70.13,2023-07-22 10:25,Asia/Kolkata,2023-07-22 10:15,31.6,"['Overcast', 1009, '//cdn.weatherapi.com/weather/64x64/day/122.png']",11.4,257,WSW,1004.0,29.64,0.0,0.0,65,90,37.5,10.0,7.0,13.2
+164,Gandhinagar,Gujarat,India,23.22,72.68,2023-07-22 10:25,Asia/Kolkata,2023-07-22 10:15,29.0,"['Mist', 1030, '//cdn.weatherapi.com/weather/64x64/night/143.png']",6.9,270,W,1002.0,29.59,0.9,0.04,89,100,34.5,3.0,1.0,13.6
+165,Ganganagar,Rajasthan,India,29.92,73.88,2023-07-22 10:25,Asia/Kolkata,2023-07-22 10:15,36.4,"['Light rain shower', 1240, '//cdn.weatherapi.com/weather/64x64/day/353.png']",4.5,135,SE,1002.0,29.6,0.9,0.04,41,82,41.1,10.0,8.0,8.1
+166,Gangapur,,Bangladesh,22.53,90.68,2023-07-22 10:55,Asia/Dhaka,2023-07-22 10:45,29.9,"['Light rain shower', 1240, '//cdn.weatherapi.com/weather/64x64/day/353.png']",18.1,138,SE,1007.0,29.75,0.2,0.01,79,88,36.8,10.0,6.0,22.6
+167,Gangawati,Karnataka,India,15.43,76.53,2023-07-22 10:25,Asia/Kolkata,2023-07-22 10:15,25.2,"['Cloudy', 1006, '//cdn.weatherapi.com/weather/64x64/day/119.png']",21.0,264,W,1009.0,29.79,0.0,0.0,73,63,27.0,10.0,6.0,24.4
+168,Gaya,Bihar,India,24.78,85.0,2023-07-22 10:25,Asia/Kolkata,2023-07-22 10:15,32.0,"['Mist', 1030, '//cdn.weatherapi.com/weather/64x64/day/143.png']",12.5,80,E,1005.0,29.68,0.0,0.0,71,50,34.5,5.0,8.0,20.6
+169,Ghazipur,Uttar Pradesh,India,25.58,83.57,2023-07-22 10:25,Asia/Kolkata,2023-07-22 10:15,34.5,"['Overcast', 1009, '//cdn.weatherapi.com/weather/64x64/day/122.png']",18.1,100,E,1004.0,29.65,0.0,0.0,50,100,40.2,10.0,7.0,20.8
+170,Giridih,Jharkhand,India,24.18,86.3,2023-07-22 10:25,Asia/Kolkata,2023-07-22 10:15,30.7,"['Light rain shower', 1240, '//cdn.weatherapi.com/weather/64x64/day/353.png']",17.7,108,ESE,1006.0,29.7,0.2,0.01,68,67,36.1,10.0,7.0,23.0
+171,Godhra,Gujarat,India,22.75,73.63,2023-07-22 10:25,Asia/Kolkata,2023-07-22 10:15,28.7,"['Patchy rain possible', 1063, '//cdn.weatherapi.com/weather/64x64/day/176.png']",9.6,259,W,1004.0,29.65,0.1,0.0,83,100,34.4,10.0,6.0,12.1
+172,Gokal,Punjab,Pakistan,31.33,70.89,2023-07-22 9:55,Asia/Karachi,2023-07-22 09:45,40.2,"['Sunny', 1000, '//cdn.weatherapi.com/weather/64x64/day/113.png']",8.3,172,S,1000.0,29.52,0.0,0.0,35,12,46.6,10.0,10.0,9.6
+173,Gondar,,Ethiopia,12.6,37.47,2023-07-22 7:55,Africa/Addis_Ababa,2023-07-22 07:45,15.1,"['Partly cloudy', 1003, '//cdn.weatherapi.com/weather/64x64/day/116.png']",3.6,149,SSE,1019.0,30.08,0.0,0.0,88,37,15.1,10.0,5.0,6.5
+174,Gondal,Gujarat,India,21.97,70.8,2023-07-22 10:25,Asia/Kolkata,2023-07-22 10:15,29.5,"['Overcast', 1009, '//cdn.weatherapi.com/weather/64x64/day/122.png']",11.9,274,W,1005.0,29.67,0.0,0.0,73,100,34.5,10.0,6.0,13.6
+175,Gorakhpur,Haryana,India,29.45,75.68,2023-07-22 10:26,Asia/Kolkata,2023-07-22 10:15,35.5,"['Patchy rain possible', 1063, '//cdn.weatherapi.com/weather/64x64/day/176.png']",15.2,116,ESE,1003.0,29.62,0.1,0.0,50,87,42.3,10.0,8.0,18.8
+176,Hyderabad,Sindh,Pakistan,25.37,68.37,2023-07-22 9:56,Asia/Karachi,2023-07-22 09:45,32.5,"['Partly cloudy', 1003, '//cdn.weatherapi.com/weather/64x64/day/116.png']",17.4,230,SW,1002.0,29.58,0.0,0.0,60,30,38.5,10.0,8.0,20.1
+177,Mumbai,Maharashtra,India,18.98,72.83,2023-07-22 10:26,Asia/Kolkata,2023-07-22 10:15,26.0,"['Moderate rain at times', 1186, '//cdn.weatherapi.com/weather/64x64/day/299.png']",11.9,290,WNW,1006.0,29.71,1.4,0.06,100,100,29.2,1.5,6.0,27.3
+178,Noida,Uttar Pradesh,India,28.57,77.32,2023-07-22 10:26,Asia/Kolkata,2023-07-22 10:15,32.0,"['Mist', 1030, '//cdn.weatherapi.com/weather/64x64/day/143.png']",9.4,110,ESE,1007.0,29.74,0.0,0.0,75,75,34.9,3.5,8.0,16.8
+179,Gudivada,Andhra Pradesh,India,16.45,80.98,2023-07-22 10:26,Asia/Kolkata,2023-07-22 10:15,28.0,"['Overcast', 1009, '//cdn.weatherapi.com/weather/64x64/day/122.png']",5.6,230,SW,1003.0,29.62,0.0,0.0,84,100,29.4,6.0,7.0,17.9
+180,Gulbarga,Karnataka,India,17.33,76.83,2023-07-22 10:26,Asia/Kolkata,2023-07-22 10:15,23.5,"['Patchy rain possible', 1063, '//cdn.weatherapi.com/weather/64x64/day/176.png']",16.6,262,W,1007.0,29.74,0.1,0.0,85,86,25.6,10.0,5.0,21.5
+181,Guna,Madhya Pradesh,India,24.65,77.32,2023-07-22 10:26,Asia/Kolkata,2023-07-22 10:15,33.7,"['Partly cloudy', 1003, '//cdn.weatherapi.com/weather/64x64/day/116.png']",12.1,77,ENE,1003.0,29.61,0.0,0.0,51,45,38.7,10.0,8.0,13.9
+182,Guntakal,Andhra Pradesh,India,15.17,77.38,2023-07-22 10:26,Asia/Kolkata,2023-07-22 10:15,26.1,"['Cloudy', 1006, '//cdn.weatherapi.com/weather/64x64/day/119.png']",21.3,272,W,1008.0,29.78,0.0,0.0,67,76,27.7,10.0,6.0,25.7
+183,Guntur,Andhra Pradesh,India,16.3,80.45,2023-07-22 10:26,Asia/Kolkata,2023-07-22 10:15,28.0,"['Overcast', 1009, '//cdn.weatherapi.com/weather/64x64/day/122.png']",5.6,230,SW,1003.0,29.62,0.0,0.0,84,100,29.0,6.0,7.0,18.8
+184,Gurgaon,Haryana,India,28.47,77.03,2023-07-22 10:26,Asia/Kolkata,2023-07-22 10:15,32.0,"['Mist', 1030, '//cdn.weatherapi.com/weather/64x64/day/143.png']",9.4,110,ESE,1007.0,29.74,0.0,0.0,75,75,33.8,3.5,9.0,17.4
+185,Guwahati,Assam,India,26.18,91.73,2023-07-22 10:26,Asia/Kolkata,2023-07-22 10:15,33.0,"['Mist', 1030, '//cdn.weatherapi.com/weather/64x64/day/143.png']",5.6,350,N,1008.0,29.77,1.2,0.05,80,50,54.4,5.0,6.0,3.1
+186,Gwalior,Madhya Pradesh,India,26.22,78.18,2023-07-22 10:26,Asia/Kolkata,2023-07-22 10:15,36.9,"['Sunny', 1000, '//cdn.weatherapi.com/weather/64x64/day/113.png']",13.2,111,ESE,1003.0,29.6,0.0,0.0,43,21,42.9,10.0,9.0,15.2
+187,Habra,West Bengal,India,22.83,88.63,2023-07-22 10:26,Asia/Kolkata,2023-07-22 10:15,32.0,"['Moderate or heavy rain with thunder', 1276, '//cdn.weatherapi.com/weather/64x64/day/389.png']",10.5,90,E,1005.0,29.68,0.1,0.0,75,75,39.3,2.8,7.0,17.4
+188,Hajipur,Bihar,India,25.68,85.22,2023-07-22 10:26,Asia/Kolkata,2023-07-22 10:15,33.0,"['Mist', 1030, '//cdn.weatherapi.com/weather/64x64/day/143.png']",9.4,100,E,1005.0,29.68,0.0,0.0,71,50,38.6,4.0,7.0,21.3
+189,Haldia,West Bengal,India,22.03,88.06,2023-07-22 10:26,Asia/Kolkata,2023-07-22 10:15,30.5,"['Light rain shower', 1240, '//cdn.weatherapi.com/weather/64x64/day/353.png']",15.4,144,SE,1005.0,29.67,1.2,0.05,77,99,38.0,10.0,7.0,30.0
+190,Haldwani,Uttarakhand,India,29.22,79.52,2023-07-22 10:26,Asia/Kolkata,2023-07-22 10:15,25.0,"['Cloudy', 1006, '//cdn.weatherapi.com/weather/64x64/night/119.png']",7.4,56,ENE,1005.0,29.69,0.0,0.0,90,69,27.8,10.0,1.0,13.9
+191,Halisahar,West Bengal,India,22.95,88.42,2023-07-22 10:26,Asia/Kolkata,2023-07-22 10:15,32.0,"['Moderate or heavy rain with thunder', 1276, '//cdn.weatherapi.com/weather/64x64/day/389.png']",10.5,90,E,1005.0,29.68,0.1,0.0,75,75,38.2,2.8,7.0,17.4
+192,Hanumangarh,Rajasthan,India,29.58,74.32,2023-07-22 10:26,Asia/Kolkata,2023-07-22 10:15,36.5,"['Patchy rain possible', 1063, '//cdn.weatherapi.com/weather/64x64/day/176.png']",3.6,172,S,1002.0,29.6,0.6,0.02,43,78,42.1,9.0,8.0,5.8
+193,Haora,West Bengal,India,22.59,88.31,2023-07-22 10:26,Asia/Kolkata,2023-07-22 10:15,32.0,"['Moderate or heavy rain with thunder', 1276, '//cdn.weatherapi.com/weather/64x64/day/389.png']",10.5,90,E,1005.0,29.68,0.3,0.01,75,75,39.3,2.8,7.0,19.2
+194,Hapur,Uttar Pradesh,India,28.72,77.78,2023-07-22 10:26,Asia/Kolkata,2023-07-22 10:15,32.7,"['Cloudy', 1006, '//cdn.weatherapi.com/weather/64x64/day/119.png']",16.3,111,ESE,1005.0,29.67,0.0,0.0,64,69,39.9,10.0,7.0,18.8
+195,Hardoi,Uttar Pradesh,India,27.12,80.15,2023-07-22 10:26,Asia/Kolkata,2023-07-22 10:15,35.7,"['Patchy rain possible', 1063, '//cdn.weatherapi.com/weather/64x64/day/176.png']",16.1,100,E,1004.0,29.65,0.1,0.0,48,87,42.0,10.0,8.0,19.0
+196,Hardwar,Uttarakhand,India,29.97,78.17,2023-07-22 10:26,Asia/Kolkata,2023-07-22 10:15,27.5,"['Light rain shower', 1240, '//cdn.weatherapi.com/weather/64x64/day/353.png']",3.6,69,ENE,1007.0,29.74,1.8,0.07,86,99,32.1,10.0,6.0,4.9
+197,Hassan,Karnataka,India,13.0,76.1,2023-07-22 10:26,Asia/Kolkata,2023-07-22 10:15,23.2,"['Partly cloudy', 1003, '//cdn.weatherapi.com/weather/64x64/day/116.png']",22.4,262,W,1012.0,29.89,0.0,0.0,72,60,25.1,10.0,6.0,25.7
+198,Hathras,Uttar Pradesh,India,27.6,78.05,2023-07-22 10:26,Asia/Kolkata,2023-07-22 10:15,37.0,"['Partly cloudy', 1003, '//cdn.weatherapi.com/weather/64x64/day/116.png']",14.1,123,ESE,1003.0,29.62,0.0,0.0,43,29,43.3,10.0,9.0,16.1
+199,Hazaribag,Jharkhand,India,23.98,85.35,2023-07-22 10:26,Asia/Kolkata,2023-07-22 10:15,25.2,"['Patchy rain possible', 1063, '//cdn.weatherapi.com/weather/64x64/night/176.png']",8.3,109,ESE,1004.0,29.64,0.6,0.02,88,74,27.9,9.0,1.0,11.6
+200,Hindaun,Rajasthan,India,26.72,77.02,2023-07-22 10:26,Asia/Kolkata,2023-07-22 10:15,37.4,"['Sunny', 1000, '//cdn.weatherapi.com/weather/64x64/day/113.png']",11.6,109,ESE,1002.0,29.6,0.0,0.0,42,24,43.6,10.0,9.0,13.4
+201,Hindupur,Andhra Pradesh,India,13.83,77.49,2023-07-22 10:26,Asia/Kolkata,2023-07-22 10:15,25.7,"['Partly cloudy', 1003, '//cdn.weatherapi.com/weather/64x64/day/116.png']",23.0,268,W,1010.0,29.83,0.0,0.0,64,59,27.1,10.0,7.0,26.4
+202,Hinganghat,Maharashtra,India,20.57,78.83,2023-07-22 10:26,Asia/Kolkata,2023-07-22 10:15,27.1,"['Light rain shower', 1240, '//cdn.weatherapi.com/weather/64x64/day/353.png']",5.6,259,W,1001.0,29.57,1.3,0.05,85,100,31.2,10.0,6.0,11.0
+203,Hisar,Haryana,India,29.17,75.72,2023-07-22 10:26,Asia/Kolkata,2023-07-22 10:15,36.8,"['Patchy rain possible', 1063, '//cdn.weatherapi.com/weather/64x64/day/176.png']",15.0,112,ESE,1003.0,29.61,0.2,0.01,45,77,43.5,9.0,8.0,19.9
+204,Hoshangabad,Madhya Pradesh,India,22.75,77.72,2023-07-22 10:26,Asia/Kolkata,2023-07-22 10:15,31.8,"['Light rain shower', 1240, '//cdn.weatherapi.com/weather/64x64/day/353.png']",10.1,68,ENE,1002.0,29.57,0.3,0.01,67,90,38.7,10.0,7.0,13.9
+205,Hoshiarpur,Punjab,India,31.53,75.92,2023-07-22 10:26,Asia/Kolkata,2023-07-22 10:15,29.0,"['Light rain shower', 1240, '//cdn.weatherapi.com/weather/64x64/day/353.png']",10.1,134,SE,1005.0,29.69,0.9,0.04,78,70,34.2,10.0,6.0,17.2
+206,Hospet,Karnataka,India,15.27,76.4,2023-07-22 10:26,Asia/Kolkata,2023-07-22 10:15,25.3,"['Overcast', 1009, '//cdn.weatherapi.com/weather/64x64/day/122.png']",23.7,261,W,1009.0,29.8,0.0,0.0,74,90,27.1,10.0,6.0,27.3
+207,Hosur,Tamil Nadu,India,12.72,77.82,2023-07-22 10:26,Asia/Kolkata,2023-07-22 10:15,26.0,"['Partly cloudy', 1003, '//cdn.weatherapi.com/weather/64x64/day/116.png']",13.6,250,WSW,1013.0,29.91,0.0,0.0,84,75,27.2,8.0,5.0,27.1
+208,Dharwad,Karnataka,India,15.47,75.02,2023-07-22 10:26,Asia/Kolkata,2023-07-22 10:15,23.3,"['Patchy rain possible', 1063, '//cdn.weatherapi.com/weather/64x64/day/176.png']",19.7,258,WSW,1010.0,29.82,0.1,0.0,79,92,25.3,10.0,5.0,23.9
+209,Hugli,,Bangladesh,22.85,91.02,2023-07-22 10:56,Asia/Dhaka,2023-07-22 10:45,30.2,"['Partly cloudy', 1003, '//cdn.weatherapi.com/weather/64x64/day/116.png']",15.2,147,SSE,1008.0,29.77,0.0,0.0,72,48,35.9,10.0,8.0,17.4
+210,Ichalkaranji,Maharashtra,India,16.7,74.47,2023-07-22 10:26,Asia/Kolkata,2023-07-22 10:15,23.0,"['Light rain', 1183, '//cdn.weatherapi.com/weather/64x64/day/296.png']",12.5,250,WSW,1010.0,29.83,0.0,0.0,94,100,25.1,7.0,5.0,20.4
+211,Imphal,Manipur,India,24.82,93.95,2023-07-22 10:26,Asia/Kolkata,2023-07-22 10:15,28.4,"['Patchy rain possible', 1063, '//cdn.weatherapi.com/weather/64x64/day/176.png']",2.5,143,SE,1010.0,29.81,0.3,0.01,74,72,32.2,9.0,6.0,3.6
+212,Indore,Madhya Pradesh,India,22.72,75.83,2023-07-22 10:26,Asia/Kolkata,2023-07-22 10:15,27.0,"['Partly cloudy', 1003, '//cdn.weatherapi.com/weather/64x64/day/116.png']",4.3,10,N,1006.0,29.71,0.5,0.02,84,50,30.5,7.0,6.0,19.7
+213,Jabalpur,Madhya Pradesh,India,23.17,79.95,2023-07-22 10:26,Asia/Kolkata,2023-07-22 10:15,30.0,"['Light rain', 1183, '//cdn.weatherapi.com/weather/64x64/day/296.png']",10.5,80,E,1004.0,29.65,0.2,0.01,79,75,34.3,5.0,7.0,14.8
+214,Jagadhri,Haryana,India,30.17,77.3,2023-07-22 10:26,Asia/Kolkata,2023-07-22 10:15,27.2,"['Light rain shower', 1240, '//cdn.weatherapi.com/weather/64x64/day/353.png']",8.9,85,E,1007.0,29.72,0.4,0.02,85,84,31.3,10.0,6.0,13.0
+215,Jagdalpur,Chhattisgarh,India,19.07,82.03,2023-07-22 10:26,Asia/Kolkata,2023-07-22 10:15,23.1,"['Mist', 1030, '//cdn.weatherapi.com/weather/64x64/day/143.png']",7.4,189,S,1005.0,29.68,0.1,0.0,95,100,25.5,2.0,5.0,9.6
+216,Jaipur,Rajasthan,India,26.92,75.82,2023-07-22 10:26,Asia/Kolkata,2023-07-22 10:15,31.0,"['Mist', 1030, '//cdn.weatherapi.com/weather/64x64/night/143.png']",9.4,90,E,1007.0,29.74,0.0,0.0,84,75,34.0,3.0,1.0,5.6
+217,Jalandhar,Punjab,India,31.33,75.58,2023-07-22 10:26,Asia/Kolkata,2023-07-22 10:15,29.5,"['Light rain shower', 1240, '//cdn.weatherapi.com/weather/64x64/day/353.png']",11.0,135,SE,1005.0,29.67,1.0,0.04,77,72,35.3,10.0,6.0,19.5
+218,Jalgaon,Maharashtra,India,21.05,76.53,2023-07-22 10:26,Asia/Kolkata,2023-07-22 10:15,23.6,"['Moderate or heavy rain shower', 1243, '//cdn.weatherapi.com/weather/64x64/day/356.png']",17.9,291,WNW,1002.0,29.59,4.2,0.17,97,100,26.2,7.0,5.0,27.1
+219,Jalna,Maharashtra,India,19.83,75.88,2023-07-22 10:26,Asia/Kolkata,2023-07-22 10:15,22.6,"['Light rain', 1183, '//cdn.weatherapi.com/weather/64x64/day/296.png']",19.2,277,W,1004.0,29.65,2.1,0.08,93,100,25.0,9.0,5.0,25.3
+220,Jalpaiguri,West Bengal,India,26.52,88.73,2023-07-22 10:26,Asia/Kolkata,2023-07-22 10:15,29.4,"['Light rain shower', 1240, '//cdn.weatherapi.com/weather/64x64/day/353.png']",8.3,84,E,1008.0,29.78,0.3,0.01,75,57,34.7,10.0,6.0,11.4
+221,Jamalpur,,Bangladesh,24.92,89.93,2023-07-22 10:56,Asia/Dhaka,2023-07-22 10:45,31.5,"['Overcast', 1009, '//cdn.weatherapi.com/weather/64x64/day/122.png']",12.3,121,ESE,1008.0,29.77,0.0,0.0,67,96,38.0,10.0,7.0,14.1
+222,Jammu,Jammu and Kashmir,India,32.73,74.87,2023-07-22 10:26,Asia/Kolkata,2023-07-22 10:15,29.3,"['Moderate or heavy rain shower', 1243, '//cdn.weatherapi.com/weather/64x64/day/356.png']",7.2,103,ESE,1005.0,29.68,3.5,0.14,73,75,34.0,7.0,6.0,13.6
+223,Jamnagar,Gujarat,India,22.47,70.07,2023-07-22 10:26,Asia/Kolkata,2023-07-22 10:15,30.1,"['Cloudy', 1006, '//cdn.weatherapi.com/weather/64x64/day/119.png']",15.0,268,W,1004.0,29.66,0.0,0.0,73,72,35.8,10.0,7.0,17.4
+224,Jamshedpur,Jharkhand,India,22.8,86.18,2023-07-22 10:26,Asia/Kolkata,2023-07-22 10:15,30.0,"['Light rain', 1183, '//cdn.weatherapi.com/weather/64x64/day/296.png']",10.5,120,ESE,1005.0,29.68,0.2,0.01,79,75,33.9,3.5,7.0,20.4
+225,Jamuria,West Bengal,India,23.7,87.08,2023-07-22 10:26,Asia/Kolkata,2023-07-22 10:15,32.3,"['Thundery outbreaks possible', 1087, '//cdn.weatherapi.com/weather/64x64/day/200.png']",15.2,104,ESE,1005.0,29.68,0.1,0.0,64,72,39.0,9.0,7.0,18.8
+226,Jaunpur,Uttar Pradesh,India,25.73,82.68,2023-07-22 10:27,Asia/Kolkata,2023-07-22 10:15,34.4,"['Light rain shower', 1240, '//cdn.weatherapi.com/weather/64x64/day/353.png']",17.2,98,E,1004.0,29.64,0.2,0.01,52,100,40.4,10.0,7.0,22.4
+227,Jehanabad,Kerman,Iran,28.89,58.9,2023-07-22 8:27,Asia/Tehran,2023-07-22 08:15,36.3,"['Sunny', 1000, '//cdn.weatherapi.com/weather/64x64/day/113.png']",20.1,343,NNW,1004.0,29.66,0.0,0.0,11,0,34.8,10.0,9.0,23.0
+228,Jetpur,Gujarat,India,21.73,70.62,2023-07-22 10:27,Asia/Kolkata,2023-07-22 10:15,29.4,"['Overcast', 1009, '//cdn.weatherapi.com/weather/64x64/day/122.png']",11.2,274,W,1005.0,29.67,0.0,0.0,74,90,34.5,10.0,6.0,13.0
+229,Jhansi,Uttar Pradesh,India,25.43,78.58,2023-07-22 10:27,Asia/Kolkata,2023-07-22 10:15,35.8,"['Sunny', 1000, '//cdn.weatherapi.com/weather/64x64/day/113.png']",14.5,88,E,1002.0,29.6,0.0,0.0,45,12,41.3,10.0,9.0,16.8
+230,Jhunjhunun,Rajasthan,India,28.13,75.4,2023-07-22 10:27,Asia/Kolkata,2023-07-22 10:15,33.5,"['Clear', 1000, '//cdn.weatherapi.com/weather/64x64/night/113.png']",4.7,215,SW,1000.0,29.54,0.0,0.0,53,24,38.6,10.0,1.0,8.5
+231,Jind,Haryana,India,29.32,76.32,2023-07-22 10:27,Asia/Kolkata,2023-07-22 10:15,34.1,"['Partly cloudy', 1003, '//cdn.weatherapi.com/weather/64x64/day/116.png']",15.0,105,ESE,1004.0,29.65,0.0,0.0,56,28,41.0,10.0,8.0,17.2
+232,Jodhpur,Rajasthan,India,26.29,73.03,2023-07-22 10:27,Asia/Kolkata,2023-07-22 10:15,33.5,"['Sunny', 1000, '//cdn.weatherapi.com/weather/64x64/day/113.png']",5.1,237,WSW,1003.0,29.62,0.0,0.0,58,18,40.3,10.0,8.0,5.8
+233,Junagadh,Gujarat,India,21.52,70.47,2023-07-22 10:27,Asia/Kolkata,2023-07-22 10:15,29.3,"['Overcast', 1009, '//cdn.weatherapi.com/weather/64x64/day/122.png']",8.5,279,W,1005.0,29.67,0.0,0.0,75,100,34.3,10.0,6.0,10.1
+234,Kadapa,Andhra Pradesh,India,14.47,78.82,2023-07-22 10:27,Asia/Kolkata,2023-07-22 10:15,28.0,"['Light rain', 1183, '//cdn.weatherapi.com/weather/64x64/day/296.png']",12.5,270,W,1006.0,29.71,0.0,0.0,70,75,28.6,6.0,8.0,28.9
+235,Kaithal,Haryana,India,29.8,76.38,2023-07-22 10:27,Asia/Kolkata,2023-07-22 10:15,30.5,"['Patchy rain possible', 1063, '//cdn.weatherapi.com/weather/64x64/day/176.png']",17.4,111,ESE,1005.0,29.66,0.3,0.01,71,71,36.4,9.0,7.0,20.6
+236,Kakinada,Andhra Pradesh,India,16.93,82.22,2023-07-22 10:27,Asia/Kolkata,2023-07-22 10:15,30.7,"['Cloudy', 1006, '//cdn.weatherapi.com/weather/64x64/day/119.png']",12.5,267,W,1005.0,29.67,0.0,0.0,61,79,34.6,10.0,7.0,14.3
+237,Kalol,Gujarat,India,23.25,72.48,2023-07-22 10:27,Asia/Kolkata,2023-07-22 10:15,29.0,"['Mist', 1030, '//cdn.weatherapi.com/weather/64x64/day/143.png']",6.9,270,W,1002.0,29.59,0.8,0.03,89,100,33.7,3.0,7.0,16.3
+238,Kalyani,West Bengal,India,22.98,88.48,2023-07-22 10:27,Asia/Kolkata,2023-07-22 10:15,32.0,"['Moderate or heavy rain with thunder', 1276, '//cdn.weatherapi.com/weather/64x64/day/389.png']",10.5,90,E,1005.0,29.68,0.1,0.0,75,75,38.2,2.8,7.0,17.4
+239,Kamarhati,West Bengal,India,22.67,88.37,2023-07-22 10:27,Asia/Kolkata,2023-07-22 10:15,32.0,"['Moderate or heavy rain with thunder', 1276, '//cdn.weatherapi.com/weather/64x64/day/389.png']",10.5,90,E,1005.0,29.68,0.1,0.0,75,75,39.1,2.8,7.0,17.9
+240,Kancheepuram,Tamil Nadu,India,12.83,79.72,2023-07-22 10:27,Asia/Kolkata,2023-07-22 10:15,32.0,"['Mist', 1030, '//cdn.weatherapi.com/weather/64x64/day/143.png']",15.0,240,WSW,1006.0,29.71,0.0,0.0,63,75,33.0,5.0,8.0,23.5
+241,Kanchrapara,West Bengal,India,22.97,88.43,2023-07-22 10:27,Asia/Kolkata,2023-07-22 10:15,32.0,"['Moderate or heavy rain with thunder', 1276, '//cdn.weatherapi.com/weather/64x64/day/389.png']",10.5,90,E,1005.0,29.68,0.1,0.0,75,75,38.2,2.8,7.0,17.4
+242,Kanpur,Uttar Pradesh,India,26.47,80.35,2023-07-22 10:27,Asia/Kolkata,2023-07-22 10:15,35.5,"['Partly cloudy', 1003, '//cdn.weatherapi.com/weather/64x64/day/116.png']",16.1,92,E,1004.0,29.63,0.0,0.0,49,37,42.0,10.0,9.0,18.6
+243,Kanpur,Punjab,Pakistan,32.58,74.62,2023-07-22 9:57,Asia/Karachi,2023-07-22 09:45,28.9,"['Light rain shower', 1240, '//cdn.weatherapi.com/weather/64x64/day/353.png']",11.0,67,ENE,1005.0,29.66,1.4,0.06,72,79,33.0,10.0,6.0,21.0
+244,Karaikkudi,Tamil Nadu,India,10.07,78.78,2023-07-22 10:27,Asia/Kolkata,2023-07-22 10:15,32.7,"['Partly cloudy', 1003, '//cdn.weatherapi.com/weather/64x64/day/116.png']",4.9,236,WSW,1009.0,29.81,0.0,0.0,41,29,34.2,10.0,8.0,5.6
+245,Nagar,,Bangladesh,22.93,90.17,2023-07-22 10:57,Asia/Dhaka,2023-07-22 10:45,30.8,"['Overcast', 1009, '//cdn.weatherapi.com/weather/64x64/day/122.png']",15.9,134,SE,1007.0,29.74,0.0,0.0,75,98,38.3,10.0,7.0,18.8
+246,Karimnagar,Andhra Pradesh,India,18.43,79.15,2023-07-22 10:27,Asia/Kolkata,2023-07-22 10:15,24.9,"['Overcast', 1009, '//cdn.weatherapi.com/weather/64x64/day/122.png']",16.3,253,WSW,1004.0,29.66,0.0,0.0,84,100,27.2,10.0,5.0,21.3
+247,Karnal,Haryana,India,29.68,76.98,2023-07-22 10:27,Asia/Kolkata,2023-07-22 10:15,30.0,"['Overcast', 1009, '//cdn.weatherapi.com/weather/64x64/day/122.png']",12.5,105,ESE,1006.0,29.7,0.0,0.0,73,98,35.6,10.0,7.0,14.3
+248,Kasganj,Uttar Pradesh,India,27.82,78.65,2023-07-22 10:27,Asia/Kolkata,2023-07-22 10:15,36.4,"['Partly cloudy', 1003, '//cdn.weatherapi.com/weather/64x64/day/116.png']",14.1,114,ESE,1004.0,29.64,0.0,0.0,45,34,42.7,10.0,9.0,16.1
+249,Kashipur,Uttarakhand,India,29.22,78.95,2023-07-22 10:27,Asia/Kolkata,2023-07-22 10:15,27.0,"['Light rain shower', 1240, '//cdn.weatherapi.com/weather/64x64/day/353.png']",13.6,78,ENE,1007.0,29.72,1.5,0.06,85,55,30.9,10.0,6.0,20.4
+250,Katihar,Bihar,India,25.53,87.58,2023-07-22 10:27,Asia/Kolkata,2023-07-22 10:15,32.7,"['Light rain shower', 1240, '//cdn.weatherapi.com/weather/64x64/day/353.png']",14.8,100,E,1007.0,29.72,0.5,0.02,63,82,39.9,10.0,7.0,22.6
+251,Khammam,Andhra Pradesh,India,17.25,80.15,2023-07-22 10:27,Asia/Kolkata,2023-07-22 10:15,25.6,"['Partly cloudy', 1003, '//cdn.weatherapi.com/weather/64x64/night/116.png']",12.1,259,W,1003.0,29.6,0.0,0.0,79,60,27.9,10.0,1.0,18.6
+252,Khandwa,Madhya Pradesh,India,21.83,76.33,2023-07-22 10:27,Asia/Kolkata,2023-07-22 10:15,26.2,"['Light rain shower', 1240, '//cdn.weatherapi.com/weather/64x64/day/353.png']",16.3,295,WNW,1003.0,29.61,0.9,0.04,91,100,30.0,10.0,6.0,28.6
+253,Khanna,Punjab,India,30.7,76.22,2023-07-22 10:27,Asia/Kolkata,2023-07-22 10:15,31.7,"['Clear', 1000, '//cdn.weatherapi.com/weather/64x64/night/113.png']",7.6,113,ESE,1001.0,29.56,0.0,0.0,65,24,37.7,10.0,1.0,13.0
+254,Kharagpur,West Bengal,India,22.33,87.33,2023-07-22 10:27,Asia/Kolkata,2023-07-22 10:15,30.7,"['Light rain shower', 1240, '//cdn.weatherapi.com/weather/64x64/day/353.png']",13.6,129,SE,1005.0,29.66,1.6,0.06,75,100,37.8,10.0,7.0,28.2
+255,Khardaha,West Bengal,India,22.72,88.38,2023-07-22 10:27,Asia/Kolkata,2023-07-22 10:15,32.0,"['Moderate or heavy rain with thunder', 1276, '//cdn.weatherapi.com/weather/64x64/day/389.png']",10.5,90,E,1005.0,29.68,0.1,0.0,75,75,38.9,2.8,7.0,17.0
+256,Khargone,Madhya Pradesh,India,21.82,75.6,2023-07-22 10:27,Asia/Kolkata,2023-07-22 10:15,23.6,"['Moderate or heavy rain shower', 1243, '//cdn.weatherapi.com/weather/64x64/day/356.png']",6.7,284,WNW,1004.0,29.66,3.0,0.12,98,100,26.2,7.0,5.0,12.1
+257,Khora,Peloponnese,Greece,37.05,21.72,2023-07-22 7:57,Europe/Athens,2023-07-22 07:45,23.0,"['Sunny', 1000, '//cdn.weatherapi.com/weather/64x64/day/113.png']",2.2,10,N,1013.0,29.91,0.0,0.0,53,0,24.7,10.0,7.0,18.3
+258,Khurja,Uttar Pradesh,India,28.25,77.85,2023-07-22 10:27,Asia/Kolkata,2023-07-22 10:15,35.1,"['Partly cloudy', 1003, '//cdn.weatherapi.com/weather/64x64/day/116.png']",15.4,116,ESE,1004.0,29.65,0.0,0.0,52,58,42.1,10.0,9.0,17.7
+259,Kirari,Bujumbura,Burundi,-3.39,29.54,2023-07-22 6:57,Africa/Bujumbura,2023-07-22 06:45,18.0,"['Partly cloudy', 1003, '//cdn.weatherapi.com/weather/64x64/day/116.png']",3.8,330,NNW,1020.0,30.12,0.0,0.0,77,25,18.0,6.0,1.0,6.5
+260,Kishanganj,West Bengal,India,26.12,87.93,2023-07-22 10:27,Asia/Kolkata,2023-07-22 10:15,31.7,"['Light rain shower', 1240, '//cdn.weatherapi.com/weather/64x64/day/353.png']",14.3,95,E,1007.0,29.74,0.7,0.03,68,63,38.6,10.0,7.0,23.9
+261,Kishangarh,Rajasthan,India,27.82,76.72,2023-07-22 10:27,Asia/Kolkata,2023-07-22 10:15,33.8,"['Cloudy', 1006, '//cdn.weatherapi.com/weather/64x64/day/119.png']",8.3,127,SE,1003.0,29.62,0.0,0.0,51,63,38.8,10.0,7.0,11.9
+262,Kochi,Kerala,India,9.97,76.23,2023-07-22 10:27,Asia/Kolkata,2023-07-22 10:15,30.0,"['Mist', 1030, '//cdn.weatherapi.com/weather/64x64/day/143.png']",15.0,270,W,1011.0,29.85,0.7,0.03,75,75,36.8,3.5,6.0,18.3
+263,Kolar,Karnataka,India,13.13,78.13,2023-07-22 10:27,Asia/Kolkata,2023-07-22 10:15,24.0,"['Partly cloudy', 1003, '//cdn.weatherapi.com/weather/64x64/day/116.png']",18.6,270,W,1013.0,29.91,0.0,0.0,74,50,25.3,6.0,7.0,28.9
+264,Kolhapur,Maharashtra,India,16.7,74.22,2023-07-22 10:27,Asia/Kolkata,2023-07-22 10:15,23.0,"['Light rain', 1183, '//cdn.weatherapi.com/weather/64x64/day/296.png']",12.5,250,WSW,1010.0,29.83,0.0,0.0,94,100,25.2,7.0,5.0,16.6
+265,Kolkata,West Bengal,India,22.57,88.37,2023-07-22 10:27,Asia/Kolkata,2023-07-22 10:15,32.0,"['Moderate or heavy rain with thunder', 1276, '//cdn.weatherapi.com/weather/64x64/day/389.png']",10.5,90,E,1005.0,29.68,0.3,0.01,75,75,39.7,2.8,7.0,19.2
+266,Kollam,Kerala,India,8.88,76.59,2023-07-22 10:27,Asia/Kolkata,2023-07-22 10:15,27.9,"['Patchy rain possible', 1063, '//cdn.weatherapi.com/weather/64x64/day/176.png']",11.2,305,NW,1013.0,29.91,0.2,0.01,79,85,31.9,9.0,6.0,15.2
+267,Korba,Chhattisgarh,India,22.35,82.68,2023-07-22 10:27,Asia/Kolkata,2023-07-22 10:15,30.3,"['Light rain shower', 1240, '//cdn.weatherapi.com/weather/64x64/day/353.png']",7.8,121,ESE,1003.0,29.62,0.6,0.02,70,75,35.8,10.0,7.0,12.8
+268,Kota Bharu,Kelantan,Malaysia,6.13,102.25,2023-07-22 12:57,Asia/Kuala_Lumpur,2023-07-22 12:45,31.0,"['Partly cloudy', 1003, '//cdn.weatherapi.com/weather/64x64/day/116.png']",2.2,190,S,1011.0,29.85,0.0,0.0,79,50,38.7,10.0,7.0,4.0
+269,Kozhikode,Kerala,India,11.25,75.77,2023-07-22 10:27,Asia/Kolkata,2023-07-22 10:15,25.0,"['Mist', 1030, '//cdn.weatherapi.com/weather/64x64/day/143.png']",13.6,260,W,1012.0,29.88,1.3,0.05,83,75,27.3,5.0,6.0,22.8
+270,Krishnanagar,West Bengal,India,23.4,88.5,2023-07-22 10:27,Asia/Kolkata,2023-07-22 10:15,32.7,"['Patchy rain possible', 1063, '//cdn.weatherapi.com/weather/64x64/day/176.png']",15.0,127,SE,1006.0,29.69,0.1,0.0,66,100,40.6,10.0,7.0,18.8
+271,Kulti,West Bengal,India,23.73,86.85,2023-07-22 10:27,Asia/Kolkata,2023-07-22 10:15,32.2,"['Light rain shower', 1240, '//cdn.weatherapi.com/weather/64x64/day/353.png']",15.9,101,ESE,1005.0,29.68,0.2,0.01,65,64,39.0,10.0,7.0,21.5
+272,Kumbakonam,Tamil Nadu,India,10.97,79.38,2023-07-22 10:27,Asia/Kolkata,2023-07-22 10:15,31.8,"['Sunny', 1000, '//cdn.weatherapi.com/weather/64x64/day/113.png']",15.0,267,W,1009.0,29.81,0.0,0.0,44,19,33.4,10.0,8.0,17.2
+273,Kurichi Lozy,Mykolayivs'ka Oblast',Ukraine,48.08,30.35,2023-07-22 7:57,Europe/Kiev,2023-07-22 07:45,20.7,"['Partly cloudy', 1003, '//cdn.weatherapi.com/weather/64x64/day/116.png']",8.9,147,SSE,1014.0,29.95,0.0,0.0,61,44,20.7,10.0,6.0,14.3
+274,Kurnool,Andhra Pradesh,India,15.83,78.05,2023-07-22 10:27,Asia/Kolkata,2023-07-22 10:15,24.7,"['Partly cloudy', 1003, '//cdn.weatherapi.com/weather/64x64/day/116.png']",16.1,269,W,1008.0,29.75,0.0,0.0,77,62,26.6,10.0,6.0,21.9
+275,Lakhimpur,Uttar Pradesh,India,27.95,80.77,2023-07-22 10:27,Asia/Kolkata,2023-07-22 10:15,34.6,"['Patchy rain possible', 1063, '//cdn.weatherapi.com/weather/64x64/day/176.png']",17.2,113,ESE,1005.0,29.69,0.1,0.0,52,78,40.9,10.0,7.0,20.4
+276,Lalitpur,,Nepal,27.67,85.33,2023-07-22 10:42,Asia/Kathmandu,2023-07-22 10:30,27.0,"['Partly cloudy', 1003, '//cdn.weatherapi.com/weather/64x64/day/116.png']",2.2,175,S,1017.0,30.03,0.4,0.02,70,75,30.1,6.0,6.0,2.0
+277,Latur,Maharashtra,India,18.4,76.58,2023-07-22 10:27,Asia/Kolkata,2023-07-22 10:15,22.3,"['Light drizzle', 1153, '//cdn.weatherapi.com/weather/64x64/day/266.png']",17.7,264,W,1006.0,29.71,0.3,0.01,89,100,24.7,2.0,5.0,23.9
+278,Loni,Uttar Pradesh,India,28.75,77.28,2023-07-22 10:27,Asia/Kolkata,2023-07-22 10:15,32.0,"['Mist', 1030, '//cdn.weatherapi.com/weather/64x64/day/143.png']",9.4,110,ESE,1007.0,29.74,0.0,0.0,75,75,35.9,3.5,7.0,16.8
+279,Lucknow,Uttar Pradesh,India,26.85,80.92,2023-07-22 10:27,Asia/Kolkata,2023-07-22 10:15,31.0,"['Mist', 1030, '//cdn.weatherapi.com/weather/64x64/day/143.png']",11.9,80,E,1005.0,29.68,0.0,0.0,84,75,33.6,5.0,7.0,19.2
+280,Ludhiana,Punjab,India,30.9,75.85,2023-07-22 10:27,Asia/Kolkata,2023-07-22 10:15,29.5,"['Light rain shower', 1240, '//cdn.weatherapi.com/weather/64x64/day/353.png']",13.9,133,SE,1005.0,29.66,0.4,0.02,76,79,35.0,10.0,6.0,19.0
+281,Machilipatnam,Andhra Pradesh,India,16.17,81.13,2023-07-22 10:27,Asia/Kolkata,2023-07-22 10:15,28.0,"['Overcast', 1009, '//cdn.weatherapi.com/weather/64x64/day/122.png']",5.6,230,SW,1003.0,29.62,0.0,0.0,84,100,29.6,6.0,7.0,16.6
+282,Madanapalle,Andhra Pradesh,India,13.55,78.5,2023-07-22 10:27,Asia/Kolkata,2023-07-22 10:15,28.3,"['Partly cloudy', 1003, '//cdn.weatherapi.com/weather/64x64/day/116.png']",26.6,278,W,1009.0,29.8,0.0,0.0,50,49,29.1,10.0,7.0,30.6
+283,Madavaram,Tamil Nadu,India,13.15,80.24,2023-07-22 10:27,Asia/Kolkata,2023-07-22 10:15,32.0,"['Mist', 1030, '//cdn.weatherapi.com/weather/64x64/day/143.png']",15.0,240,WSW,1006.0,29.71,0.0,0.0,63,75,34.5,5.0,8.0,21.5
+284,Madhyamgram,West Bengal,India,22.7,88.45,2023-07-22 10:27,Asia/Kolkata,2023-07-22 10:15,32.0,"['Moderate or heavy rain with thunder', 1276, '//cdn.weatherapi.com/weather/64x64/day/389.png']",10.5,90,E,1005.0,29.68,0.1,0.0,75,75,39.2,2.8,7.0,17.2
+285,Madurai,Tamil Nadu,India,9.93,78.12,2023-07-22 10:27,Asia/Kolkata,2023-07-22 10:15,35.0,"['Partly cloudy', 1003, '//cdn.weatherapi.com/weather/64x64/day/116.png']",20.6,280,W,1008.0,29.77,0.0,0.0,44,25,37.8,6.0,8.0,11.6
+286,Mahbubnagar,Andhra Pradesh,India,16.73,77.98,2023-07-22 10:27,Asia/Kolkata,2023-07-22 10:15,23.3,"['Overcast', 1009, '//cdn.weatherapi.com/weather/64x64/day/122.png']",15.0,263,W,1008.0,29.75,0.0,0.0,84,100,25.4,10.0,5.0,20.1
+287,Mahesana,Gujarat,India,23.6,72.4,2023-07-22 10:27,Asia/Kolkata,2023-07-22 10:15,31.8,"['Overcast', 1009, '//cdn.weatherapi.com/weather/64x64/day/122.png']",8.1,296,WNW,1003.0,29.63,0.0,0.0,68,100,38.9,10.0,7.0,9.2
+288,Mainpuri,Uttar Pradesh,India,27.23,79.02,2023-07-22 10:27,Asia/Kolkata,2023-07-22 10:15,37.3,"['Sunny', 1000, '//cdn.weatherapi.com/weather/64x64/day/113.png']",13.9,110,ESE,1003.0,29.62,0.0,0.0,43,19,43.6,10.0,9.0,15.9
+289,Malegaon,Maharashtra,India,20.55,74.53,2023-07-22 10:27,Asia/Kolkata,2023-07-22 10:15,23.4,"['Moderate or heavy rain shower', 1243, '//cdn.weatherapi.com/weather/64x64/day/356.png']",14.1,257,WSW,1005.0,29.67,2.7,0.11,93,70,25.7,7.0,5.0,19.7
+290,Mandsaur,Madhya Pradesh,India,24.07,75.07,2023-07-22 10:27,Asia/Kolkata,2023-07-22 10:15,30.9,"['Patchy rain possible', 1063, '//cdn.weatherapi.com/weather/64x64/day/176.png']",2.5,348,NNW,1003.0,29.63,0.7,0.03,66,88,36.1,9.0,7.0,4.3
+291,Mandya,Karnataka,India,12.52,76.9,2023-07-22 10:27,Asia/Kolkata,2023-07-22 10:15,27.2,"['Overcast', 1009, '//cdn.weatherapi.com/weather/64x64/day/122.png']",21.7,271,W,1011.0,29.86,0.0,0.0,53,88,28.0,10.0,6.0,25.1
+292,Mangalore,Karnataka,India,12.86,74.84,2023-07-22 10:27,Asia/Kolkata,2023-07-22 10:15,25.0,"['Light rain', 1183, '//cdn.weatherapi.com/weather/64x64/day/296.png']",6.9,260,W,1011.0,29.85,1.0,0.04,94,100,27.1,5.0,6.0,28.9
+293,Mangochi,Mangochi,Malawi,-14.47,35.27,2023-07-22 6:58,Africa/Blantyre,2023-07-22 06:45,15.9,"['Cloudy', 1006, '//cdn.weatherapi.com/weather/64x64/day/119.png']",8.1,166,SSE,1026.0,30.29,0.0,0.0,91,70,15.9,10.0,1.0,11.2
+294,Mathura,Uttar Pradesh,India,27.5,77.68,2023-07-22 10:28,Asia/Kolkata,2023-07-22 10:15,37.5,"['Partly cloudy', 1003, '//cdn.weatherapi.com/weather/64x64/day/116.png']",14.3,128,SE,1003.0,29.61,0.0,0.0,42,27,43.7,10.0,9.0,16.6
+295,Maunath Bhanjan,Uttar Pradesh,India,25.94,83.56,2023-07-22 10:28,Asia/Kolkata,2023-07-22 10:15,34.8,"['Overcast', 1009, '//cdn.weatherapi.com/weather/64x64/day/122.png']",19.0,105,ESE,1004.0,29.66,0.0,0.0,50,100,40.9,10.0,7.0,21.9
+296,Medinipur,West Bengal,India,22.43,87.33,2023-07-22 10:28,Asia/Kolkata,2023-07-22 10:15,30.7,"['Light rain shower', 1240, '//cdn.weatherapi.com/weather/64x64/day/353.png']",13.6,129,SE,1005.0,29.66,1.6,0.06,75,100,37.8,10.0,7.0,28.2
+297,Meerut,Uttar Pradesh,India,28.98,77.7,2023-07-22 10:28,Asia/Kolkata,2023-07-22 10:15,30.3,"['Overcast', 1009, '//cdn.weatherapi.com/weather/64x64/day/122.png']",14.1,108,ESE,1005.0,29.69,0.0,0.0,72,100,36.2,10.0,7.0,18.3
+298,Mira,,Morocco,29.7,-9.47,2023-07-22 5:58,Africa/Casablanca,2023-07-22 05:45,20.4,"['Clear', 1000, '//cdn.weatherapi.com/weather/64x64/night/113.png']",4.7,241,WSW,1011.0,29.85,0.0,0.0,75,0,20.4,10.0,1.0,9.8
+299,Mirzapur-Cum-Vindhyachal,Uttar Pradesh,India,25.15,82.58,2023-07-22 10:28,Asia/Kolkata,2023-07-22 10:15,35.2,"['Patchy rain possible', 1063, '//cdn.weatherapi.com/weather/64x64/day/176.png']",16.3,95,E,1003.0,29.62,0.1,0.0,50,96,41.7,10.0,8.0,20.6
+300,Mogadishu,Banaadir,Somalia,2.07,45.37,2023-07-22 7:58,Africa/Mogadishu,2023-07-22 07:45,26.0,"['Partly cloudy', 1003, '//cdn.weatherapi.com/weather/64x64/night/116.png']",18.6,200,SSW,1016.0,30.0,0.0,0.0,89,75,29.4,10.0,1.0,24.2
+301,Moradabad,Uttar Pradesh,India,28.83,78.78,2023-07-22 10:28,Asia/Kolkata,2023-07-22 10:15,29.1,"['Light rain shower', 1240, '//cdn.weatherapi.com/weather/64x64/day/353.png']",14.1,89,E,1006.0,29.71,0.6,0.02,76,90,34.1,10.0,6.0,23.0
+302,Morena,Madhya Pradesh,India,26.5,78.0,2023-07-22 10:28,Asia/Kolkata,2023-07-22 10:15,37.5,"['Sunny', 1000, '//cdn.weatherapi.com/weather/64x64/day/113.png']",13.2,120,ESE,1002.0,29.6,0.0,0.0,41,24,43.7,10.0,9.0,15.2
+303,Morvi,Gujarat,India,22.82,70.83,2023-07-22 10:28,Asia/Kolkata,2023-07-22 10:15,30.7,"['Overcast', 1009, '//cdn.weatherapi.com/weather/64x64/day/122.png']",13.2,270,W,1004.0,29.65,0.0,0.0,69,100,36.5,10.0,7.0,15.7
+304,Motihari,Bihar,India,26.65,84.92,2023-07-22 10:28,Asia/Kolkata,2023-07-22 10:15,35.3,"['Cloudy', 1006, '//cdn.weatherapi.com/weather/64x64/day/119.png']",19.9,109,ESE,1006.0,29.7,0.0,0.0,48,68,41.3,10.0,8.0,22.8
+305,Muktsar,Punjab,India,30.48,74.52,2023-07-22 10:28,Asia/Kolkata,2023-07-22 10:15,35.5,"['Partly cloudy', 1003, '//cdn.weatherapi.com/weather/64x64/day/116.png']",12.5,129,SE,1003.0,29.62,0.0,0.0,51,44,42.7,10.0,9.0,14.3
+306,Munger,Bihar,India,25.38,86.47,2023-07-22 10:28,Asia/Kolkata,2023-07-22 10:15,33.8,"['Patchy rain possible', 1063, '//cdn.weatherapi.com/weather/64x64/day/176.png']",17.2,105,ESE,1006.0,29.7,0.1,0.0,57,100,40.5,10.0,7.0,20.8
+307,Murwara,Madhya Pradesh,India,23.85,80.4,2023-07-22 10:28,Asia/Kolkata,2023-07-22 10:15,32.4,"['Partly cloudy', 1003, '//cdn.weatherapi.com/weather/64x64/day/116.png']",13.9,93,E,1003.0,29.6,0.0,0.0,58,51,37.7,10.0,8.0,15.9
+308,Mustafabad,Punjab,Pakistan,30.77,73.7,2023-07-22 9:58,Asia/Karachi,2023-07-22 09:45,35.3,"['Partly cloudy', 1003, '//cdn.weatherapi.com/weather/64x64/day/116.png']",8.1,120,ESE,1002.0,29.59,0.0,0.0,49,32,41.6,10.0,9.0,10.1
+309,Muzaffarnagar,Uttar Pradesh,India,29.47,77.68,2023-07-22 10:28,Asia/Kolkata,2023-07-22 10:15,27.9,"['Cloudy', 1006, '//cdn.weatherapi.com/weather/64x64/day/119.png']",13.9,99,E,1006.0,29.71,0.0,0.0,83,64,32.5,10.0,6.0,18.1
+310,Muzaffarpur,Bihar,India,26.12,85.4,2023-07-22 10:28,Asia/Kolkata,2023-07-22 10:15,34.4,"['Cloudy', 1006, '//cdn.weatherapi.com/weather/64x64/day/119.png']",20.4,108,ESE,1006.0,29.7,0.0,0.0,54,80,41.0,10.0,7.0,23.5
+311,Mysore,Karnataka,India,12.31,76.65,2023-07-22 10:28,Asia/Kolkata,2023-07-22 10:15,26.4,"['Overcast', 1009, '//cdn.weatherapi.com/weather/64x64/day/122.png']",19.9,268,W,1012.0,29.88,0.0,0.0,55,100,27.3,10.0,6.0,22.8
+312,Nabadwip,West Bengal,India,23.42,88.37,2023-07-22 10:28,Asia/Kolkata,2023-07-22 10:15,32.8,"['Light rain shower', 1240, '//cdn.weatherapi.com/weather/64x64/day/353.png']",14.8,125,SE,1005.0,29.69,0.2,0.01,65,90,40.5,10.0,7.0,18.8
+313,Nadiad,Gujarat,India,22.7,72.87,2023-07-22 10:28,Asia/Kolkata,2023-07-22 10:15,29.0,"['Mist', 1030, '//cdn.weatherapi.com/weather/64x64/day/143.png']",6.9,270,W,1002.0,29.59,0.3,0.01,89,100,34.2,3.0,6.0,13.4
+314,Nagaon,Maharashtra,India,17.47,73.62,2023-07-22 10:28,Asia/Kolkata,2023-07-22 10:15,24.2,"['Moderate or heavy rain shower', 1243, '//cdn.weatherapi.com/weather/64x64/day/356.png']",4.7,266,W,1008.0,29.78,3.5,0.14,96,100,27.0,7.0,5.0,8.5
+315,Nagapattinam,Tamil Nadu,India,10.77,79.83,2023-07-22 10:28,Asia/Kolkata,2023-07-22 10:15,32.0,"['Sunny', 1000, '//cdn.weatherapi.com/weather/64x64/day/113.png']",16.6,270,W,1009.0,29.8,0.0,0.0,47,21,34.2,10.0,8.0,20.1
+316,Nagaur,Rajasthan,India,27.2,73.73,2023-07-22 10:28,Asia/Kolkata,2023-07-22 10:15,34.5,"['Sunny', 1000, '//cdn.weatherapi.com/weather/64x64/day/113.png']",4.0,272,W,1003.0,29.62,0.0,0.0,52,23,40.6,10.0,8.0,4.7
+317,Nagda,Madhya Pradesh,India,23.45,75.42,2023-07-22 10:28,Asia/Kolkata,2023-07-22 10:15,27.8,"['Patchy rain possible', 1063, '//cdn.weatherapi.com/weather/64x64/day/176.png']",7.6,277,W,1004.0,29.64,0.6,0.02,79,78,31.8,9.0,6.0,12.3
+318,Nagercoil,Tamil Nadu,India,8.19,77.43,2023-07-22 10:28,Asia/Kolkata,2023-07-22 10:15,30.7,"['Patchy rain possible', 1063, '//cdn.weatherapi.com/weather/64x64/day/176.png']",17.9,289,WNW,1012.0,29.88,0.1,0.0,55,88,33.5,10.0,7.0,22.1
+319,Nagpur,Maharashtra,India,21.15,79.1,2023-07-22 10:28,Asia/Kolkata,2023-07-22 10:15,27.0,"['Light rain', 1183, '//cdn.weatherapi.com/weather/64x64/day/296.png']",3.8,40,NE,1003.0,29.62,0.3,0.01,100,100,30.4,3.0,6.0,16.1
+320,Naihati,West Bengal,India,22.9,88.42,2023-07-22 10:28,Asia/Kolkata,2023-07-22 10:15,32.0,"['Moderate or heavy rain with thunder', 1276, '//cdn.weatherapi.com/weather/64x64/day/389.png']",10.5,90,E,1005.0,29.68,0.1,0.0,75,75,38.4,2.8,7.0,17.2
+321,Nalgonda,Andhra Pradesh,India,17.05,79.27,2023-07-22 10:28,Asia/Kolkata,2023-07-22 10:15,28.1,"['Overcast', 1009, '//cdn.weatherapi.com/weather/64x64/day/122.png']",20.6,272,W,1005.0,29.68,0.0,0.0,62,100,30.1,10.0,6.0,27.5
+322,Nanded,Maharashtra,India,19.15,77.33,2023-07-22 10:28,Asia/Kolkata,2023-07-22 10:15,24.0,"['Light drizzle', 1153, '//cdn.weatherapi.com/weather/64x64/day/266.png']",14.8,269,W,1005.0,29.67,0.3,0.01,90,100,26.3,2.0,5.0,19.2
+323,Nandurbar,Maharashtra,India,21.37,74.25,2023-07-22 10:28,Asia/Kolkata,2023-07-22 10:15,24.1,"['Moderate or heavy rain shower', 1243, '//cdn.weatherapi.com/weather/64x64/day/356.png']",12.8,237,WSW,1005.0,29.66,2.6,0.1,95,100,26.8,7.0,5.0,20.4
+324,Nandyal,Andhra Pradesh,India,15.48,78.48,2023-07-22 10:28,Asia/Kolkata,2023-07-22 10:15,26.7,"['Partly cloudy', 1003, '//cdn.weatherapi.com/weather/64x64/day/116.png']",15.9,280,W,1008.0,29.75,0.0,0.0,70,40,28.7,10.0,7.0,20.4
+325,Nangloi Jat,Delhi,India,28.68,77.07,2023-07-22 10:28,Asia/Kolkata,2023-07-22 10:15,32.0,"['Mist', 1030, '//cdn.weatherapi.com/weather/64x64/day/143.png']",9.4,110,ESE,1007.0,29.74,0.0,0.0,75,75,34.3,3.5,9.0,17.2
+326,Narasaraopet,Andhra Pradesh,India,16.25,80.07,2023-07-22 10:28,Asia/Kolkata,2023-07-22 10:15,31.9,"['Overcast', 1009, '//cdn.weatherapi.com/weather/64x64/day/122.png']",18.1,274,W,1005.0,29.69,0.0,0.0,52,100,35.0,10.0,7.0,20.8
+327,Mumbai,Maharashtra,India,18.98,72.83,2023-07-22 10:28,Asia/Kolkata,2023-07-22 10:15,26.0,"['Moderate rain at times', 1186, '//cdn.weatherapi.com/weather/64x64/day/299.png']",11.9,290,WNW,1006.0,29.71,1.4,0.06,100,100,29.2,1.5,6.0,27.3
+328,Mumbai,Maharashtra,India,18.98,72.83,2023-07-22 10:28,Asia/Kolkata,2023-07-22 10:15,26.0,"['Moderate rain at times', 1186, '//cdn.weatherapi.com/weather/64x64/day/299.png']",11.9,290,WNW,1006.0,29.71,1.4,0.06,100,100,29.2,1.5,6.0,27.3
+329,Navsari,Gujarat,India,20.85,72.92,2023-07-22 10:28,Asia/Kolkata,2023-07-22 10:15,25.9,"['Moderate or heavy rain shower', 1243, '//cdn.weatherapi.com/weather/64x64/day/356.png']",10.3,231,SW,1005.0,29.68,2.9,0.11,93,93,29.7,7.0,6.0,20.4
+330,Neemuch,Madhya Pradesh,India,24.48,74.87,2023-07-22 10:28,Asia/Kolkata,2023-07-22 10:15,33.0,"['Patchy rain possible', 1063, '//cdn.weatherapi.com/weather/64x64/day/176.png']",8.9,59,ENE,1003.0,29.62,0.6,0.02,54,86,37.9,9.0,7.0,14.3
+331,Nellore,Andhra Pradesh,India,14.43,79.97,2023-07-22 10:28,Asia/Kolkata,2023-07-22 10:15,31.7,"['Partly cloudy', 1003, '//cdn.weatherapi.com/weather/64x64/day/116.png']",18.8,276,W,1007.0,29.73,0.0,0.0,48,45,34.0,10.0,8.0,22.4
+332,New Delhi,Delhi,India,28.6,77.2,2023-07-22 10:28,Asia/Kolkata,2023-07-22 10:15,32.0,"['Mist', 1030, '//cdn.weatherapi.com/weather/64x64/day/143.png']",9.4,110,ESE,1007.0,29.74,0.0,0.0,75,75,34.5,3.5,8.0,16.8
+333,Neyveli,Tamil Nadu,India,11.53,79.48,2023-07-22 10:28,Asia/Kolkata,2023-07-22 10:15,32.9,"['Sunny', 1000, '//cdn.weatherapi.com/weather/64x64/day/113.png']",13.4,273,W,1009.0,29.8,0.0,0.0,40,14,34.3,10.0,8.0,15.4
+334,Nizamabad,Andhra Pradesh,India,18.67,78.12,2023-07-22 10:28,Asia/Kolkata,2023-07-22 10:15,23.3,"['Overcast', 1009, '//cdn.weatherapi.com/weather/64x64/day/122.png']",14.5,260,W,1005.0,29.67,0.0,0.0,90,100,25.5,10.0,5.0,20.6
+335,Noida,Uttar Pradesh,India,28.57,77.32,2023-07-22 10:28,Asia/Kolkata,2023-07-22 10:15,32.0,"['Mist', 1030, '//cdn.weatherapi.com/weather/64x64/day/143.png']",9.4,110,ESE,1007.0,29.74,0.0,0.0,75,75,34.9,3.5,8.0,16.8
+336,North Berwick,East Lothian,UK United Kingdom,56.05,-2.73,2023-07-22 5:58,Europe/London,2023-07-22 05:45,8.0,"['Overcast', 1009, '//cdn.weatherapi.com/weather/64x64/day/122.png']",3.8,350,N,1007.0,29.74,0.0,0.0,93,100,7.4,10.0,4.0,5.6
+337,Dum-Dum,Lac,Chad,13.2,15.38,2023-07-22 5:58,Africa/Ndjamena,2023-07-22 05:45,29.8,"['Clear', 1000, '//cdn.weatherapi.com/weather/64x64/day/113.png']",7.2,203,SSW,1012.0,29.87,0.0,0.0,47,7,30.7,10.0,1.0,12.1
+338,Ongole,Andhra Pradesh,India,15.5,80.05,2023-07-22 10:28,Asia/Kolkata,2023-07-22 10:15,32.7,"['Overcast', 1009, '//cdn.weatherapi.com/weather/64x64/day/122.png']",22.1,270,W,1006.0,29.7,0.0,0.0,49,90,36.0,10.0,7.0,25.5
+339,Orai,Uttar Pradesh,India,25.98,79.47,2023-07-22 10:28,Asia/Kolkata,2023-07-22 10:15,37.0,"['Patchy rain possible', 1063, '//cdn.weatherapi.com/weather/64x64/day/176.png']",15.0,90,E,1003.0,29.6,0.1,0.0,42,78,43.0,10.0,8.0,18.3
+340,Osmanabad,Maharashtra,India,18.17,76.05,2023-07-22 10:28,Asia/Kolkata,2023-07-22 10:15,21.9,"['Light drizzle', 1153, '//cdn.weatherapi.com/weather/64x64/day/266.png']",15.7,256,WSW,1007.0,29.73,0.5,0.02,93,100,21.9,2.0,5.0,21.0
+341,Palakkad,Kerala,India,10.77,76.65,2023-07-22 10:28,Asia/Kolkata,2023-07-22 10:15,29.0,"['Partly cloudy', 1003, '//cdn.weatherapi.com/weather/64x64/day/116.png']",8.1,270,W,1011.0,29.85,0.4,0.02,66,50,32.9,6.0,6.0,23.3
+342,Palanpur,Gujarat,India,24.17,72.43,2023-07-22 10:28,Asia/Kolkata,2023-07-22 10:15,31.6,"['Patchy rain possible', 1063, '//cdn.weatherapi.com/weather/64x64/day/176.png']",7.2,303,WNW,1003.0,29.63,0.1,0.0,69,76,38.8,10.0,7.0,8.5
+343,Pali,Rajasthan,India,25.77,73.33,2023-07-22 10:28,Asia/Kolkata,2023-07-22 10:15,32.8,"['Sunny', 1000, '//cdn.weatherapi.com/weather/64x64/day/113.png']",3.8,281,WNW,1003.0,29.62,0.0,0.0,58,16,38.7,10.0,8.0,4.5
+344,Pallavaram,Tamil Nadu,India,12.98,80.18,2023-07-22 10:28,Asia/Kolkata,2023-07-22 10:15,32.0,"['Mist', 1030, '//cdn.weatherapi.com/weather/64x64/day/143.png']",15.0,240,WSW,1006.0,29.71,0.0,0.0,63,75,33.9,5.0,8.0,21.7
+345,Palwal,Haryana,India,28.15,77.33,2023-07-22 10:28,Asia/Kolkata,2023-07-22 10:15,32.0,"['Mist', 1030, '//cdn.weatherapi.com/weather/64x64/night/143.png']",9.4,110,ESE,1007.0,29.74,0.0,0.0,75,75,35.3,3.5,1.0,16.1
+346,Panihati,West Bengal,India,22.69,88.37,2023-07-22 10:28,Asia/Kolkata,2023-07-22 10:15,32.0,"['Moderate or heavy rain with thunder', 1276, '//cdn.weatherapi.com/weather/64x64/day/389.png']",10.5,90,E,1005.0,29.68,0.1,0.0,75,75,39.0,2.8,7.0,17.4
+347,Panipat,Haryana,India,29.39,76.97,2023-07-22 10:28,Asia/Kolkata,2023-07-22 10:15,31.9,"['Cloudy', 1006, '//cdn.weatherapi.com/weather/64x64/day/119.png']",14.5,107,ESE,1005.0,29.69,0.0,0.0,65,70,38.5,10.0,7.0,16.8
+348,Panvel,Maharashtra,India,18.98,73.1,2023-07-22 10:28,Asia/Kolkata,2023-07-22 10:15,26.0,"['Moderate rain at times', 1186, '//cdn.weatherapi.com/weather/64x64/day/299.png']",11.9,290,WNW,1006.0,29.71,1.8,0.07,100,100,29.8,1.5,6.0,15.7
+349,Parbhani,Maharashtra,India,19.27,76.78,2023-07-22 10:29,Asia/Kolkata,2023-07-22 10:15,23.9,"['Light rain', 1183, '//cdn.weatherapi.com/weather/64x64/day/296.png']",16.6,269,W,1005.0,29.67,0.9,0.04,89,100,26.1,9.0,5.0,21.9
+350,Patan,Gujarat,India,23.83,72.12,2023-07-22 10:29,Asia/Kolkata,2023-07-22 10:15,32.3,"['Overcast', 1009, '//cdn.weatherapi.com/weather/64x64/day/122.png']",7.6,288,WNW,1003.0,29.62,0.0,0.0,67,98,39.8,10.0,7.0,8.7
+351,Pathankot,Punjab,India,32.28,75.65,2023-07-22 10:29,Asia/Kolkata,2023-07-22 10:15,26.2,"['Light rain shower', 1240, '//cdn.weatherapi.com/weather/64x64/day/353.png']",5.6,60,ENE,1006.0,29.71,2.3,0.09,92,89,30.1,10.0,6.0,11.6
+352,Patiala,Punjab,India,30.33,76.4,2023-07-22 10:29,Asia/Kolkata,2023-07-22 10:15,29.0,"['Light rain shower', 1240, '//cdn.weatherapi.com/weather/64x64/day/353.png']",14.5,119,ESE,1005.0,29.68,0.3,0.01,76,93,33.9,10.0,6.0,19.7
+353,Patna,Bihar,India,25.6,85.12,2023-07-22 10:29,Asia/Kolkata,2023-07-22 10:15,33.0,"['Mist', 1030, '//cdn.weatherapi.com/weather/64x64/day/143.png']",9.4,100,E,1005.0,29.68,0.0,0.0,71,50,38.2,4.0,7.0,21.3
+354,Pilibhit,Uttar Pradesh,India,28.63,79.8,2023-07-22 10:29,Asia/Kolkata,2023-07-22 10:15,28.5,"['Light rain shower', 1240, '//cdn.weatherapi.com/weather/64x64/day/353.png']",11.2,81,E,1007.0,29.72,0.7,0.03,82,59,33.8,10.0,6.0,19.0
+355,Chinchwad,Maharashtra,India,18.62,73.78,2023-07-22 10:29,Asia/Kolkata,2023-07-22 10:15,22.0,"['Light drizzle', 1153, '//cdn.weatherapi.com/weather/64x64/day/266.png']",7.6,252,WSW,1008.0,29.76,0.5,0.02,94,100,24.6,2.0,5.0,9.8
+356,Porbandar,Gujarat,India,21.63,69.6,2023-07-22 10:29,Asia/Kolkata,2023-07-22 10:15,27.7,"['Cloudy', 1006, '//cdn.weatherapi.com/weather/64x64/night/119.png']",14.1,262,W,1003.0,29.63,0.0,0.0,84,74,32.4,10.0,1.0,19.5
+357,Port Blair,Andaman and Nicobar Islands,India,11.67,92.75,2023-07-22 10:29,Asia/Kolkata,2023-07-22 10:15,27.6,"['Partly cloudy', 1003, '//cdn.weatherapi.com/weather/64x64/day/116.png']",14.3,252,WSW,1011.0,29.84,0.0,0.0,73,59,30.5,10.0,7.0,18.1
+358,Proddatur,Andhra Pradesh,India,14.73,78.55,2023-07-22 10:29,Asia/Kolkata,2023-07-22 10:15,28.0,"['Light rain', 1183, '//cdn.weatherapi.com/weather/64x64/day/296.png']",12.5,270,W,1006.0,29.71,0.0,0.0,70,75,28.7,6.0,7.0,28.9
+359,Puducherry,Puducherry,India,11.93,79.83,2023-07-22 10:29,Asia/Kolkata,2023-07-22 10:15,32.1,"['Sunny', 1000, '//cdn.weatherapi.com/weather/64x64/day/113.png']",17.0,275,W,1009.0,29.79,0.0,0.0,48,14,34.6,10.0,8.0,20.1
+360,Pudukkottai,Tamil Nadu,India,10.38,78.82,2023-07-22 10:29,Asia/Kolkata,2023-07-22 10:15,33.0,"['Partly cloudy', 1003, '//cdn.weatherapi.com/weather/64x64/day/116.png']",23.0,270,W,1008.0,29.77,0.0,0.0,49,50,33.7,8.0,8.0,13.4
+361,Pune,Maharashtra,India,18.53,73.87,2023-07-22 10:29,Asia/Kolkata,2023-07-22 10:15,22.4,"['Light drizzle', 1153, '//cdn.weatherapi.com/weather/64x64/day/266.png']",8.5,255,WSW,1008.0,29.76,0.4,0.02,92,100,24.8,2.0,5.0,10.3
+362,Puri,Orissa,India,19.8,85.85,2023-07-22 10:29,Asia/Kolkata,2023-07-22 10:15,29.0,"['Mist', 1030, '//cdn.weatherapi.com/weather/64x64/day/143.png']",8.1,110,ESE,1004.0,29.65,0.7,0.03,84,50,34.0,5.0,6.0,19.9
+363,Purnia,Bihar,India,25.78,87.47,2023-07-22 10:29,Asia/Kolkata,2023-07-22 10:15,32.3,"['Light rain shower', 1240, '//cdn.weatherapi.com/weather/64x64/day/353.png']",14.8,97,E,1007.0,29.73,0.5,0.02,66,83,39.7,10.0,7.0,23.0
+364,Puruliya,West Bengal,India,23.33,86.37,2023-07-22 10:29,Asia/Kolkata,2023-07-22 10:15,31.3,"['Light rain shower', 1240, '//cdn.weatherapi.com/weather/64x64/day/353.png']",17.0,108,ESE,1005.0,29.67,0.5,0.02,66,75,37.2,10.0,7.0,26.8
+365,Rae Bareli,Uttar Pradesh,India,26.22,81.23,2023-07-22 10:29,Asia/Kolkata,2023-07-22 10:15,35.7,"['Cloudy', 1006, '//cdn.weatherapi.com/weather/64x64/day/119.png']",17.2,89,E,1004.0,29.64,0.0,0.0,49,73,42.5,10.0,8.0,19.9
+366,Raichur,Karnataka,India,16.2,77.37,2023-07-22 10:29,Asia/Kolkata,2023-07-22 10:15,24.2,"['Partly cloudy', 1003, '//cdn.weatherapi.com/weather/64x64/day/116.png']",15.2,267,W,1008.0,29.76,0.0,0.0,80,50,26.1,10.0,6.0,21.0
+367,Raiganj,West Bengal,India,25.62,88.12,2023-07-22 10:29,Asia/Kolkata,2023-07-22 10:15,32.6,"['Light rain shower', 1240, '//cdn.weatherapi.com/weather/64x64/day/353.png']",15.4,103,ESE,1007.0,29.73,0.6,0.02,63,69,39.4,10.0,7.0,25.3
+368,Raigarh,Chhattisgarh,India,21.9,83.4,2023-07-22 10:29,Asia/Kolkata,2023-07-22 10:15,30.0,"['Light rain shower', 1240, '//cdn.weatherapi.com/weather/64x64/day/353.png']",8.9,134,SE,1003.0,29.62,0.7,0.03,72,65,35.5,10.0,7.0,15.2
+369,Raipur,Chhattisgarh,India,21.23,81.63,2023-07-22 10:29,Asia/Kolkata,2023-07-22 10:15,28.3,"['Overcast', 1009, '//cdn.weatherapi.com/weather/64x64/day/122.png']",6.9,160,SSE,1003.0,29.62,0.0,0.0,75,96,32.2,10.0,6.0,8.1
+370,Rajahmundry,Andhra Pradesh,India,16.98,81.78,2023-07-22 10:29,Asia/Kolkata,2023-07-22 10:15,29.1,"['Overcast', 1009, '//cdn.weatherapi.com/weather/64x64/day/122.png']",13.6,264,W,1005.0,29.68,0.0,0.0,68,100,32.7,10.0,6.0,15.7
+371,Rajapalayam,Tamil Nadu,India,9.45,77.57,2023-07-22 10:29,Asia/Kolkata,2023-07-22 10:15,30.2,"['Sunny', 1000, '//cdn.weatherapi.com/weather/64x64/day/113.png']",10.5,278,W,1011.0,29.86,0.0,0.0,43,24,30.8,10.0,8.0,12.1
+372,Gopalpur,,Bangladesh,22.33,89.1,2023-07-22 10:59,Asia/Dhaka,2023-07-22 10:45,31.3,"['Light rain shower', 1240, '//cdn.weatherapi.com/weather/64x64/day/353.png']",13.2,139,SE,1006.0,29.7,0.3,0.01,72,85,38.8,10.0,7.0,18.1
+373,Rajkot,Gujarat,India,22.3,70.78,2023-07-22 10:29,Asia/Kolkata,2023-07-22 10:15,29.9,"['Patchy rain possible', 1063, '//cdn.weatherapi.com/weather/64x64/day/176.png']",12.1,271,W,1005.0,29.66,0.1,0.0,71,100,35.0,10.0,6.0,15.2
+374,Rajpur,,Bangladesh,24.77,90.3,2023-07-22 10:59,Asia/Dhaka,2023-07-22 10:45,31.6,"['Overcast', 1009, '//cdn.weatherapi.com/weather/64x64/day/122.png']",11.6,121,ESE,1008.0,29.77,0.0,0.0,67,92,38.1,10.0,7.0,13.4
+375,Ramagundam,Johor,Малайзия,1.53,103.67,2023-07-22 12:59,Asia/Kuala_Lumpur,2023-07-22 12:45,32.0,"['Partly cloudy', 1003, '//cdn.weatherapi.com/weather/64x64/day/116.png']",6.9,180,S,1011.0,29.85,1.7,0.07,71,25,42.6,10.0,6.0,13.0
+376,Rampur,Uttar Pradesh,India,28.82,79.03,2023-07-22 10:29,Asia/Kolkata,2023-07-22 10:15,29.4,"['Light rain shower', 1240, '//cdn.weatherapi.com/weather/64x64/day/353.png']",14.5,86,E,1006.0,29.71,0.9,0.04,75,75,34.6,10.0,6.0,25.9
+377,Ranchi,Jharkhand,India,23.35,85.33,2023-07-22 10:29,Asia/Kolkata,2023-07-22 10:15,27.0,"['Mist', 1030, '//cdn.weatherapi.com/weather/64x64/day/143.png']",13.6,110,ESE,1010.0,29.83,0.4,0.02,89,75,30.1,5.0,6.0,23.0
+378,Ranibennur,Karnataka,India,14.62,75.62,2023-07-22 10:29,Asia/Kolkata,2023-07-22 10:15,23.2,"['Patchy rain possible', 1063, '//cdn.weatherapi.com/weather/64x64/day/176.png']",17.9,262,W,1011.0,29.84,0.1,0.0,84,100,25.3,10.0,5.0,22.8
+379,Raniganj,West Bengal,India,23.62,87.13,2023-07-22 10:29,Asia/Kolkata,2023-07-22 10:15,32.4,"['Patchy rain possible', 1063, '//cdn.weatherapi.com/weather/64x64/day/176.png']",15.0,106,ESE,1005.0,29.68,0.1,0.0,63,73,39.1,10.0,7.0,18.3
+380,Ratlam,Madhya Pradesh,India,23.32,75.07,2023-07-22 10:29,Asia/Kolkata,2023-07-22 10:15,26.9,"['Light rain shower', 1240, '//cdn.weatherapi.com/weather/64x64/day/353.png']",8.7,282,WNW,1004.0,29.65,0.3,0.01,86,68,30.8,10.0,6.0,12.3
+381,Ferrobank Industrial Township,Mpumalanga,South Africa,-25.85,29.17,2023-07-22 6:59,Africa/Johannesburg,2023-07-22 06:45,8.4,"['Overcast', 1009, '//cdn.weatherapi.com/weather/64x64/day/122.png']",6.0,338,NNW,1030.0,30.42,0.0,0.0,92,89,6.8,10.0,1.0,6.9
+382,Raurkela,Orissa,India,22.2,84.88,2023-07-22 10:29,Asia/Kolkata,2023-07-22 10:15,30.8,"['Light rain shower', 1240, '//cdn.weatherapi.com/weather/64x64/day/353.png']",7.4,115,ESE,1003.0,29.63,1.0,0.04,70,83,36.9,10.0,7.0,13.6
+383,Rewa,Madhya Pradesh,India,24.53,81.3,2023-07-22 10:29,Asia/Kolkata,2023-07-22 10:15,34.1,"['Partly cloudy', 1003, '//cdn.weatherapi.com/weather/64x64/day/116.png']",15.2,100,E,1003.0,29.61,0.0,0.0,51,46,39.6,10.0,8.0,17.4
+384,Rewari,Haryana,India,28.18,76.62,2023-07-22 10:29,Asia/Kolkata,2023-07-22 10:15,36.1,"['Partly cloudy', 1003, '//cdn.weatherapi.com/weather/64x64/day/116.png']",13.6,131,SE,1003.0,29.62,0.0,0.0,45,46,42.0,10.0,9.0,15.7
+385,Rishra,West Bengal,India,22.71,88.35,2023-07-22 10:29,Asia/Kolkata,2023-07-22 10:15,32.0,"['Moderate or heavy rain with thunder', 1276, '//cdn.weatherapi.com/weather/64x64/day/389.png']",10.5,90,E,1005.0,29.68,0.1,0.0,75,75,38.8,2.8,7.0,17.2
+386,Robertson,Camaguey,Cuba,21.18,-77.55,2023-07-22 0:59,America/Havana,2023-07-22 00:45,26.0,"['Partly cloudy', 1003, '//cdn.weatherapi.com/weather/64x64/night/116.png']",6.9,50,NE,1017.0,30.03,0.0,0.0,94,25,30.1,9.0,1.0,11.6
+387,Rohtak,Haryana,India,28.9,76.57,2023-07-22 10:29,Asia/Kolkata,2023-07-22 10:15,34.2,"['Patchy rain possible', 1063, '//cdn.weatherapi.com/weather/64x64/night/176.png']",7.6,107,ESE,1000.0,29.54,0.1,0.0,49,71,39.1,10.0,1.0,13.4
+388,Roorkee,Uttarakhand,India,29.87,77.88,2023-07-22 10:29,Asia/Kolkata,2023-07-22 10:15,26.9,"['Light rain shower', 1240, '//cdn.weatherapi.com/weather/64x64/day/353.png']",8.3,97,E,1007.0,29.72,0.5,0.02,86,100,30.9,10.0,6.0,12.5
+389,Rudrapur,,Bangladesh,22.37,89.07,2023-07-22 10:59,Asia/Dhaka,2023-07-22 10:45,31.3,"['Light rain shower', 1240, '//cdn.weatherapi.com/weather/64x64/day/353.png']",13.2,139,SE,1006.0,29.7,0.3,0.01,72,85,38.8,10.0,7.0,18.1
+390,S.A.S. Mediouna,Relizane,Algeria,36.12,0.75,2023-07-22 5:59,Africa/Algiers,2023-07-22 05:45,28.0,"['Partly cloudy', 1003, '//cdn.weatherapi.com/weather/64x64/day/116.png']",2.2,10,N,1014.0,29.94,0.0,0.0,20,50,29.0,8.0,1.0,14.1
+391,Sagar,Madhya Pradesh,India,23.83,78.72,2023-07-22 10:29,Asia/Kolkata,2023-07-22 10:15,31.9,"['Sunny', 1000, '//cdn.weatherapi.com/weather/64x64/day/113.png']",14.5,79,E,1003.0,29.6,0.0,0.0,59,23,36.7,10.0,8.0,16.8
+392,Saharanpur,Uttar Pradesh,India,29.97,77.55,2023-07-22 10:29,Asia/Kolkata,2023-07-22 10:15,27.2,"['Light rain shower', 1240, '//cdn.weatherapi.com/weather/64x64/day/353.png']",12.3,101,ESE,1007.0,29.72,0.3,0.01,85,58,31.3,10.0,6.0,17.4
+393,Saharsa,Bihar,India,25.88,86.6,2023-07-22 10:29,Asia/Kolkata,2023-07-22 10:15,33.3,"['Partly cloudy', 1003, '//cdn.weatherapi.com/weather/64x64/day/116.png']",17.7,97,E,1006.0,29.72,0.0,0.0,59,48,40.2,10.0,8.0,20.6
+394,Salem,Tamil Nadu,India,11.65,78.17,2023-07-22 10:29,Asia/Kolkata,2023-07-22 10:15,30.1,"['Partly cloudy', 1003, '//cdn.weatherapi.com/weather/64x64/day/116.png']",10.1,252,WSW,1010.0,29.83,0.0,0.0,49,34,31.6,10.0,8.0,11.6
+395,Sambalpur,Orissa,India,21.45,83.97,2023-07-22 10:29,Asia/Kolkata,2023-07-22 10:15,29.6,"['Cloudy', 1006, '//cdn.weatherapi.com/weather/64x64/day/119.png']",6.7,186,S,1003.0,29.62,0.0,0.0,73,83,34.7,10.0,6.0,7.8
+396,Sambhal,Uttar Pradesh,India,28.58,78.55,2023-07-22 10:29,Asia/Kolkata,2023-07-22 10:15,32.4,"['Light rain shower', 1240, '//cdn.weatherapi.com/weather/64x64/day/353.png']",15.7,101,ESE,1005.0,29.69,0.3,0.01,63,77,38.9,10.0,7.0,21.5
+397,Miraj,Maharashtra,India,16.83,74.63,2023-07-22 10:29,Asia/Kolkata,2023-07-22 10:15,23.0,"['Light rain', 1183, '//cdn.weatherapi.com/weather/64x64/day/296.png']",12.5,250,WSW,1010.0,29.83,0.0,0.0,94,100,25.1,7.0,5.0,20.4
+398,Santipur,,Bangladesh,24.57,88.93,2023-07-22 10:59,Asia/Dhaka,2023-07-22 10:45,30.8,"['Patchy rain possible', 1063, '//cdn.weatherapi.com/weather/64x64/day/176.png']",13.2,107,ESE,1008.0,29.75,0.1,0.0,72,93,37.3,10.0,7.0,16.1
+399,Sasaram,Bihar,India,24.95,84.03,2023-07-22 10:29,Asia/Kolkata,2023-07-22 10:15,34.6,"['Overcast', 1009, '//cdn.weatherapi.com/weather/64x64/day/122.png']",16.3,104,ESE,1004.0,29.63,0.0,0.0,51,96,40.5,10.0,7.0,18.8
+400,Satara,Maharashtra,India,17.68,73.98,2023-07-22 10:29,Asia/Kolkata,2023-07-22 10:15,21.1,"['Light drizzle', 1153, '//cdn.weatherapi.com/weather/64x64/day/266.png']",7.6,256,WSW,1008.0,29.78,0.4,0.02,93,100,21.1,2.0,5.0,11.2
+401,Satna,Madhya Pradesh,India,24.58,80.83,2023-07-22 10:29,Asia/Kolkata,2023-07-22 10:15,33.8,"['Overcast', 1009, '//cdn.weatherapi.com/weather/64x64/day/122.png']",15.4,96,E,1003.0,29.61,0.0,0.0,51,93,38.8,10.0,7.0,17.7
+402,Sawai Madhopur,Rajasthan,India,25.98,76.37,2023-07-22 10:29,Asia/Kolkata,2023-07-22 10:15,32.0,"['Partly cloudy', 1003, '//cdn.weatherapi.com/weather/64x64/night/116.png']",3.8,232,SW,1000.0,29.54,0.0,0.0,60,29,37.4,10.0,1.0,6.9
+403,Secunderabad,Andhra Pradesh,India,17.45,78.5,2023-07-22 10:29,Asia/Kolkata,2023-07-22 10:15,25.0,"['Light rain', 1183, '//cdn.weatherapi.com/weather/64x64/day/296.png']",13.6,260,W,1008.0,29.77,0.0,0.0,83,100,27.2,4.0,5.0,23.3
+404,Sehore,Madhya Pradesh,India,23.2,77.08,2023-07-22 10:29,Asia/Kolkata,2023-07-22 10:15,29.0,"['Partly cloudy', 1003, '//cdn.weatherapi.com/weather/64x64/day/116.png']",5.6,90,E,1005.0,29.68,0.6,0.02,84,75,32.0,6.0,7.0,17.0
+405,Seoni,Madhya Pradesh,India,22.08,79.53,2023-07-22 10:29,Asia/Kolkata,2023-07-22 10:15,27.1,"['Patchy rain possible', 1063, '//cdn.weatherapi.com/weather/64x64/day/176.png']",14.3,105,ESE,1002.0,29.6,0.1,0.0,83,79,30.8,10.0,6.0,17.4
+406,Serampore,West Bengal,India,22.75,88.34,2023-07-22 10:29,Asia/Kolkata,2023-07-22 10:15,32.0,"['Moderate or heavy rain with thunder', 1276, '//cdn.weatherapi.com/weather/64x64/day/389.png']",10.5,90,E,1005.0,29.68,0.0,0.0,75,75,38.6,2.8,7.0,16.6
+407,Shahjahanpur,Uttar Pradesh,India,27.88,79.92,2023-07-22 10:29,Asia/Kolkata,2023-07-22 10:15,34.8,"['Partly cloudy', 1003, '//cdn.weatherapi.com/weather/64x64/day/116.png']",15.4,109,ESE,1005.0,29.67,0.0,0.0,51,29,41.0,10.0,8.0,17.9
+408,Shamli,Uttar Pradesh,India,29.45,77.32,2023-07-22 10:29,Asia/Kolkata,2023-07-22 10:15,29.3,"['Partly cloudy', 1003, '//cdn.weatherapi.com/weather/64x64/day/116.png']",13.4,102,ESE,1006.0,29.7,0.0,0.0,77,50,34.7,10.0,7.0,16.3
+409,Shikohabad,Uttar Pradesh,India,27.1,78.6,2023-07-22 10:29,Asia/Kolkata,2023-07-22 10:15,37.4,"['Sunny', 1000, '//cdn.weatherapi.com/weather/64x64/day/113.png']",13.4,113,ESE,1003.0,29.62,0.0,0.0,42,19,43.6,10.0,9.0,15.4
+410,Shillong,Meghalaya,India,25.58,91.87,2023-07-22 10:29,Asia/Kolkata,2023-07-22 10:15,21.5,"['Light rain shower', 1240, '//cdn.weatherapi.com/weather/64x64/day/353.png']",2.2,57,ENE,1012.0,29.87,0.9,0.04,93,84,21.5,10.0,5.0,3.1
+411,Shimla,Himachal Pradesh,India,31.1,77.17,2023-07-22 10:29,Asia/Kolkata,2023-07-22 10:15,18.4,"['Moderate or heavy rain shower', 1243, '//cdn.weatherapi.com/weather/64x64/day/356.png']",2.9,173,S,1009.0,29.81,4.9,0.19,94,68,18.4,7.0,4.0,6.0
+412,Shimoga,Karnataka,India,13.92,75.57,2023-07-22 10:29,Asia/Kolkata,2023-07-22 10:15,24.3,"['Patchy rain possible', 1063, '//cdn.weatherapi.com/weather/64x64/day/176.png']",16.1,262,W,1011.0,29.86,0.1,0.0,79,100,26.2,10.0,5.0,19.9
+413,Shivpuri,Madhya Pradesh,India,25.43,77.65,2023-07-22 10:29,Asia/Kolkata,2023-07-22 10:15,34.1,"['Sunny', 1000, '//cdn.weatherapi.com/weather/64x64/day/113.png']",11.2,98,E,1003.0,29.62,0.0,0.0,51,21,39.5,10.0,8.0,13.0
+414,Sikar,Rajasthan,India,27.62,75.15,2023-07-22 10:29,Asia/Kolkata,2023-07-22 10:15,35.9,"['Sunny', 1000, '//cdn.weatherapi.com/weather/64x64/day/113.png']",5.4,10,N,1003.0,29.62,0.0,0.0,46,19,41.9,10.0,9.0,6.3
+415,Silchar,Assam,India,24.82,92.8,2023-07-22 10:29,Asia/Kolkata,2023-07-22 10:15,30.6,"['Patchy rain possible', 1063, '//cdn.weatherapi.com/weather/64x64/day/176.png']",3.1,305,NW,1008.0,29.76,0.3,0.01,80,73,38.8,9.0,7.0,4.3
+416,Siliguri,,Nepal,29.27,80.98,2023-07-22 10:44,Asia/Kathmandu,2023-07-22 10:30,22.1,"['Patchy rain possible', 1063, '//cdn.weatherapi.com/weather/64x64/day/176.png']",2.2,356,N,1011.0,29.84,0.4,0.02,80,89,24.6,9.0,5.0,1.8
+417,Singrauli,Madhya Pradesh,Inde,24.2,82.67,2023-07-22 10:29,Asia/Kolkata,2023-07-22 10:15,32.2,"['Partly cloudy', 1003, '//cdn.weatherapi.com/weather/64x64/day/116.png']",14.5,101,ESE,1003.0,29.62,0.0,0.0,56,55,36.7,10.0,8.0,16.8
+418,Sirsa,Haryana,India,29.53,75.02,2023-07-22 10:29,Asia/Kolkata,2023-07-22 10:15,37.3,"['Patchy rain possible', 1063, '//cdn.weatherapi.com/weather/64x64/day/176.png']",12.8,115,ESE,1003.0,29.6,0.1,0.0,43,70,44.0,10.0,8.0,15.2
+419,Sitapur,Uttar Pradesh,India,27.57,80.68,2023-07-22 10:29,Asia/Kolkata,2023-07-22 10:15,34.7,"['Partly cloudy', 1003, '//cdn.weatherapi.com/weather/64x64/day/116.png']",17.0,108,ESE,1005.0,29.67,0.0,0.0,51,40,40.7,10.0,8.0,19.5
+420,Siwan,Bihar,India,26.22,84.37,2023-07-22 10:30,Asia/Kolkata,2023-07-22 10:30,35.2,"['Cloudy', 1006, '//cdn.weatherapi.com/weather/64x64/day/119.png']",20.8,110,ESE,1005.0,29.68,0.0,0.0,50,78,41.5,10.0,8.0,23.9
+421,Solapur,Maharashtra,India,17.68,75.92,2023-07-22 10:30,Asia/Kolkata,2023-07-22 10:30,23.6,"['Patchy rain possible', 1063, '//cdn.weatherapi.com/weather/64x64/day/176.png']",16.8,259,W,1007.0,29.74,0.1,0.0,85,96,25.7,10.0,5.0,21.5
+422,Sonipat,Haryana,India,28.98,77.02,2023-07-22 10:30,Asia/Kolkata,2023-07-22 10:15,32.0,"['Mist', 1030, '//cdn.weatherapi.com/weather/64x64/day/143.png']",9.4,110,ESE,1007.0,29.74,0.0,0.0,75,75,38.4,3.5,8.0,18.1
+423,Dum-Dum,Lac,Chad,13.2,15.38,2023-07-22 6:00,Africa/Ndjamena,2023-07-22 06:00,29.4,"['Sunny', 1000, '//cdn.weatherapi.com/weather/64x64/day/113.png']",6.9,218,SW,1012.0,29.9,0.0,0.0,49,10,30.5,10.0,7.0,11.9
+424,Srikakulam,Andhra Pradesh,India,18.3,83.9,2023-07-22 10:30,Asia/Kolkata,2023-07-22 10:30,30.7,"['Partly cloudy', 1003, '//cdn.weatherapi.com/weather/64x64/day/116.png']",5.6,230,SW,1003.0,29.63,0.0,0.0,66,43,35.7,10.0,8.0,6.7
+425,Srinagar,Jammu and Kashmir,India,34.09,74.8,2023-07-22 10:30,Asia/Kolkata,2023-07-22 10:30,25.1,"['Patchy rain possible', 1063, '//cdn.weatherapi.com/weather/64x64/day/176.png']",3.1,287,WNW,1008.0,29.77,0.9,0.04,72,86,26.8,9.0,6.0,5.6
+426,Sujangarh,Rajasthan,India,27.7,74.47,2023-07-22 10:30,Asia/Kolkata,2023-07-22 10:30,36.3,"['Sunny', 1000, '//cdn.weatherapi.com/weather/64x64/day/113.png']",4.7,344,NNW,1003.0,29.61,0.0,0.0,47,18,43.1,10.0,9.0,5.4
+427,Pur Pur,La Libertad,Peru,-7.71,-77.78,2023-07-22 0:00,America/Lima,2023-07-22 00:00,4.7,"['Clear', 1000, '//cdn.weatherapi.com/weather/64x64/night/113.png']",4.9,101,ESE,1023.0,30.21,0.0,0.0,83,16,2.8,10.0,1.0,10.3
+428,Sultanpur,Uttar Pradesh,India,26.27,82.07,2023-07-22 10:30,Asia/Kolkata,2023-07-22 10:30,34.9,"['Overcast', 1009, '//cdn.weatherapi.com/weather/64x64/day/122.png']",18.3,99,E,1004.0,29.65,0.0,0.0,52,100,41.5,10.0,7.0,21.0
+429,Surat,Gujarat,India,20.97,72.9,2023-07-22 10:30,Asia/Kolkata,2023-07-22 10:30,26.1,"['Light rain shower', 1240, '//cdn.weatherapi.com/weather/64x64/day/353.png']",10.3,235,SW,1005.0,29.68,2.5,0.1,92,97,29.9,10.0,6.0,20.4
+430,Surendranagar,Gujarat,India,22.7,71.68,2023-07-22 10:30,Asia/Kolkata,2023-07-22 10:30,30.5,"['Overcast', 1009, '//cdn.weatherapi.com/weather/64x64/day/122.png']",12.8,284,WNW,1004.0,29.65,0.0,0.0,73,94,36.8,10.0,7.0,15.0
+431,Suryapet,Andhra Pradesh,India,17.15,79.62,2023-07-22 10:30,Asia/Kolkata,2023-07-22 10:30,28.6,"['Overcast', 1009, '//cdn.weatherapi.com/weather/64x64/day/122.png']",18.8,272,W,1005.0,29.68,0.0,0.0,63,93,31.0,10.0,6.0,23.0
+432,Tadepalligudem,Andhra Pradesh,India,16.83,81.5,2023-07-22 10:30,Asia/Kolkata,2023-07-22 10:30,28.1,"['Overcast', 1009, '//cdn.weatherapi.com/weather/64x64/day/122.png']",12.1,263,W,1005.0,29.69,0.0,0.0,71,98,31.2,10.0,6.0,16.3
+433,Tadpatri,Andhra Pradesh,India,14.92,78.02,2023-07-22 10:30,Asia/Kolkata,2023-07-22 10:30,28.8,"['Cloudy', 1006, '//cdn.weatherapi.com/weather/64x64/day/119.png']",24.6,269,W,1008.0,29.76,0.0,0.0,58,75,30.7,10.0,6.0,28.4
+434,Tambaram,Tamil Nadu,India,12.93,80.11,2023-07-22 10:30,Asia/Kolkata,2023-07-22 10:30,32.0,"['Mist', 1030, '//cdn.weatherapi.com/weather/64x64/day/143.png']",15.0,240,WSW,1006.0,29.71,0.0,0.0,63,75,33.5,5.0,8.0,22.4
+435,Tenali,Andhra Pradesh,India,16.25,80.58,2023-07-22 10:30,Asia/Kolkata,2023-07-22 10:30,28.0,"['Overcast', 1009, '//cdn.weatherapi.com/weather/64x64/day/122.png']",5.6,230,SW,1003.0,29.62,0.0,0.0,84,100,28.9,6.0,7.0,18.6
+436,Thanesar,Haryana,India,29.98,76.82,2023-07-22 10:30,Asia/Kolkata,2023-07-22 10:30,28.3,"['Light rain shower', 1240, '//cdn.weatherapi.com/weather/64x64/day/353.png']",15.0,109,ESE,1006.0,29.69,0.4,0.02,80,95,32.9,10.0,6.0,19.9
+437,Thanesar,Haryana,India,29.98,76.82,2023-07-22 10:30,Asia/Kolkata,2023-07-22 10:30,28.3,"['Light rain shower', 1240, '//cdn.weatherapi.com/weather/64x64/day/353.png']",15.0,109,ESE,1006.0,29.69,0.4,0.02,80,95,32.9,10.0,6.0,19.9
+438,Thanjavur,Tamil Nadu,India,10.8,79.15,2023-07-22 10:30,Asia/Kolkata,2023-07-22 10:30,33.0,"['Partly cloudy', 1003, '//cdn.weatherapi.com/weather/64x64/day/116.png']",23.0,270,W,1008.0,29.77,0.0,0.0,49,50,34.5,8.0,8.0,21.0
+439,Thiruvananthapuram,Kerala,India,8.51,76.96,2023-07-22 10:30,Asia/Kolkata,2023-07-22 10:15,31.0,"['Mist', 1030, '//cdn.weatherapi.com/weather/64x64/day/143.png']",9.4,300,WNW,1011.0,29.85,0.2,0.01,79,50,37.0,5.0,6.0,17.0
+440,Thrissur,Kerala,India,10.52,76.22,2023-07-22 10:30,Asia/Kolkata,2023-07-22 10:30,30.0,"['Mist', 1030, '//cdn.weatherapi.com/weather/64x64/day/143.png']",15.0,270,W,1011.0,29.85,0.9,0.04,75,75,38.2,3.5,6.0,13.4
+441,Tiruchirappalli,Tamil Nadu,India,10.81,78.69,2023-07-22 10:30,Asia/Kolkata,2023-07-22 10:30,33.0,"['Partly cloudy', 1003, '//cdn.weatherapi.com/weather/64x64/day/116.png']",23.0,270,W,1008.0,29.77,0.0,0.0,49,50,33.9,8.0,8.0,25.5
+442,Tirunelveli,Tamil Nadu,India,8.73,77.7,2023-07-22 10:30,Asia/Kolkata,2023-07-22 10:30,33.5,"['Sunny', 1000, '//cdn.weatherapi.com/weather/64x64/day/113.png']",17.4,292,WNW,1011.0,29.85,0.0,0.0,34,24,34.1,10.0,8.0,20.1
+443,Tirupati,Andhra Pradesh,India,13.65,79.42,2023-07-22 10:30,Asia/Kolkata,2023-07-22 10:30,32.2,"['Partly cloudy', 1003, '//cdn.weatherapi.com/weather/64x64/day/116.png']",20.4,277,W,1008.0,29.76,0.0,0.0,44,45,34.0,10.0,8.0,23.5
+444,Tiruppur,Tamil Nadu,India,11.1,77.35,2023-07-22 10:30,Asia/Kolkata,2023-07-22 10:30,29.0,"['Partly cloudy', 1003, '//cdn.weatherapi.com/weather/64x64/day/116.png']",8.1,270,W,1011.0,29.85,0.0,0.0,66,50,29.5,6.0,8.0,18.3
+445,Tiruvannamalai,Tamil Nadu,India,12.22,79.07,2023-07-22 10:30,Asia/Kolkata,2023-07-22 10:30,32.1,"['Partly cloudy', 1003, '//cdn.weatherapi.com/weather/64x64/day/116.png']",20.8,274,W,1009.0,29.79,0.0,0.0,42,33,33.4,10.0,8.0,23.9
+446,Tiruvottiyur,Tamil Nadu,India,13.16,80.3,2023-07-22 10:30,Asia/Kolkata,2023-07-22 10:30,32.0,"['Mist', 1030, '//cdn.weatherapi.com/weather/64x64/day/143.png']",15.0,240,WSW,1006.0,29.71,0.0,0.0,63,75,34.6,5.0,8.0,21.5
+447,Titagarh,West Bengal,India,22.74,88.37,2023-07-22 10:30,Asia/Kolkata,2023-07-22 10:30,32.0,"['Moderate or heavy rain with thunder', 1276, '//cdn.weatherapi.com/weather/64x64/day/389.png']",10.5,90,E,1005.0,29.68,0.0,0.0,75,75,38.8,2.8,7.0,16.6
+448,Tonk,Rajasthan,India,26.17,75.78,2023-07-22 10:30,Asia/Kolkata,2023-07-22 10:30,36.2,"['Sunny', 1000, '//cdn.weatherapi.com/weather/64x64/day/113.png']",5.1,23,NNE,1002.0,29.59,0.0,0.0,47,20,42.8,10.0,9.0,5.8
+449,Tumkur,Karnataka,India,13.34,77.1,2023-07-22 10:30,Asia/Kolkata,2023-07-22 10:15,25.5,"['Overcast', 1009, '//cdn.weatherapi.com/weather/64x64/day/122.png']",22.1,270,W,1011.0,29.84,0.0,0.0,59,89,26.6,10.0,6.0,25.5
+450,Udaipur,Rajasthan,India,27.72,75.48,2023-07-22 10:30,Asia/Kolkata,2023-07-22 10:30,36.2,"['Sunny', 1000, '//cdn.weatherapi.com/weather/64x64/day/113.png']",5.4,20,NNE,1003.0,29.61,0.0,0.0,44,24,41.8,10.0,9.0,6.3
+451,Udgir,Maharashtra,India,18.38,77.12,2023-07-22 10:30,Asia/Kolkata,2023-07-22 10:15,22.4,"['Light drizzle', 1153, '//cdn.weatherapi.com/weather/64x64/day/266.png']",17.7,263,W,1006.0,29.7,0.2,0.01,87,100,24.7,2.0,5.0,25.9
+452,Udupi,Karnataka,India,13.35,74.75,2023-07-22 10:30,Asia/Kolkata,2023-07-22 10:15,25.0,"['Light rain', 1183, '//cdn.weatherapi.com/weather/64x64/day/296.png']",6.9,260,W,1011.0,29.85,1.5,0.06,94,100,27.0,5.0,6.0,31.3
+453,Ujjain,Madhya Pradesh,India,23.18,75.77,2023-07-22 10:30,Asia/Kolkata,2023-07-22 10:30,27.0,"['Partly cloudy', 1003, '//cdn.weatherapi.com/weather/64x64/day/116.png']",4.3,10,N,1006.0,29.71,0.5,0.02,84,50,30.1,7.0,6.0,14.5
+454,Ulhasnagar,Maharashtra,India,19.22,73.15,2023-07-22 10:30,Asia/Kolkata,2023-07-22 10:30,26.0,"['Moderate rain at times', 1186, '//cdn.weatherapi.com/weather/64x64/day/299.png']",11.9,290,WNW,1006.0,29.71,1.9,0.07,100,100,30.0,1.5,6.0,11.4
+455,Uluberia,West Bengal,India,22.47,88.11,2023-07-22 10:30,Asia/Kolkata,2023-07-22 10:30,32.0,"['Moderate or heavy rain with thunder', 1276, '//cdn.weatherapi.com/weather/64x64/day/389.png']",10.5,90,E,1005.0,29.68,0.5,0.02,75,75,39.6,2.8,7.0,22.4
+456,Unnao,Uttar Pradesh,India,26.53,80.5,2023-07-22 10:30,Asia/Kolkata,2023-07-22 10:15,31.0,"['Mist', 1030, '//cdn.weatherapi.com/weather/64x64/day/143.png']",11.9,80,E,1005.0,29.68,0.0,0.0,84,75,33.1,5.0,9.0,18.8
+457,Uttarpara,,Bangladesh,25.03,92.02,2023-07-22 11:00,Asia/Dhaka,2023-07-22 11:00,28.1,"['Patchy rain possible', 1063, '//cdn.weatherapi.com/weather/64x64/day/176.png']",4.0,82,E,1008.0,29.77,0.3,0.01,91,87,34.6,9.0,6.0,4.9
+458,Vadodara,Gujarat,India,22.3,73.2,2023-07-22 10:30,Asia/Kolkata,2023-07-22 10:30,27.4,"['Light rain shower', 1240, '//cdn.weatherapi.com/weather/64x64/day/353.png']",7.8,262,W,1004.0,29.65,0.7,0.03,83,100,31.4,10.0,6.0,13.2
+459,Valsad,Gujarat,India,20.63,72.93,2023-07-22 10:30,Asia/Kolkata,2023-07-22 10:30,25.6,"['Moderate or heavy rain shower', 1243, '//cdn.weatherapi.com/weather/64x64/day/356.png']",10.1,229,SW,1005.0,29.68,3.2,0.13,95,100,29.3,7.0,6.0,19.9
+460,Varanasi,Uttar Pradesh,India,25.33,83.0,2023-07-22 10:30,Asia/Kolkata,2023-07-22 10:15,34.7,"['Overcast', 1009, '//cdn.weatherapi.com/weather/64x64/day/122.png']",16.6,99,E,1003.0,29.62,0.0,0.0,50,89,40.5,10.0,7.0,19.2
+461,Virar,Benguela,Angola,-12.57,14.42,2023-07-22 6:00,Africa/Luanda,2023-07-22 06:00,16.8,"['Clear', 1000, '//cdn.weatherapi.com/weather/64x64/night/113.png']",3.1,136,SE,1019.0,30.08,0.0,0.0,39,0,16.8,10.0,1.0,6.5
+462,Vellore,Tamil Nadu,India,12.93,79.13,2023-07-22 10:30,Asia/Kolkata,2023-07-22 10:30,32.5,"['Partly cloudy', 1003, '//cdn.weatherapi.com/weather/64x64/day/116.png']",19.7,273,W,1008.0,29.78,0.0,0.0,41,45,34.0,10.0,8.0,22.6
+463,Veraval,Gujarat,India,20.9,70.37,2023-07-22 10:30,Asia/Kolkata,2023-07-22 10:30,28.4,"['Patchy rain possible', 1063, '//cdn.weatherapi.com/weather/64x64/day/176.png']",12.8,277,W,1005.0,29.68,0.1,0.0,81,52,33.4,10.0,6.0,16.6
+464,Vidisha,Madhya Pradesh,India,23.53,77.82,2023-07-22 10:30,Asia/Kolkata,2023-07-22 10:30,29.0,"['Partly cloudy', 1003, '//cdn.weatherapi.com/weather/64x64/day/116.png']",5.6,90,E,1005.0,29.68,0.0,0.0,84,75,30.8,6.0,8.0,14.3
+465,Vijayawada,Andhra Pradesh,India,16.52,80.62,2023-07-22 10:30,Asia/Kolkata,2023-07-22 10:15,28.0,"['Overcast', 1009, '//cdn.weatherapi.com/weather/64x64/day/122.png']",5.6,230,SW,1003.0,29.62,0.0,0.0,84,100,29.6,6.0,7.0,19.0
+466,Visakhapatnam,Andhra Pradesh,India,17.7,83.3,2023-07-22 10:30,Asia/Kolkata,2023-07-22 10:30,30.8,"['Partly cloudy', 1003, '//cdn.weatherapi.com/weather/64x64/day/116.png']",9.4,225,SW,1003.0,29.63,0.0,0.0,67,39,36.1,10.0,8.0,10.7
+467,Vizianagaram,Andhra Pradesh,India,18.12,83.42,2023-07-22 10:30,Asia/Kolkata,2023-07-22 10:30,31.4,"['Partly cloudy', 1003, '//cdn.weatherapi.com/weather/64x64/day/116.png']",4.7,225,SW,1003.0,29.63,0.0,0.0,61,61,36.0,10.0,8.0,5.4
+468,Warangal,Andhra Pradesh,India,18.0,79.58,2023-07-22 10:30,Asia/Kolkata,2023-07-22 10:30,25.5,"['Overcast', 1009, '//cdn.weatherapi.com/weather/64x64/day/122.png']",14.3,257,WSW,1005.0,29.67,0.0,0.0,78,100,27.7,10.0,6.0,19.5
+469,Wardha,Maharashtra,India,20.75,78.62,2023-07-22 10:30,Asia/Kolkata,2023-07-22 10:30,27.0,"['Light rain', 1183, '//cdn.weatherapi.com/weather/64x64/day/296.png']",3.8,40,NE,1003.0,29.62,1.3,0.05,100,100,31.0,3.0,6.0,11.0
+470,Yamunanagar,Haryana,India,30.1,77.28,2023-07-22 10:30,Asia/Kolkata,2023-07-22 10:15,27.4,"['Light rain shower', 1240, '//cdn.weatherapi.com/weather/64x64/day/353.png']",9.8,92,E,1007.0,29.73,0.3,0.01,84,92,31.6,10.0,6.0,14.1
+471,Yavatmal,Maharashtra,India,20.4,78.13,2023-07-22 10:30,Asia/Kolkata,2023-07-22 10:30,23.5,"['Light rain shower', 1240, '//cdn.weatherapi.com/weather/64x64/day/353.png']",15.4,255,WSW,1003.0,29.6,2.1,0.08,95,100,25.9,10.0,5.0,30.2
