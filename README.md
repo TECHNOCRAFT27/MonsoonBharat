@@ -2,7 +2,7 @@
 
 India-focused climate visualization and GIS weather analysis system built with Python.
 
-![alt text](image/day08.png)
+![day08](image/day08.png)
 
 ---
 
